@@ -1,0 +1,15 @@
+tag the language with <lang> containing attributes xml:lang with the exact same name of the language
+	Ensure that the language names in a page have been proof-read and fixed
+
+tag the words with <gloss> containing attributes of xml:lang pointing to the respective language and attribute of target pointing to the xml:id of the German
+
+tag the German with <term> containing attributes xml:id with the exact same name as the term itself
+	Ensure that all German terms in a page have been proof-read and fixed
+
+Steps :
+
+1. identify, fix (if any), and tag the language
+
+2. identify, fix (if any), and tag the German
+
+3. identify, fix (if any), which gloss refers to a given German; tag this gloss-word according to the language and the German
