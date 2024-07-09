@@ -40,97 +40,100 @@ Generated on 2024-07-09 03:26 GMT
 ## p. 598 (#638) ############################################
 
 598
-Malaienländer
-Singkel
-Banjak-Inseln
-Orang
-Djelma
-Atha
-niha
-Mentawej-Inseln seribenua
-tāba
-tau
-Nias
-Engano
-Gorontalo
-Togean-Inseln
-Wammer
-Wonumbai
-Trangan
-Koor
-Tijoor
-Kei-Inseln
-Watubella
-Mensch
-Goram
-Karufa
-Nufoor
-Andai
-Hattam
-Humboldtbai
-manusiea
-tamatta
-tamatta
-tamatta
-nongbie
-melawa
-manosia
-manusia
-mahri
-snunkaku
-tungmatau
-tungutung
-Mann
-Orang-lakilaki
-Daholin
-Silahé
-iramatua
-temandéju
-fakka-manie
-bangké
-longgai
-lessie
-lessie
-lelefir
-menrana
-djau
-branran
-maranna
-uranna
-mutangki
-snun
-arpeon
-tungutunga
-Frau
-Orang-perampu- Auak
-[an. Anu
-Auah
-Debarru
-Silawé
-iraälāwé
-sinanaleb
-fakka-howdah
-tābua
-wèǎ
-kodar
-kodar
-korkoder
-memviena
-gemum
-watwat
-hilara
-Kind
-wawiena
-maisoida
-bien
-armaan
-sobah
-ono
-toga
-harah
-walao
-ana
-gakwadja
+
+URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=638
+
+<lang xml:lang="Malaienländer">Malaienländer</lang>
+<lang xml:lang="Singkel">Singkel</lang>
+<lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang>
+<gloss xml:lang="Malaienländer" target="Mensch">Orang</gloss>
+<gloss xml:lang="Singkel" target="Mensch">Djelma</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Mensch">Atha</gloss>
+<gloss xml:lang="Nias" target="Mensch">niha</gloss>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang> <gloss xml:lang="Mentawej-Inseln" target="Mensch">seribenūa</gloss>
+<gloss xml:lang="Engano" target="Mensch">tāba</gloss>
+<gloss xml:lang="Gorontalo" target="Mensch">tau</gloss>
+<lang xml:lang="Nias">Nias</lang>
+<lang xml:lang="Engano">Engano</lang>
+<lang xml:lang="Gorontalo">Gorontalo</lang>
+<lang xml:lang="Togean-Inseln">Togean-Inseln</lang>
+<lang xml:lang="Wammer">Wammer</lang>
+<lang xml:lang="Wonumbai">Wonumbai</lang>
+<lang xml:lang="Trangan">Trangan</lang>
+<lang xml:lang="Koor">Koor</lang>
+<lang xml:lang="Tijoor">Tijoor</lang>
+<lang xml:lang="Kei-Inseln">Kei-Inseln</lang>
+<lang xml:lang="Watubella">Watubella</lang>
+<term xml:id="Mensch">Mensch</term>
+<lang xml:lang="Goram">Goram</lang>
+<lang xml:lang="Karufa">Karufa</lang>
+<lang xml:lang="Nufoor">Nufoor</lang>
+<lang xml:lang="Andai">Andai</lang>
+<lang xml:lang="Hattam">Hattam</lang>
+<lang xml:lang="Humboldtbai">Humboldtbai</lang>
+<gloss xml:lang="Togean-Inseln" target="Mensch">manusiea</gloss>
+<gloss xml:lang="Wammer" target="Mensch">tamatta</gloss>
+<gloss xml:lang="Wonumbai" target="Mensch">tamatta</gloss>
+<gloss xml:lang="Trangan" target="Mensch">tamatta</gloss>
+<gloss xml:lang="Koor" target="Mensch">nongbie</gloss>
+<gloss xml:lang="Tijoor" target="Mensch">melāwa</gloss>
+<gloss xml:lang="Watubella" target="Mensch">manosia</gloss>
+<gloss xml:lang="Goram" target="Mensch">manusia</gloss>
+<gloss xml:lang="Karufa" target="Mensch">mahri</gloss>
+<gloss xml:lang="Nufoor" target="Mensch">snunkaku</gloss>
+<gloss xml:lang="Andai" target="Mensch">tungmatau</gloss>
+<gloss xml:lang="Hattam" target="Mensch">tungutung</gloss>
+<term xml:id="Mann">Mann</term>
+<gloss xml:lang="Malaienländer" target="Mann">Orang-lakilaki</gloss>
+<gloss xml:lang="Singkel" target="Mann">Daholin</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Mann">Silahé</gloss>
+<gloss xml:lang="Nias" target="Mann">iramatua</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Mann">temandéju</gloss>
+<gloss xml:lang="Engano" target="Mann">fakka-manie</gloss>
+<gloss xml:lang="Gorontalo" target="Mann">bangké</gloss>
+<gloss xml:lang="Togean-Inseln" target="Mann">longgai</gloss>
+<gloss xml:lang="Wammer" target="Mann">lessie</gloss>
+<gloss xml:lang="Wammer" target="Mann">lessie</gloss>
+<gloss xml:lang="Trangan" target="Mann">lelefir</gloss>
+<gloss xml:lang="Koor" target="Mann">menrana</gloss>
+<gloss xml:lang="Tijoor" target="Mann">djau</gloss>
+<gloss xml:lang="Kei-Inseln" target="Mann">branran</gloss>
+<gloss xml:lang="Watubella" target="Mann">maranna</gloss>
+<gloss xml:lang="Goram" target="Mann">uranna</gloss>
+<gloss xml:lang="Karufa" target="Mann">mutangki</gloss>
+<gloss xml:lang="Nufoor" target="Mann">snun</gloss>
+<gloss xml:lang="Andai" target="Mann">arpeon</gloss>
+<gloss xml:lang="Hattam" target="Mann">tungutunga</gloss>
+<term xml:id="Frau">Frau</term>
+<gloss xml:lang="Malaienländer" target="Frau">Orang-perampuan</gloss> <gloss xml:lang="Malaienländer" target="Kind">Auak</gloss>
+<gloss  xml:lang="Singkel" target = "Kind">Anu</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Kind">Auah</gloss>
+<gloss xml:lang="Singkel" target="Frau">Debarru</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Frau">Silawé</gloss>
+<gloss xml:lang="Nias" target="Frau">iraälāwé</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Frau">sinanaleb</gloss>
+<gloss xml:lang="Engano" target="Frau">fakka-howdah</gloss>
+<gloss xmlːlang="Gorontalo" target="Frau">tābǔǎ</gloss>
+<gloss xml:lang="Togean-Inseln" target="Frau">wèǎ</gloss>
+<gloss xml:lang="Wammer" target="Frau">kodar</gloss>
+<gloss xml:lang="Wonumbai" target="Frau">kodar</gloss>
+<gloss xmlːlang="Trangan" target="Frau">korkoder</gloss>
+<gloss xmlːlang="Koor" target="Frau">memviena</gloss>
+<gloss xmlːlang="Tijoor" target="Frau">gemum</gloss>
+<gloss xmlːlang="Kei-Inseln" target="Frau">watwat</gloss>
+<gloss xml:lang="Watubella" target="Frau">hilara</gloss>
+<term xml:id="Kind">Kind</term>
+<gloss xmlːlang="Goram" target="Frau">wawiena</gloss>
+<gloss xmlːlang="Karufa" target="Frau">maisoida</gloss>
+<gloss xml:lang="Nufoor" target="Frau">bien</gloss>
+<gloss xml:lang="Andai" target="Frau">armaan</gloss>
+<gloss xml:lang="Hattam" target="Frau">sobah</gloss>
+<gloss xml:lang="Nias" target="Kind">ono</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Kind">toga</gloss>
+<gloss xml:lang="Engano" target="Kind">harah</gloss>
+<gloss xml:lang="Gorontalo" target="Kind">walao</gloss>
+<gloss xml:lang="Togean-Inseln" target="Kind">ana</gloss>
+<gloss xml:lang="Wammer" target="Kind">gakwadja</gloss>
 goga
 gaga
 bobobor
@@ -141,7 +144,7 @@ anak
 tameneitu
 romawa
 mongguma.
-Tochter
+<term xml:id="Tochter">Tochter</term>
 Anak-perampuan
 Anu-dibarru
 Ana-silawé
@@ -149,7 +152,7 @@ ono-siramatua ono-alawé
 toga-temandéju toga-sinanaleb
 harah-manie
 harah-howdah
-Sohn
+<term xml:id="Sohn">Sohn</term>
 Auak-lakilaki
 Anu-daholie
 Auah-silahé
