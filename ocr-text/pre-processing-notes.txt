@@ -13,3 +13,16 @@ Steps :
 2. identify, fix (if any), and tag the German
 
 3. identify, fix (if any), which gloss refers to a given German; tag this gloss-word according to the language and the German
+
+
+# Important!
+
+- Use ̌  (@ + 1 + 3) not ̆  (***)
+
+- Always fix diacritics with the Keyman input
+
+- pay attention to the use of colon in the xml:lang attributes (ensure we do not use IPA ː)
+
+- use @change attribute to specify the original source form that is changed inside the <gloss> element (e.g., the word "gakw. kodar" 'daughter'/'Tochter' is abbreviated on "gakw." while for 'son/Sohn', it is spelled out as "gakwad")
+
+- use ~ to indicate repduplication in Malay source form

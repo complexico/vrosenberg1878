@@ -84,7 +84,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=638
 <gloss xml:lang="Andai" target="Mensch">tungmatau</gloss>
 <gloss xml:lang="Hattam" target="Mensch">tungutung</gloss>
 <term xml:id="Mann">Mann</term>
-<gloss xml:lang="Malaienländer" target="Mann">Orang-lakilaki</gloss>
+<gloss xml:lang="Malaienländer" target="Mann" change="Orang-lakilaki">Orang-laki~laki</gloss>
 <gloss xml:lang="Singkel" target="Mann">Daholin</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Mann">Silahé</gloss>
 <gloss xml:lang="Nias" target="Mann">iramatua</gloss>
@@ -106,25 +106,25 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=638
 <gloss xml:lang="Hattam" target="Mann">tungutunga</gloss>
 <term xml:id="Frau">Frau</term>
 <gloss xml:lang="Malaienländer" target="Frau">Orang-perampuan</gloss> <gloss xml:lang="Malaienländer" target="Kind">Auak</gloss>
-<gloss  xml:lang="Singkel" target = "Kind">Anu</gloss>
+<gloss  xml:lang="Singkel" target="Kind">Anu</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Kind">Auah</gloss>
 <gloss xml:lang="Singkel" target="Frau">Debarru</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Frau">Silawé</gloss>
 <gloss xml:lang="Nias" target="Frau">iraälāwé</gloss>
 <gloss xml:lang="Mentawej-Inseln" target="Frau">sinanaleb</gloss>
 <gloss xml:lang="Engano" target="Frau">fakka-howdah</gloss>
-<gloss xmlːlang="Gorontalo" target="Frau">tābǔǎ</gloss>
-<gloss xml:lang="Togean-Inseln" target="Frau">wèǎ</gloss>
+<gloss xml:lang="Gorontalo" target="Frau">tābǔǎ</gloss>
+<gloss xml:lang="Togean-Inseln" target="Frau">wèǎ</gloss>
 <gloss xml:lang="Wammer" target="Frau">kodar</gloss>
 <gloss xml:lang="Wonumbai" target="Frau">kodar</gloss>
-<gloss xmlːlang="Trangan" target="Frau">korkoder</gloss>
-<gloss xmlːlang="Koor" target="Frau">memviena</gloss>
-<gloss xmlːlang="Tijoor" target="Frau">gemum</gloss>
-<gloss xmlːlang="Kei-Inseln" target="Frau">watwat</gloss>
+<gloss xml:lang="Trangan" target="Frau">korkoder</gloss>
+<gloss xml:lang="Koor" target="Frau">memviena</gloss>
+<gloss xml:lang="Tijoor" target="Frau">gemum</gloss>
+<gloss xml:lang="Kei-Inseln" target="Frau">watwat</gloss>
 <gloss xml:lang="Watubella" target="Frau">hilara</gloss>
 <term xml:id="Kind">Kind</term>
-<gloss xmlːlang="Goram" target="Frau">wawiena</gloss>
-<gloss xmlːlang="Karufa" target="Frau">maisoida</gloss>
+<gloss xml:lang="Goram" target="Frau">wawiena</gloss>
+<gloss xml:lang="Karufa" target="Frau">maisoida</gloss>
 <gloss xml:lang="Nufoor" target="Frau">bien</gloss>
 <gloss xml:lang="Andai" target="Frau">armaan</gloss>
 <gloss xml:lang="Hattam" target="Frau">sobah</gloss>
@@ -134,45 +134,45 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=638
 <gloss xml:lang="Gorontalo" target="Kind">walao</gloss>
 <gloss xml:lang="Togean-Inseln" target="Kind">ana</gloss>
 <gloss xml:lang="Wammer" target="Kind">gakwadja</gloss>
-goga
-gaga
-bobobor
-luar
-anan
-onena
-anak
-tameneitu
-romawa
-mongguma.
+<gloss xml:lang="Wonumbai" target="Kind">goga</gloss>
+<gloss xml:lang="Trangan" target="Kind">gaga</gloss>
+<gloss xml:lang="Koor" target="Kind">bobobor</gloss>
+<gloss xml:lang="Tijoor" target="Kind">luar</gloss>
+<gloss xml:lang="Kei-Inseln" target="Kind">anan</gloss>
+<gloss xml:lang="Watubella" target="Kind">onena</gloss>
+<gloss xml:lang="Goram" target="Kind">anak</gloss>
+<gloss xml:lang="Karufa" target="Kind">tameneitu</gloss>
+<gloss xml:lang="Nufoor" target="Kind">romāwa</gloss>
+<gloss xml:lang="Hattam" target="Kind">mongguma</gloss>
 <term xml:id="Tochter">Tochter</term>
-Anak-perampuan
-Anu-dibarru
-Ana-silawé
-ono-siramatua ono-alawé
-toga-temandéju toga-sinanaleb
-harah-manie
-harah-howdah
+<gloss xml:lang="Malaienländer" target="Tochter">Anak-perampuan</gloss>
+<gloss xml:lang="Singkel" target="Tochter">Anu-dibarru</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Tochter">Ana-silawé</gloss>
+<gloss xml:lang="Nias" target="Sohn">ono-siramatua</gloss> <gloss xml:lang="Nias" target="Tochter">ono-alāwé</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Sohn">toga-temandéju</gloss> <gloss xml:lang="Mentawej-Inseln" target="Tochter">toga-sinanaleb</gloss>
+<gloss xml:lang="Engano" target="Sohn">harah-manie</gloss>
+<gloss xml:lang="Engano" target="Tochter">harah-howdah</gloss>
 <term xml:id="Sohn">Sohn</term>
-Auak-lakilaki
-Anu-daholie
-Auah-silahé
-ana-longgai
-gakwad-lessie
-ana-wea
-goga-lessie
-gakw. kodar
-goga-kodar
-gaga-korkoder
-bobobor-menran- bob: memwiena
-gaga-lelefir
-luar-djau
-[na luar gemum
-onena-maranna
-auak-uranna
-rumguhn
-mokoraas
-monggumua
-onena-hilara
-auak-wawiena
-nai
-sobaan
+<gloss xml:lang="Malaienländer" target="Sohn" change="Auak-lakilaki">Auak-laki~laki</gloss>
+<gloss xml:lang="Singkel" target="Sohn">Anu-daholie</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Sohn">Auah-silahé</gloss>
+<gloss xml:lang="Togean-Inseln" target="Sohn">ana-longgai</gloss>
+<gloss xml:lang="Wammer" target="Sohn">gakwad-lessie</gloss>
+<gloss xml:lang="Togean-Inseln" target="Tochter">ana-wèǎ</gloss>
+<gloss xml:lang="Wonumbai" target="Sohn">goga-lessie</gloss>
+<gloss xml:lang="Wammer" target="Tochter" change="gakw. kodar">gakwad kodar</gloss>
+<gloss xml:lang="Wonumbai" target="Tochter">goga-kodar</gloss>
+<gloss xml:lang="Trangan" target="Tochter">gaga-korkoder</gloss>
+<gloss xml:lang="Koor" target="Sohn">bobobor-menranna</gloss> <gloss xml:lang="Koor" target="Tochter" change="bob: memwiena">bobobor memwiena</gloss>
+<gloss xml:lang="Trangan" target="Sohn">gaga-lelefir</gloss>
+<gloss xml:lang="Tijoor" target="Sohn">luar-djau</gloss>
+<gloss xml:lang="Tijoor" target="Tochter">luar gemum</gloss>
+<gloss xml:lang="Watubella" target="Sohn">onena-maranna</gloss>
+<gloss xml:lang="Goram" target="Sohn">auak-uranna</gloss>
+<gloss xml:lang="Nufoor" target="Sohn">rumguhn</gloss>
+<gloss xml:lang="Andai" target="Sohn">mokoraas</gloss>
+<gloss xml:lang="Hattam" target="Sohn">monggumua</gloss>
+<gloss xml:lang="Watubella" target="Tochter">onena-hilara</gloss>
+<gloss xml:lang="Goram" target="Tochter">auak-wawiena</gloss>
+<gloss xml:lang="Nufoor" target="Tochter">nai</gloss>
+<gloss xml:lang="Hattam" target="Tochter">sobaan</gloss>
