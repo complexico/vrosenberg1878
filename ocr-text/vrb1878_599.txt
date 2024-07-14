@@ -41,135 +41,138 @@ Generated on 2024-07-09 03:34 GMT
 
 599
 1
-Malaienländer
-Singkel
-Banjak-Inseln
-Nias
-Engano
-Gorontalo
-Togean-Inseln
-Wammer
-Wonumbai
-Trangan
-Koor
-Tijoor
-Kei-Inseln
-Watubella
-Vater
-ama
-Mentawej-Inseln okui
-amah
-mopaätto
-Goram
-Karufa
-Nufoor
-Andai
-Hattam
-Humboldtbai
-Pai
-Haka
-Uau
-awang
-awu
-amei
-tata
-jamad
-jai
-baza
-kamahri
-suari
-detjija
-Mutter
-Mai
-Jnanga
-Nenne
-ina
-kmaman
-kabea
-nahea
-djinang
-adjiena
-djienne
-inan
-renan
-nina
-nina
-maikri
-demiehm
-narmemma
-Bruder
-Sudara-lakilaki
-Seninna-daholie
-Agie-silahé
-talifusso
-kebu
-farah-manie
-utato
-aingo-longgai
-kakang-lessi
-abula
-karmari-lelefie
-medar
-warahno
-Schwester
-Kopf
-Takal
-Sudara-prampuan Kapala
-Seninna-dibarru
-Agie-silawé
-talifusso-alawé
-Ulu
-hohgo
-uté
-ulu
-dejaai
-dekangmaan
-nèkowoaan
-bagie
-farah-howdah
-utatabua
-aingo-wèǎ
-kakang-kodar
-karmari
-karm: korkodor
-melak
-nogurogu-urana nogur. wawiena
-lunggongo
-Woo
-sraar
-gulditabarri
-guling
-gultabbar
-un
-alu
-ilunin
-umuh
-rwuri
-dekangmamrmaan kapruapien
-unkamaan
-debonggawa
-wehrei
-ulun
-duru
-Haar.
-Rambut
-Book
-Во
-bu
-alei
-puru-ulu
-fuwoö
-wuiua
-fuku
-fuku
-fuku
-olintawen
-laht
-maurut
-wua
-wu
-umuh-ulu
-buraim
-kapongua
-ibontha
-gemuroh
+
+URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=639
+
+<lang xml:lang="Malaienländer">Malaienländer</lang>
+<lang xml:lang="Singkel">Singkel</lang>
+<lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang>
+<lang xml:lang="Nias">Nias</lang>
+<lang xml:lang="Engano">Engano</lang>
+<lang xml:lang="Gorontalo">Gorontalo</lang>
+<lang xml:lang="Togean-Inseln">Togean-Inseln</lang>
+<lang xml:lang="Wammer">Wammer</lang>
+<lang xml:lang="Wonumbai">Wonumbai</lang>
+<lang xml:lang="Trangan">Trangan</lang>
+<lang xml:lang="Koor">Koor</lang>
+<lang xml:lang="Tijoor">Tijoor</lang>
+<lang xml:lang="Kei-Inseln">Kei-Inseln</lang>
+<lang xml:lang="Watubella">Watubella</lang>
+<term xml:id="Vater">Vater</term>
+<gloss xml:lang="Nias" target="Vater">amä</gloss>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang> <gloss xml:lang="Mentawej-Inseln" target="Vater">okui</gloss>
+<gloss xml:lang="Engano" target="Vater">amah</gloss>
+<gloss xml:lang="Gorontalo" target="Vater">mopaätto</gloss>
+<lang xml:lang="Goram">Goram</lang>
+<lang xml:lang="Karufa">Karufa</lang>
+<lang xml:lang="Nufoor">Nufoor</lang>
+<lang xml:lang="Andai">Andai</lang>
+<lang xml:lang="Hattam">Hattam</lang>
+<lang xml:lang="Humboldtbai">Humboldtbai</lang>
+<gloss xml:lang="Malaienländer" target="Vater">Pai</gloss>
+<gloss xml:lang="Singkel" target="Vater">Haka</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Vater">Uau</gloss>
+<gloss xml:lang="Wammer" target="Vater">awang</gloss>
+<gloss xml:lang="Wonumbai" target="Vater">awu</gloss>
+<gloss xml:lang="Trangan" target="Vater">amei</gloss>
+<gloss xml:lang="Koor" target="Vater">tata</gloss>
+<gloss xml:lang="Kei-Inseln" target="Vater">jamad</gloss>
+<gloss xml:lang="Watubella" target="Vater">jai</gloss>
+<gloss xml:lang="Goram" target="Vater">baza</gloss>
+<gloss xml:lang="Nufoor" target="Vater">kamahri</gloss>
+<gloss xml:lang="Andai" target="Vater">suari</gloss>
+<gloss xml:lang="Hattam" target="Vater">detjija</gloss>
+<term xml:id="Mutter">Mutter</term>
+<gloss xml:lang="Malaienländer" target="Mutter">Mai</gloss>
+<gloss xml:lang="Singkel" target="Mutter">Jnanga</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Mutter">Nenne</gloss>
+<gloss xml:lang="Nias" target="Mutter">ina</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Mutter">kmaman</gloss>
+<gloss xml:lang="Engano" target="Mutter">kabea</gloss>
+<gloss xml:lang="Gorontalo" target="Mutter">nahea</gloss>
+<gloss xml:lang="Wammer" target="Mutter">djinang</gloss>
+<gloss xml:lang="Wonumbai" target="Mutter">adjiena</gloss>
+<gloss xml:lang="Trangan" target="Mutter">djienne</gloss>
+<gloss xml:lang="Koor" target="Mutter">inan</gloss>
+<gloss xml:lang="Kei-Inseln" target="Mutter">renan</gloss>
+<gloss xml:lang="Watubella" target="Mutter">nina</gloss>
+<gloss xml:lang="Goram" target="Mutter">nina</gloss>
+<gloss xml:lang="Nufoor" target="Mutter">maikri</gloss>
+<gloss xml:lang="Andai" target="Mutter">demiehm</gloss>
+<gloss xml:lang="Hattam" target="Mutter">narmemma</gloss>
+<term xml:id="Bruder">Bruder</term>
+<gloss xml:lang="Malaienländer" target="Bruder" change="Sudara-laki~laki">Sudara-lakilaki</gloss>
+<gloss xml:lang="Singkel" target="Bruder">Seninna-daholie</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Bruder">Agie-silahé</gloss>
+<gloss xml:lang="Nias" target="Bruder">talifusso</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Bruder">kebu</gloss>
+<gloss xml:lang="Engano" target="Bruder">farah-manie</gloss>
+<gloss xml:lang="Gorontalo" target="Bruder">utato</gloss>
+<gloss xml:lang="Tongean-Inseln" target="Bruder">aingo-longgai</gloss>
+<gloss xml:lang="Wammer" target="Bruder">kakang-lessi</gloss>
+<gloss xml:lang="Wonumbai" target="Bruder">abula</gloss>
+<gloss xml:lang="Trangan" target="Bruder">karmari-lelefie</gloss>
+<gloss xml:lang="Tijoor" target="Bruder">medar</gloss>
+<gloss xml:lang="Kei-Inseln" target="Bruder">warahno</gloss>
+<term xml:id="Schwester">Schwester</term>
+<term xml:id="Kopf">Kopf</term>
+<gloss xml:lang="Singkel" target="Kopf">Takal</gloss>
+<gloss xml:lang="Malaienländer" target="Schwester">Sudara-prampuan</gloss> <gloss xml:lang="Malaienländer" target="Kopf">Kapala</gloss>
+<gloss xml:lang="Singkel" target="Schwester">Seninna-dibarru</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Schwester">Agie-silawé</gloss>
+<gloss xml:lang="Nias" target="Schwester">talifusso-alawé</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Kopf">Ulu</gloss>
+<gloss xml:lang="Nias" target="Kopf">hohgo</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Kopf">uté</gloss>
+<gloss xml:lang="Engano" target="Kopf">ulu</gloss>
+<gloss xml:lang="Nufoor" target="Bruder">dejaai</gloss>
+<gloss xml:lang="Andai" target="Bruder">dekangmaan</gloss>
+<gloss xml:lang="Hattam" target="Bruder">nèkowoaan</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Schwester">bagie</gloss>
+<gloss xml:lang="Engano" target="Schwester">farah-howdah</gloss>
+<gloss xml:lang="Gorontalo" target="Schwester">utatabua</gloss>
+<gloss xml:lang="Tongean-Inseln" target="Schwester">aingo-wèǎ</gloss>
+<gloss xml:lang="Wammer" target="Schwester">kakang-kodar</gloss>
+<gloss xml:lang="Wonumbai" target="Schwester">karmari</gloss>
+<gloss xml:lang="Trangan" target="Schwester">karm: korkodor</gloss>
+<gloss xml:lang="Tijoor" target="Schwester">melak</gloss>
+<gloss xml:lang="Goram" target="Bruder">nogurogu-urana</gloss> <gloss xml:lang="Goram" target="Schwester">nogur. wawiena</gloss>
+<gloss xml:lang="Gorontalo" target="Kopf">lunggongo</gloss>
+<gloss xml:lang="Tongean-Inseln" target="Kopf">woö</gloss>
+<gloss xml:lang="Nufoor" target="Schwester">sraar</gloss>
+<gloss xml:lang="Wammer" target="Kopf">gulditabarri</gloss>
+<gloss xml:lang="Wonumbai" target="Kopf">guling</gloss>
+<gloss xml:lang="Trangan" target="Kopf">gultabbar</gloss>
+<gloss xml:lang="Kei-Inseln" target="Kopf">un</gloss>
+<gloss xml:lang="Watubella" target="Kopf">alu</gloss>
+<gloss xml:lang="Goram" target="Kopf">ilunin</gloss>
+<gloss xml:lang="Karufa" target="Kopf">umuh</gloss>
+<gloss xml:lang="Nufoor" target="Kopf">rwuri</gloss>
+<gloss xml:lang="Andai" target="Schwester">dekangmamrmaan</gloss> <gloss xml:lang="Andai" target="Kopf">kapruapien</gloss>
+<gloss xml:lang="Hattam" target="Schwester">unkamaan</gloss>
+<gloss xml:lang="Hattam" target="Kopf">debonggawa</gloss>
+<gloss xml:lang="Humboldtbai" target="Kopf">wehrei</gloss>
+<gloss xml:lang="Koor" target="Kopf">ulun</gloss>
+<gloss xml:lang="Tijoor" target="Kopf">duru</gloss>
+<term xml:id="Haar">Haar</term>.
+<gloss xml:lang="Malaienländer" target="Haar">Rambut</gloss>
+<gloss xml:lang="Singkel" target="Haar">Book</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Haar">Bo</gloss>
+<gloss xml:lang="Nias" target="Haar">bu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Haar">alei</gloss>
+<gloss xml:lang="Engano" target="Haar">puru-ulu</gloss>
+<gloss xml:lang="Gorontalo" target="Haar">fuwoö</gloss>
+<gloss xml:lang="Tongean-Inseln" target="Haar">wuiua</gloss>
+<gloss xml:lang="Wammer" target="Haar">fuku</gloss>
+<gloss xml:lang="Wonumbai" target="Haar">fuku</gloss>
+<gloss xml:lang="Trangan" target="Haar">fuku</gloss>
+<gloss xml:lang="Koor" target="Haar">olintawen</gloss>
+<gloss xml:lang="Tijoor" target="Haar">laht</gloss>
+<gloss xml:lang="Kei-Inseln" target="Haar">maurut</gloss>
+<gloss xml:lang="Watubella" target="Haar">wua</gloss>
+<gloss xml:lang="Goram" target="Haar">wu</gloss>
+<gloss xml:lang="Karufa" target="Haar">umuh-ulu</gloss>
+<gloss xml:lang="Nufoor" target="Haar">buraim</gloss>
+<gloss xml:lang="Andai" target="Haar">kapongua</gloss>
+<gloss xml:lang="Hattam" target="Haar">ibontha</gloss>
+<gloss xml:lang="Humboldtbai" target="Haar">gemuroh</gloss>

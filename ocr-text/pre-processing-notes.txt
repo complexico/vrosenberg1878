@@ -26,3 +26,22 @@ Steps :
 - use @change attribute to specify the original source form that is changed inside the <gloss> element (e.g., the word "gakw. kodar" 'daughter'/'Tochter' is abbreviated on "gakw." while for 'son/Sohn', it is spelled out as "gakwad")
 
 - use ~ to indicate repduplication in Malay source form
+
+- search for language
+
+    - S: \b(Malaienl.+?|Singkel|Banjak-Inseln|Nias|Mentawej-Inseln|Engano|Gorontalo|Togean-Inseln|Wammer|Wonumbai|Trangan|Koor|Tijoor|Kei-Inseln|Watubella|Goram|Karufa|Nufoor|Andai|Hattam|Humboldtbai)\b
+    - R: <lang xml:lang="\1">\1</lang>
+
+- search for the term/German:
+
+    - S: page-dependent: \b(...)\b
+
+    - R: <term xml:id="\1">\1</term>
+
+- search for the form:
+
+    - S: \b(...)\b
+
+    - R: <gloss xml:lang="" target="">\1</gloss> OR
+
+    - R: <gloss xml:lang="" target="" change="">\1</gloss>
