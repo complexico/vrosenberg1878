@@ -44,14 +44,14 @@ Generated on 2024-07-09 03:36 GMT
 URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=640
 
 <term xml:id="Auge">Auge</term>
-<gloss xml:lang="Malaienländer" target="Auge">Mata</gloss>
-<lang xml:lang="Malaienländer">Malaienländer</lang>
+<gloss xml:lang="Malaienländer" target="Auge">Mata</gloss>
+<lang xml:lang="Malaienländer">Malaienländer</lang>
 <lang xml:lang="Singkel">Singkel</lang>
 <gloss xml:lang="Singkel" target="Auge">Mata</gloss>
 <lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang> <gloss xml:lang="Banjak-Inseln" target="Auge">Mata</gloss>
 <lang xml:lang="Nias">Nias</lang>
 <gloss xml:lang="Nias" target="Auge">hohro</gloss>
-<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang> <gloss xml:lang="Togean-Inseln" target="Auge">mata</gloss>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang> <gloss xml:lang="Mentawej-Inseln" target="Auge">mata</gloss>
 <lang xml:lang="Engano">Engano</lang>
 <lang xml:lang="Gorontalo">Gorontalo</lang>
 <gloss xml:lang="Engano" target="Auge">bahka</gloss>
@@ -64,7 +64,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=640
 <lang xml:lang="Trangan">Trangan</lang>
 <lang xml:lang="Koor">Koor</lang>
 <lang xml:lang="Tijoor">Tijoor</lang>
-<lang xml:lang="Kei-inseln">Kei-inseln</lang>
+<lang xml:lang="Kei-Inseln">Kei-Inseln</lang>
 <lang xml:lang="Watubella">Watubella</lang>
 <lang xml:lang="Goram">Goram</lang>
 <lang xml:lang="Karufa">Karufa</lang>
@@ -84,7 +84,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=640
 <gloss xml:lang="Hattam" target="Auge">jimana</gloss>
 <gloss xml:lang="Humboldtbai" target="Auge">wendu</gloss>
 <term xml:id="Nase">Nase</term>
-<gloss xml:lang="Malaienländer" target="Nase">Hidung</gloss>
+<gloss xml:lang="Malaienländer" target="Nase">Hidung</gloss>
 <gloss xml:lang="Singkel" target="Nase">Igung</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Nase">Egong</gloss>
 <gloss xml:lang="Nias" target="Nase">ichu</gloss>
@@ -105,7 +105,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=640
 <gloss xml:lang="Hattam" target="Nase">njauwǎwaab</gloss>
 <gloss xml:lang="Humboldtbai" target="Nase">sugah</gloss>
 <term xml:id="Mund">Mund</term>
-<gloss xml:lang="Malaienländer" target="Mund">Mulut</gloss>
+<gloss xml:lang="Malaienländer" target="Mund">Mulut</gloss>
 <gloss xml:lang="Singkel" target="Mund">Bava</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Mund">Bahba</gloss>
 <gloss xml:lang="Nias" target="Mund">baba</gloss>
@@ -127,7 +127,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=640
 <gloss xml:lang="Hattam" target="Mund">njauwǎwǎ</gloss>
 <gloss xml:lang="Humboldtbai" target="Mund">sumba</gloss>
 <term xml:id="Ohr">Ohr</term>
-<gloss xml:lang="Malaienländer" target="Ohr">Kuping</gloss>
+<gloss xml:lang="Malaienländer" target="Ohr">Kuping</gloss>
 <gloss xml:lang="Singkel" target="Ohr">Tsopping</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Ohr">Telinga</gloss>
 <gloss xml:lang="Nias" target="Ohr">talinga</gloss>
@@ -149,7 +149,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=640
 <gloss xml:lang="Humboldtbai" target="Ohr">tienè</gloss>
 <term xml:id="Hand">Hand</term>
 <gloss xml:lang="Singkel" target="Hand">Tangan</gloss>
-<gloss xml:lang="Malaienländer" target="Hand">Tangan</gloss>
+<gloss xml:lang="Malaienländer" target="Hand">Tangan</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Hand">Gau</gloss>
 <gloss xml:lang="Nias" target="Hand">tetetanga</gloss>
 <gloss xml:lang="Mentawej-Inseln" target="Hand">kabei</gloss>
@@ -170,7 +170,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=640
 <gloss xml:lang="Humboldtbai" target="Hand">eijé-fugé</gloss>
 <term xml:id="Finger">Finger</term>
 <gloss xml:lang="Singkel" target="Finger">Djahrie</gloss>
-<gloss xml:lang="Malaienländer" target="Finger">Djahrie</gloss>
+<gloss xml:lang="Malaienländer" target="Finger">Djahrie</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Finger">Gau-anangan</gloss>
 <gloss xml:lang="Nias" target="Finger">tutuhru</gloss>
 <gloss xml:lang="Engano" target="Finger">minu-afa</gloss>

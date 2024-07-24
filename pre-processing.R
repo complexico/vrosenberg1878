@@ -2,7 +2,7 @@ library(tidyverse)
 
 vrfiles <- dir("ocr-text", pattern = "^vrb", full.names = TRUE)
 
-inpfiles <- grep("598\\.txt", vrfiles, perl = TRUE, value = TRUE)
+inpfiles <- grep("(598|599|600)\\.txt", vrfiles, perl = TRUE, value = TRUE)
 inpfiles
 
 
@@ -17,6 +17,7 @@ txt <- txt |>
 # process the languages ====
 lang <- str_subset(txt, "\\<lang") |> 
   str_extract("(?<=\\>)[^<]+?(?=\\<\\/lang\\>)") |> 
+  unique() |> 
   (\(x) tibble(lang = x))() |> 
   mutate(ID = row_number())
 lang
@@ -44,7 +45,7 @@ lang_grp <- tribble(~ID, ~Group,
                     21, "Neuguinea")
 
 lang <- lang |> left_join(lang_grp)
-lang_vct <- lang$lang
+lang_vct <- unique(lang$lang)
 
 # extract elements into tibble ====
 lang_term_gloss <- str_subset(txt, "\\<gloss\\b") |> 

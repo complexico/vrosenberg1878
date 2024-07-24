@@ -17,7 +17,7 @@ Steps :
 
 # Important!
 
-- Use ̌  (@ + 1 + 3) not ̆  (***)
+- Use ̌  (i.e., @ + 1 + 3) not ̆  (***)
 
 - Always fix diacritics with the Keyman input
 
@@ -38,10 +38,12 @@ Steps :
 
     - R: <term xml:id="\1">\1</term>
 
-- search for the form:
+- (alternative 1) search for the form:
 
     - S: \b(...)\b
 
     - R: <gloss xml:lang="" target="">\1</gloss> OR
 
     - R: <gloss xml:lang="" target="" change="">\1</gloss>
+
+- (alternative 2: better ?) search for the form WITH LANGUAGE CONSTANT

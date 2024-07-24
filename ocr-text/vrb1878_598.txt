@@ -43,10 +43,10 @@ Generated on 2024-07-09 03:26 GMT
 
 URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=638
 
-<lang xml:lang="Malaienländer">Malaienländer</lang>
+<lang xml:lang="Malaienländer">Malaienländer</lang>
 <lang xml:lang="Singkel">Singkel</lang>
 <lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang>
-<gloss xml:lang="Malaienländer" target="Mensch">Orang</gloss>
+<gloss xml:lang="Malaienländer" target="Mensch">Orang</gloss>
 <gloss xml:lang="Singkel" target="Mensch">Djelma</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Mensch">Atha</gloss>
 <gloss xml:lang="Nias" target="Mensch">niha</gloss>
@@ -84,7 +84,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=638
 <gloss xml:lang="Andai" target="Mensch">tungmatau</gloss>
 <gloss xml:lang="Hattam" target="Mensch">tungutung</gloss>
 <term xml:id="Mann">Mann</term>
-<gloss xml:lang="Malaienländer" target="Mann" change="Orang-lakilaki">Orang-laki~laki</gloss>
+<gloss xml:lang="Malaienländer" target="Mann" change="Orang-lakilaki">Orang-laki~laki</gloss>
 <gloss xml:lang="Singkel" target="Mann">Daholin</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Mann">Silahé</gloss>
 <gloss xml:lang="Nias" target="Mann">iramatua</gloss>
@@ -105,7 +105,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=638
 <gloss xml:lang="Andai" target="Mann">arpeon</gloss>
 <gloss xml:lang="Hattam" target="Mann">tungutunga</gloss>
 <term xml:id="Frau">Frau</term>
-<gloss xml:lang="Malaienländer" target="Frau">Orang-perampuan</gloss> <gloss xml:lang="Malaienländer" target="Kind">Auak</gloss>
+<gloss xml:lang="Malaienländer" target="Frau">Orang-perampuan</gloss> <gloss xml:lang="Malaienländer" target="Kind">Auak</gloss>
 <gloss  xml:lang="Singkel" target="Kind">Anu</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Kind">Auah</gloss>
 <gloss xml:lang="Singkel" target="Frau">Debarru</gloss>
@@ -145,7 +145,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=638
 <gloss xml:lang="Nufoor" target="Kind">romāwa</gloss>
 <gloss xml:lang="Hattam" target="Kind">mongguma</gloss>
 <term xml:id="Tochter">Tochter</term>
-<gloss xml:lang="Malaienländer" target="Tochter">Anak-perampuan</gloss>
+<gloss xml:lang="Malaienländer" target="Tochter">Anak-perampuan</gloss>
 <gloss xml:lang="Singkel" target="Tochter">Anu-dibarru</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Tochter">Ana-silawé</gloss>
 <gloss xml:lang="Nias" target="Sohn">ono-siramatua</gloss> <gloss xml:lang="Nias" target="Tochter">ono-alāwé</gloss>
@@ -153,7 +153,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=638
 <gloss xml:lang="Engano" target="Sohn">harah-manie</gloss>
 <gloss xml:lang="Engano" target="Tochter">harah-howdah</gloss>
 <term xml:id="Sohn">Sohn</term>
-<gloss xml:lang="Malaienländer" target="Sohn" change="Auak-lakilaki">Auak-laki~laki</gloss>
+<gloss xml:lang="Malaienländer" target="Sohn" change="Auak-lakilaki">Auak-laki~laki</gloss>
 <gloss xml:lang="Singkel" target="Sohn">Anu-daholie</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Sohn">Auah-silahé</gloss>
 <gloss xml:lang="Togean-Inseln" target="Sohn">ana-longgai</gloss>
