@@ -40,141 +40,144 @@ Generated on 2024-07-09 03:36 GMT
 ## p. 600 (#640) ############################################
 
 600
-Auge
-Mata
-Malaienländer
-Singkel
-Mata
-Banjak-Inseln Mata
-Nias
-hohro
-Mentawej-Inseln mata
-Engano
-Gorontalo
-bahka
-mato
-Togean-Inseln
-mata
-Wammer
-mata
-Wonumbai
-Trangan
-Koor
-Tijoor
-Kelinseln
-Watubella
-Goram
-Karufa
-Nufoor
-Andai
-Hattam
-Humboldtbai
-matang
-mata
-matan
-jau
-mata
-matanin
-mata
-mgasi
-akuhwo
-jimana
-wendu
-Nase
-Hidung
-Igung
-Egong
-ichu
-fanoh
-ulingo
-ingu
-tjurrin
-tjurun
-tjurun
-melin
-gangar
-nierun
-huèdda
-ischonin
-sikai
-snori
-akwaueb
-njauwǎwaab
-sugah
-Mund
-Mulut
-Bava
-Bahba
-baba
-ngungu
-oku
-tunggielo
-wiewie
-fafei
-wanrang
-fafei
-huar
-temar
-ngoên
-hulieda
-ilohinn
-uhru
-swari
-asautiam
-njauwǎwǎ
-sumba
-Ohr
-Kuping
-Tsopping
-Telinga
-talinga
-gigie
-kalila
-kulonga
-takar
-takar
-takar
-karong
-tatiewǎt
-arun
-tingago
-telinganin
-taringa
-knasi
-akoroon
-tenenggova
-tienè
-Hand
-Tangan
-Tangan
-Gau
-tetetanga
-kabei
-afa
-paládu
-palè
-limeidi
-limang
-limei
-liman
-prè
-limat
-imahnin
-nimangouta
-rwasi
-amau
-indappadjua
-eijé-fugé
-Finger
-Djahrie
-Djahrie
-Gau-anangan
-tutuhru
-minu-afa
-tungongoao-lulu
-kew.
-tjerok
-wapiesi
-amau-buëb
-indappadung
-waja-fugé
+
+URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=640
+
+<term xml:id="Auge">Auge</term>
+<gloss xml:lang="Malaienländer" target="Auge">Mata</gloss>
+<lang xml:lang="Malaienländer">Malaienländer</lang>
+<lang xml:lang="Singkel">Singkel</lang>
+<gloss xml:lang="Singkel" target="Auge">Mata</gloss>
+<lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang> <gloss xml:lang="Banjak-Inseln" target="Auge">Mata</gloss>
+<lang xml:lang="Nias">Nias</lang>
+<gloss xml:lang="Nias" target="Auge">hohro</gloss>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang> <gloss xml:lang="Togean-Inseln" target="Auge">mata</gloss>
+<lang xml:lang="Engano">Engano</lang>
+<lang xml:lang="Gorontalo">Gorontalo</lang>
+<gloss xml:lang="Engano" target="Auge">bahka</gloss>
+<gloss xml:lang="Togean-Inseln" target="Auge">mata</gloss>
+<lang xml:lang="Togean-Inseln">Togean-Inseln</lang>
+<gloss xml:lang="Wammer" target="Auge">mata</gloss>
+<lang xml:lang="Wammer">Wammer</lang>
+<gloss xml:lang="Gorontalo" target="Auge">mato</gloss>
+<lang xml:lang="Wonumbai">Wonumbai</lang>
+<lang xml:lang="Trangan">Trangan</lang>
+<lang xml:lang="Koor">Koor</lang>
+<lang xml:lang="Tijoor">Tijoor</lang>
+<lang xml:lang="Kei-inseln">Kei-inseln</lang>
+<lang xml:lang="Watubella">Watubella</lang>
+<lang xml:lang="Goram">Goram</lang>
+<lang xml:lang="Karufa">Karufa</lang>
+<lang xml:lang="Nufoor">Nufoor</lang>
+<lang xml:lang="Andai">Andai</lang>
+<lang xml:lang="Hattam">Hattam</lang>
+<lang xml:lang="Humboldtbai">Humboldtbai</lang>
+<gloss xml:lang="Wonumbai" target="Auge">matang</gloss>
+<gloss xml:lang="Trangan" target="Auge">mata</gloss>
+<gloss xml:lang="Koor" target="Auge">matan</gloss>
+<gloss xml:lang="Tijoor" target="Auge">jau</gloss>
+<gloss xml:lang="Watubella" target="Auge">mata</gloss>
+<gloss xml:lang="Goram" target="Auge">matanin</gloss>
+<gloss xml:lang="Karufa" target="Auge">mata</gloss>
+<gloss xml:lang="Nufoor" target="Auge">mgasi</gloss>
+<gloss xml:lang="Andai" target="Auge">akuhwo</gloss>
+<gloss xml:lang="Hattam" target="Auge">jimana</gloss>
+<gloss xml:lang="Humboldtbai" target="Auge">wendu</gloss>
+<term xml:id="Nase">Nase</term>
+<gloss xml:lang="Malaienländer" target="Nase">Hidung</gloss>
+<gloss xml:lang="Singkel" target="Nase">Igung</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Nase">Egong</gloss>
+<gloss xml:lang="Nias" target="Nase">ichu</gloss>
+<gloss xml:lang="Engano" target="Nase">fanoh</gloss>
+<gloss xml:lang="Gorontalo" target="Nase">ulingo</gloss>
+<gloss xml:lang="Togean-Inseln" target="Nase">ingu</gloss>
+<gloss xml:lang="Wammer" target="Nase">tjurrin</gloss>
+<gloss xml:lang="Trangan" target="Nase">tjurun</gloss>
+<gloss xml:lang="Wonumbai" target="Nase">tjurun</gloss>
+<gloss xml:lang="Koor" target="Nase">melin</gloss>
+<gloss xml:lang="Tijoor" target="Nase">gangar</gloss>
+<gloss xml:lang="Kei-Inseln" target="Nase">nierun</gloss>
+<gloss xml:lang="Watubella" target="Nase">huèdda</gloss>
+<gloss xml:lang="Goram" target="Nase">ischonin</gloss>
+<gloss xml:lang="Karufa" target="Nase">sikai</gloss>
+<gloss xml:lang="Nufoor" target="Nase">snori</gloss>
+<gloss xml:lang="Andai" target="Nase">akwaueb</gloss>
+<gloss xml:lang="Hattam" target="Nase">njauwǎwaab</gloss>
+<gloss xml:lang="Humboldtbai" target="Nase">sugah</gloss>
+<term xml:id="Mund">Mund</term>
+<gloss xml:lang="Malaienländer" target="Mund">Mulut</gloss>
+<gloss xml:lang="Singkel" target="Mund">Bava</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Mund">Bahba</gloss>
+<gloss xml:lang="Nias" target="Mund">baba</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Mund">ngungu</gloss>
+<gloss xml:lang="Engano" target="Mund">oku</gloss>
+<gloss xml:lang="Gorontalo" target="Mund">tunggielo</gloss>
+<gloss xml:lang="Togean-Inseln" target="Mund">wiewie</gloss>
+<gloss xml:lang="Trangan" target="Mund">fafei</gloss>
+<gloss xml:lang="Wonumbai" target="Mund">wanrang</gloss>
+<gloss xml:lang="Wammer" target="Mund">fafei</gloss>
+<gloss xml:lang="Koor" target="Mund">huar</gloss>
+<gloss xml:lang="Tijoor" target="Mund">temar</gloss>
+<gloss xml:lang="Kei-Inseln" target="Mund">ngoën</gloss>
+<gloss xml:lang="Watubella" target="Mund">hulieda</gloss>
+<gloss xml:lang="Goram" target="Mund">ilohinn</gloss>
+<gloss xml:lang="Karufa" target="Mund">uhru</gloss>
+<gloss xml:lang="Nufoor" target="Mund">swari</gloss>
+<gloss xml:lang="Andai" target="Mund">asautiam</gloss>
+<gloss xml:lang="Hattam" target="Mund">njauwǎwǎ</gloss>
+<gloss xml:lang="Humboldtbai" target="Mund">sumba</gloss>
+<term xml:id="Ohr">Ohr</term>
+<gloss xml:lang="Malaienländer" target="Ohr">Kuping</gloss>
+<gloss xml:lang="Singkel" target="Ohr">Tsopping</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Ohr">Telinga</gloss>
+<gloss xml:lang="Nias" target="Ohr">talinga</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Ohr">gigie</gloss>
+<gloss xml:lang="Engano" target="Ohr">kalila</gloss>
+<gloss xml:lang="Gorontalo" target="Ohr">kulonga</gloss>
+<gloss xml:lang="Trangan" target="Ohr">takar</gloss>
+<gloss xml:lang="Wonumbai" target="Ohr">takar</gloss>
+<gloss xml:lang="Wammer" target="Ohr">takar</gloss>
+<gloss xml:lang="Koor" target="Ohr">karong</gloss>
+<gloss xml:lang="Tijoor" target="Ohr">tatiewát</gloss>
+<gloss xml:lang="Kei-Inseln" target="Ohr">arun</gloss>
+<gloss xml:lang="Watubella" target="Ohr">tingago</gloss>
+<gloss xml:lang="Goram" target="Ohr">telinganin</gloss>
+<gloss xml:lang="Karufa" target="Ohr">taringa</gloss>
+<gloss xml:lang="Nufoor" target="Ohr">knasi</gloss>
+<gloss xml:lang="Andai" target="Ohr">akoroon</gloss>
+<gloss xml:lang="Hattam" target="Ohr">tenenggova</gloss>
+<gloss xml:lang="Humboldtbai" target="Ohr">tienè</gloss>
+<term xml:id="Hand">Hand</term>
+<gloss xml:lang="Singkel" target="Hand">Tangan</gloss>
+<gloss xml:lang="Malaienländer" target="Hand">Tangan</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Hand">Gau</gloss>
+<gloss xml:lang="Nias" target="Hand">tetetanga</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Hand">kabei</gloss>
+<gloss xml:lang="Engano" target="Hand">afa</gloss>
+<gloss xml:lang="Gorontalo" target="Hand">paládu</gloss>
+<gloss xml:lang="Togean-Inseln" target="Hand">palè</gloss>
+<gloss xml:lang="Wammer" target="Hand">limeidi</gloss>
+<gloss xml:lang="Wonumbai" target="Hand">limang</gloss>
+<gloss xml:lang="Trangan" target="Hand">limei</gloss>
+<gloss xml:lang="Koor" target="Hand">liman</gloss>
+<gloss xml:lang="Tijoor" target="Hand">prè</gloss>
+<gloss xml:lang="Kei-Inseln" target="Hand">limat</gloss>
+<gloss xml:lang="Goram" target="Hand">imahnin</gloss>
+<gloss xml:lang="Karufa" target="Hand">nimangouta</gloss>
+<gloss xml:lang="Nufoor" target="Hand">rwasi</gloss>
+<gloss xml:lang="Andai" target="Hand">amau</gloss>
+<gloss xml:lang="Hattam" target="Hand">indappadjua</gloss>
+<gloss xml:lang="Humboldtbai" target="Hand">eijé-fugé</gloss>
+<term xml:id="Finger">Finger</term>
+<gloss xml:lang="Singkel" target="Finger">Djahrie</gloss>
+<gloss xml:lang="Malaienländer" target="Finger">Djahrie</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Finger">Gau-anangan</gloss>
+<gloss xml:lang="Nias" target="Finger">tutuhru</gloss>
+<gloss xml:lang="Engano" target="Finger">minu-afa</gloss>
+<gloss xml:lang="Gorontalo" target="Finger">tungongoao-lulu</gloss>
+<gloss xml:lang="Kei-Inseln" target="Finger">kew</gloss>.
+<gloss xml:lang="Karufa" target="Finger">tjerok</gloss>
+<gloss xml:lang="Nufoor" target="Finger">wapiesi</gloss>
+<gloss xml:lang="Andai" target="Finger">amau-buëb</gloss>
+<gloss xml:lang="Hattam" target="Finger">indappadung</gloss>
+<gloss xml:lang="Humboldtbai" target="Finger">waja-fugé</gloss>
