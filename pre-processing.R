@@ -2,7 +2,8 @@ library(tidyverse)
 
 vrfiles <- dir("ocr-text", pattern = "^vrb", full.names = TRUE)
 
-inpfiles <- grep("(598|599|600)\\.txt", vrfiles, perl = TRUE, value = TRUE)
+# Remember to edit the pattern to grep based on the updated, tagged OCR file.
+inpfiles <- grep("(598|599|600|601)\\.txt", vrfiles, perl = TRUE, value = TRUE)
 inpfiles
 
 
@@ -59,3 +60,7 @@ lang_term_gloss <- str_subset(txt, "\\<gloss\\b") |>
   left_join(select(lang, -ID)) |> 
   mutate(lang = factor(lang, levels = lang_vct)) |> 
   arrange(german, lang)
+
+# re-run this everytime a new page gets updated with tagging.
+lang_term_gloss |> 
+  write_tsv("data/vrosenberg1878.tsv")
