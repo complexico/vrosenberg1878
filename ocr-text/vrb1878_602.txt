@@ -39,132 +39,134 @@ Generated on 2024-07-09 03:37 GMT
 
 ## p. 602 (#642) ############################################
 
+URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=642
+
 602
-Sonne
-Malaienländer
-Mata-harie
-Singkel
-Mato-arie
-Banjak-Inseln Mata-bolal
-luwoh
-Mentawej-Inseln sulu
-Nias
-Engano
-Gorontalo
-Togean-Inseln
-Wammer
-Wonumbai
-Trangan
-Koor
-Tijoor
-Keininseln
-Watubella
-Goraminseln
-Karufa
-Nufoor
-Andai
-Hattam
-Humboldtbai
-bakka-kaha
-matolu-dulaho
-batu-mata-nueu
-lara
-eram
-lara
-lä
-olar
-lehr
-olla
-ollarra
-ohra
-orie
-prua
-Mond
-Bulan
-Bulan
-Bawa
-bawa
-lakko
-muna
-fulalo
-fuia
-fulan
-fulan
-fulan
-wuan
-ulan
-uwan
-wulan
-wulan
-uran
-paik
-di
-Stern
-Bintang
-Bintang
-Bintan
-döhfi
-pinpangan
-pelua
-poliama
-brituë
-tawan
-tawan
-tawan
-nara
-watrei
-nar
-tou
-wituina
-omma
-altarua
-auwaam
-Donner
-Guntur
-Borgas
-Gurru
-maugo-benua
-lalehgu
-lahu
-bulongottu
-erkadudum
-erkadudum
-erkadudum
-nahumuhri
-dudung
-kádădu
-krauw
-Wind
-Angin
-Angin
-Angin
-angi
-rusah
-bijuh
-dupotto
-ngoju
-ingin
-ingin
-ingin
-rangin
-anin
-niut
-ègin
-angin
-loh
-waam
-auw
-Blitz
-Kilat
-Kilat
-Kilet
-méně-tepari
-mobuset benua
-akanu
-ilatta
-erkala
-erkala
-erkala
-tenitir
-wuwwer
-daantaan
+<term xml:id="Sonne">Sonne</term>
+<lang xml:lang="Malaienländer">Malaienländer</lang>
+<gloss xml:lang="Malaienländer" target="Sonne" change="Mata-harie">Mataharie</gloss>
+<lang xml:lang="Singkel">Singkel</lang>
+<gloss xml:lang="Singkel" target="Sonne">Mato-aríe</gloss>
+<lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang> <gloss xml:lang="Banjak-Inseln" target="Sonne">Mata-bolal</gloss>
+<gloss xml:lang="Nias" target="Sonne">luwoh</gloss>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang> <gloss xml:lang="Mentawej-Inseln" target="Sonne">sulu</gloss>
+<lang xml:lang="Nias">Nias</lang>
+<lang xml:lang="Engano">Engano</lang>
+<lang xml:lang="Gorontalo">Gorontalo</lang>
+<lang xml:lang="Togean-Inseln">Togean-Inseln</lang>
+<lang xml:lang="Wammer">Wammer</lang>
+<lang xml:lang="Wonumbai">Wonumbai</lang>
+<lang xml:lang="Trangan">Trangan</lang>
+<lang xml:lang="Koor">Koor</lang>
+<lang xml:lang="Tijoor">Tijoor</lang>
+<lang xml:lang="Kei-Inseln">Kei-Inseln</lang>
+<lang xml:lang="Watubella">Watubella</lang>
+<lang xml:lang="Goram" orig="Goraminseln">Goram</lang>
+<lang xml:lang="Karufa">Karufa</lang>
+<lang xml:lang="Nufoor">Nufoor</lang>
+<lang xml:lang="Andai">Andai</lang>
+<lang xml:lang="Hattam">Hattam</lang>
+<lang xml:lang="Humboldtbai">Humboldtbai</lang>
+<gloss xml:lang="Engano" target="Sonne">bakka-kaha</gloss>
+<gloss xml:lang="Gorontalo" target="Sonne">matolu-dulaho</gloss>
+<gloss xml:lang="Togean-Inseln" target="Sonne">batu-mata-nueu</gloss>
+<gloss xml:lang="Wammer" target="Sonne">lara</gloss>
+<gloss xml:lang="Wonumbai" target="Sonne">eram</gloss>
+<gloss xml:lang="Trangan" target="Sonne">lara</gloss>
+<gloss xml:lang="Koor" target="Sonne">lä</gloss>
+<gloss xml:lang="Tijoor" target="Sonne">olar</gloss>
+<gloss xml:lang="Kei-Inseln" target="Sonne">lehr</gloss>
+<gloss xml:lang="Watubella" target="Sonne">olla</gloss>
+<gloss xml:lang="Goram" target="Sonne">ollarra</gloss>
+<gloss xml:lang="Karufa" target="Sonne">ohra</gloss>
+<gloss xml:lang="Nufoor" target="Sonne">orie</gloss>
+<gloss xml:lang="Andai" target="Sonne">prua</gloss>
+<term xml:id="Mond">Mond</term>
+<gloss xml:lang="Malaienländer" target="Mond">Bulan</gloss>
+<gloss xml:lang="Singkel" target="Mond">Bulan</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Mond">Bawa</gloss>
+<gloss xml:lang="Nias" target="Mond">bawa</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Mond">lakko</gloss>
+<gloss xml:lang="Engano" target="Mond">muna</gloss>
+<gloss xml:lang="Gorontalo" target="Mond">fulalo</gloss>
+<gloss xml:lang="Togean-Inseln" target="Mond">fuia</gloss>
+<gloss xml:lang="Wammer" target="Mond">fulan</gloss>
+<gloss xml:lang="Wonumbai" target="Mond">fulan</gloss>
+<gloss xml:lang="Trangan" target="Mond">fulan</gloss>
+<gloss xml:lang="Koor" target="Mond">wuan</gloss>
+<gloss xml:lang="Tijoor" target="Mond">ulan</gloss>
+<gloss xml:lang="Kei-Inseln" target="Mond">uwan</gloss>
+<gloss xml:lang="Watubella" target="Mond">wulan</gloss>
+<gloss xml:lang="Goram" target="Mond">wulan</gloss>
+<gloss xml:lang="Karufa" target="Mond">uran</gloss>
+<gloss xml:lang="Nufoor" target="Mond">paik</gloss>
+<gloss xml:lang="Andai" target="Mond">di</gloss>
+<term xml:id="Stern">Stern</term>
+<gloss xml:lang="Malaienländer" target="Stern">Bintang</gloss>
+<gloss xml:lang="Singkel" target="Stern">Bintang</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Stern">Bintan</gloss>
+<gloss xml:lang="Nias" target="Stern">döhfi</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Stern">pinpangan</gloss>
+<gloss xml:lang="Engano" target="Stern">pelua</gloss>
+<gloss xml:lang="Gorontalo" target="Stern">poliama</gloss>
+<gloss xml:lang="Togean-Inseln" target="Stern">brituë</gloss>
+<gloss xml:lang="Wammer" target="Stern">tawan</gloss>
+<gloss xml:lang="Wonumbai" target="Stern">tawan</gloss>
+<gloss xml:lang="Trangan" target="Stern">tawan</gloss>
+<gloss xml:lang="Koor" target="Stern">nara</gloss>
+<gloss xml:lang="Tijoor" target="Stern">watrei</gloss>
+<gloss xml:lang="Kei-Inseln" target="Stern">nar</gloss>
+<gloss xml:lang="Watubella" target="Stern">tou</gloss>
+<gloss xml:lang="Goram" target="Stern">wituina</gloss>
+<gloss xml:lang="Karufa" target="Stern">omma</gloss>
+<gloss xml:lang="Nufoor" target="Stern">altarua</gloss>
+<gloss xml:lang="Andai" target="Stern">auwaam</gloss>
+<term xml:id="Donner">Donner</term>
+<gloss xml:lang="Malaienländer" target="Donner">Guntur</gloss>
+<gloss xml:lang="Singkel" target="Donner">Borgas</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Donner">Gurru</gloss>
+<gloss xml:lang="Nias" target="Donner">maugo-benua</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Donner">lalehgu</gloss>
+<gloss xml:lang="Engano" target="Donner">lahu</gloss>
+<gloss xml:lang="Gorontalo" target="Donner">bulongottu</gloss>
+<gloss xml:lang="Wammer" target="Donner">erkadudum</gloss>
+<gloss xml:lang="Wonumbai" target="Donner">erkadudum</gloss>
+<gloss xml:lang="Trangan" target="Donner">erkadudum</gloss>
+<gloss xml:lang="Kei-Inseln" target="Donner">nahumuhri</gloss>
+<gloss xml:lang="Goram" target="Donner">dudung</gloss>
+<gloss xml:lang="Nufoor" target="Donner">kádádu</gloss>
+<gloss xml:lang="Andai" target="Donner">krauw</gloss>
+<term xml:id="Wind">Wind</term>
+<gloss xml:lang="Malaienländer" target="Wind">Angin</gloss>
+<gloss xml:lang="Singkel" target="Wind">Angin</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Wind">Angin</gloss>
+<gloss xml:lang="Nias" target="Wind">angi</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Wind">rusah</gloss>
+<gloss xml:lang="Engano" target="Wind">bijuh</gloss>
+<gloss xml:lang="Gorontalo" target="Wind">dupotto</gloss>
+<gloss xml:lang="Togean-Inseln" target="Wind">ngoju</gloss>
+<gloss xml:lang="Wammer" target="Wind">ingin</gloss>
+<gloss xml:lang="Wonumbai" target="Wind">ingin</gloss>
+<gloss xml:lang="Trangan" target="Wind">ingin</gloss>
+<gloss xml:lang="Koor" target="Wind">rangin</gloss>
+<gloss xml:lang="Tijoor" target="Wind">anin</gloss>
+<gloss xml:lang="Kei-Inseln" target="Wind">mut</gloss>
+<gloss xml:lang="Watubella" target="Wind">ègin</gloss>
+<gloss xml:lang="Goram" target="Wind">angin</gloss>
+<gloss xml:lang="Karufa" target="Wind">loh</gloss>
+<gloss xml:lang="Nufoor" target="Wind">waam</gloss>
+<gloss xml:lang="Andai" target="Wind">auw</gloss>
+<term xml:id="Blitz">Blitz</term>
+<gloss xml:lang="Malaienländer" target="Blitz">Kilat</gloss>
+<gloss xml:lang="Singkel" target="Blitz">Kilat</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Blitz">Kilet</gloss>
+<gloss xml:lang="Nias" target="Blitz">mene-tepari</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Blitz">mobuset benua</gloss>
+<gloss xml:lang="Engano" target="Blitz">akanu</gloss>
+<gloss xml:lang="Gorontalo" target="Blitz">ilatta</gloss>
+<gloss xml:lang="Wammer" target="Blitz">erkala</gloss>
+<gloss xml:lang="Wonumbai" target="Blitz">erkala</gloss>
+<gloss xml:lang="Trangan" target="Blitz">erkala</gloss>
+<gloss xml:lang="Goram" target="Blitz">tenitir</gloss>
+<gloss xml:lang="Nufoor" target="Blitz">wuwwer</gloss>
+<gloss xml:lang="Andai" target="Blitz">daantaan</gloss>
