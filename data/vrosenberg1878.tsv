@@ -39,6 +39,7 @@ Mentawej-Inseln	Bruder	kebu		Inselgruppen weftlich von Sumātra
 Nias	Bruder	talifusso		Inselgruppen weftlich von Sumātra
 Engano	Bruder	farah-manie		Inselgruppen weftlich von Sumātra
 Gorontalo	Bruder	utato		Selēbes
+Togean-Inseln	Bruder	aingo-longgai		Selēbes
 Wammer	Bruder	kakang-lessi		Aru-Inseln
 Wonumbai	Bruder	abula		Aru-Inseln
 Trangan	Bruder	karmari-lelefie		Aru-Inseln
@@ -48,7 +49,6 @@ Goram	Bruder	nogurogu-urana		Südofter-Inseln
 Nufoor	Bruder	dejaai		Neuguinea
 Andai	Bruder	dekangmaan		Neuguinea
 Hattam	Bruder	nèkowoaan		Neuguinea
-NA	Bruder	aingo-longgai		NA
 Malaienländer	Brust	Dahda		Sumātra
 Singkel	Brust	Tandan		Sumātra
 Banjak-Inseln	Brust	Arop		Inselgruppen weftlich von Sumātra
@@ -119,6 +119,7 @@ Mentawej-Inseln	Haar	alei		Inselgruppen weftlich von Sumātra
 Nias	Haar	bu		Inselgruppen weftlich von Sumātra
 Engano	Haar	puru-ulu		Inselgruppen weftlich von Sumātra
 Gorontalo	Haar	fuwoö		Selēbes
+Togean-Inseln	Haar	wuiua		Selēbes
 Wammer	Haar	fuku		Aru-Inseln
 Wonumbai	Haar	fuku		Aru-Inseln
 Trangan	Haar	fuku		Aru-Inseln
@@ -132,7 +133,6 @@ Nufoor	Haar	buraim		Neuguinea
 Andai	Haar	kapongua		Neuguinea
 Hattam	Haar	ibontha		Neuguinea
 Humboldtbai	Haar	gemuroh		Neuguinea
-NA	Haar	wuiua		NA
 Malaienländer	Hand	Tangan		Sumātra
 Singkel	Hand	Tangan		Sumātra
 Banjak-Inseln	Hand	Gau		Inselgruppen weftlich von Sumātra
@@ -222,6 +222,7 @@ Mentawej-Inseln	Kopf	uté		Inselgruppen weftlich von Sumātra
 Nias	Kopf	hohgo		Inselgruppen weftlich von Sumātra
 Engano	Kopf	ulu		Inselgruppen weftlich von Sumātra
 Gorontalo	Kopf	lunggongo		Selēbes
+Togean-Inseln	Kopf	woö		Selēbes
 Wammer	Kopf	gulditabarri		Aru-Inseln
 Wonumbai	Kopf	guling		Aru-Inseln
 Trangan	Kopf	gultabbar		Aru-Inseln
@@ -235,7 +236,6 @@ Nufoor	Kopf	rwuri		Neuguinea
 Andai	Kopf	kapruapien		Neuguinea
 Hattam	Kopf	debonggawa		Neuguinea
 Humboldtbai	Kopf	wehrei		Neuguinea
-NA	Kopf	woö		NA
 Malaienländer	Mann	Orang-lakilaki	Orang-laki~laki	Sumātra
 Singkel	Mann	Daholin		Sumātra
 Banjak-Inseln	Mann	Silahé		Inselgruppen weftlich von Sumātra
@@ -360,6 +360,7 @@ Mentawej-Inseln	Schwester	bagie		Inselgruppen weftlich von Sumātra
 Nias	Schwester	talifusso-alawé		Inselgruppen weftlich von Sumātra
 Engano	Schwester	farah-howdah		Inselgruppen weftlich von Sumātra
 Gorontalo	Schwester	utatabua		Selēbes
+Togean-Inseln	Schwester	aingo-wèǎ		Selēbes
 Wammer	Schwester	kakang-kodar		Aru-Inseln
 Wonumbai	Schwester	karmari		Aru-Inseln
 Trangan	Schwester	karm: korkodor		Aru-Inseln
@@ -368,7 +369,6 @@ Goram	Schwester	nogur. wawiena		Südofter-Inseln
 Nufoor	Schwester	sraar		Neuguinea
 Andai	Schwester	dekangmamrmaan		Neuguinea
 Hattam	Schwester	unkamaan		Neuguinea
-NA	Schwester	aingo-wèǎ		NA
 Malaienländer	Sohn	Auak-lakilaki	Auak-laki~laki	Sumātra
 Singkel	Sohn	Anu-daholie		Sumātra
 Banjak-Inseln	Sohn	Auah-silahé		Inselgruppen weftlich von Sumātra
