@@ -6,4 +6,4 @@
 
 ## Overview
 
-The current work in this repository is XML-tagging the relevant words (with their respective languages and German gloss) in the unstructured OCR output. The tagging is used to processed the OCR into a tibble/table (also work-in-progress).
+The current work in this repository is XML-tagging the relevant words (with their respective languages and German gloss) in the unstructured OCR output. The tagging is used to processed the OCR into a [tibble/table](https://github.com/complexico/vrosenberg1878/blob/main/data/vrosenberg1878.tsv) (also work-in-progress).
