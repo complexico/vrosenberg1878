@@ -29,7 +29,7 @@ Steps :
 
 - search for language
 
-    - S: \b(Malaienl.+?|Singkel|Banjak-Inseln|Nias|Mentawej-Inseln|Engano|Gorontalo|Togean-Inseln|Wammer|Wonumbai|Trangan|Koor|Tijoor|Kei-Inseln|Watubella|Goram|Karufa|Nufoor|Andai|Hattam|Humboldtbai)\b
+    - S: \b(Malaienl.+?|Singkel|Banjak-Inseln|Nias|Mentawej-Inseln|Engano|Gorontalo|Togean-Inseln|Wammer|Wonumbai|Trangan|Koor|Tijoor|Kei-Inseln||Watubella|Goram|Karufa|Nufoor|Andai|Hattam|Humboldtbai)\b
     - R: <lang xml:lang="\1">\1</lang>
 
 - search for the term/German:

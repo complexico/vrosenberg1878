@@ -39,117 +39,119 @@ Generated on 2024-07-09 03:36 GMT
 
 ## p. 601 (#641) ############################################
 
+URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=641
+
 -
 601
-Malaienländer
-Singkel
-Banjak-Inseln Arop
-totoha
-Nias
-Engano
-Gorontalo
-Brust
-Mentawej-Inseln topot
-amah
-duhnlèh
-Togean
-Wammer
-Wonumbai
-Trangan
-Koor
-Tijoor
-Keininseln
-Watubella
-Goram
-Karufa
-Nufoor
-Andai
-Hattam
-Humboldtbai
-Dahda
-Tandan
-bubuhru
-gienga
-aandeendi
-kakeet
-njenggeda
-geina
-Bauch
-Purut
-Prutek
-Besil
-tahlu
-bogah
-kudei
-ombongo
-ewuhnu
-ambo
-snerri
-kapuri
-nahentiaan
-tarrie
-Fuss
-Kakie
-Nené
-Pat
-kahé
-dereh
-ah
-oato
-wiedie
-ebei
-ebang
-ebei
-jain
-tulia
-nienne
-ellä
-wési
-akibatien
-betjarrie
-Haus
-Ruma
-Sapoh
-Luma
-omo
-lalep
-ubah
-laihé
-benua
-balei
-befu
-both
-ruma
-uma
-ruma
-ruma
-tsaring
-rum
-raar
-Kano
-Praau
-Bungké
-Wongie
-abak
-lohah
-blotto
-bokka
-lettej
-lettej
-hohri
-soh
-angmahrën
-dageh
-panda-pubah
-penda-pooi
-moangga
-Himmel
-Langit
-Langit
-Langkel
-benuha
-benua
-hulungo
-jangie
-nanggi
-wamum
+<lang xml:lang="Malaienländer">Malaienländer</lang>
+<lang xml:lang="Singkel">Singkel</lang>
+<lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang> <gloss xml:lang="Banjak-Inseln" target="Brust">Arop</gloss>
+<gloss xml:lang="Nias" target="Brust">totoha</gloss>
+<lang xml:lang="Nias">Nias</lang>
+<lang xml:lang="Engano">Engano</lang>
+<lang xml:lang="Gorontalo">Gorontalo</lang>
+<term xml:id="Brust">Brust</term>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang> <gloss xml:lang="Mentawej-Inseln" target="Brust">topot</gloss>
+<gloss xml:lang="Engano" target="Brust">amah</gloss>
+<gloss xml:lang="Gorontalo" target="Brust">duhnléh</gloss>
+<lang xml:lang="Togean-Inseln">Togean-Inseln</lang>
+<lang xml:lang="Wammer">Wammer</lang>
+<lang xml:lang="Wonumbai">Wonumbai</lang>
+<lang xml:lang="Trangan">Trangan</lang>
+<lang xml:lang="Koor">Koor</lang>
+<lang xml:lang="Tijoor">Tijoor</lang>
+<lang xml:lang="Kei-Inseln">Kei-Inseln</lang>
+<lang xml:lang="Watubella">Watubella</lang>
+<lang xml:lang="Goram">Goram</lang>
+<lang xml:lang="Karufa">Karufa</lang>
+<lang xml:lang="Nufoor">Nufoor</lang>
+<lang xml:lang="Andai">Andai</lang>
+<lang xml:lang="Hattam">Hattam</lang>
+<lang xml:lang="Humboldtbai">Humboldtbai</lang>
+<gloss xml:lang="Malaienländer" target="Brust">Dahda</gloss>
+<gloss xml:lang="Singkel" target="Brust">Tandan</gloss>
+<gloss xml:lang="Kei-Inseln" target="Brust">bubuhru</gloss>
+<gloss xml:lang="Karufa" target="Brust">gienga</gloss>
+<gloss xml:lang="Nufoor" target="Brust">aandeendi</gloss>
+<gloss xml:lang="Andai" target="Brust">kakeet</gloss>
+<gloss xml:lang="Hattam" target="Brust">njenggeda</gloss>
+<gloss xml:lang="Humboldtbai" target="Brust">geina</gloss>
+<term xml:id="Bauch">Bauch</term>
+<gloss xml:lang="Malaienländer" target="Bauch">Purut</gloss>
+<gloss xml:lang="Singkel" target="Bauch">Prutek</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Bauch">Besil</gloss>
+<gloss xml:lang="Nias" target="Bauch">tahlu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Bauch">bogah</gloss>
+<gloss xml:lang="Engano" target="Bauch">kudei</gloss>
+<gloss xml:lang="Gorontalo" target="Bauch">ombongo</gloss>
+<gloss xml:lang="Kei-Inseln" target="Bauch">ewuhnu</gloss>
+<gloss xml:lang="Karufa" target="Bauch">ambo</gloss>
+<gloss xml:lang="Nufoor" target="Bauch">snerri</gloss>
+<gloss xml:lang="Andai" target="Bauch">kapuri</gloss>
+<gloss xml:lang="Hattam" target="Bauch">nahentiaan</gloss>
+<gloss xml:lang="Humboldtbai" target="Bauch">tarrie</gloss>
+<term xml:id="Fuss">Fuss</term>
+<gloss xml:lang="Malaienländer" target="Fuss">Kakie</gloss>
+<gloss xml:lang="Singkel" target="Fuss">Nené</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Fuss">Pat</gloss>
+<gloss xml:lang="Nias" target="Fuss">kahé</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Fuss">dereh</gloss>
+<gloss xml:lang="Engano" target="Fuss">ah</gloss>
+<gloss xml:lang="Gorontalo" target="Fuss">oato</gloss>
+<gloss xml:lang="Togean-Inseln" target="Fuss">wiedie</gloss>
+<gloss xml:lang="Wammer" target="Fuss">ebei</gloss>
+<gloss xml:lang="Wonumbai" target="Fuss">ebang</gloss>
+<gloss xml:lang="Trangan" target="Fuss">ebei</gloss>
+<gloss xml:lang="Koor" target="Fuss">jain</gloss>
+<gloss xml:lang="Tijoor" target="Fuss">tulia</gloss>
+<gloss xml:lang="Goram" target="Fuss">nienne</gloss>
+<gloss xml:lang="Karufa" target="Fuss">ellä</gloss>
+<gloss xml:lang="Nufoor" target="Fuss">wési</gloss>
+<gloss xml:lang="Andai" target="Fuss">akibatien</gloss>
+<gloss xml:lang="Humboldtbai" target="Fuss">betjarrie</gloss>
+<term xml:id="Haus">Haus</term>
+<gloss xml:lang="Malaienländer" target="Haus">Ruma</gloss>
+<gloss xml:lang="Singkel" target="Haus">Sapoh</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Haus">Luma</gloss>
+<gloss xml:lang="Nias" target="Haus">omo</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Haus">lalep</gloss>
+<gloss xml:lang="Engano" target="Haus">ubah</gloss>
+<gloss xml:lang="Gorontalo" target="Haus">laihé</gloss>
+<gloss xml:lang="Togean-Inseln" target="Haus">benua</gloss>
+<gloss xml:lang="Wammer" target="Haus">balei</gloss>
+<gloss xml:lang="Wonumbai" target="Haus">befu</gloss>
+<gloss xml:lang="Trangan" target="Haus">both</gloss>
+<gloss xml:lang="Koor" target="Haus">ruma</gloss>
+<gloss xml:lang="Tijoor" target="Haus">uma</gloss>
+<gloss xml:lang="Watubella" target="Haus">ruma</gloss>
+<gloss xml:lang="Goram" target="Haus">ruma</gloss>
+<gloss xml:lang="Karufa" target="Haus">tsaring</gloss>
+<gloss xml:lang="Nufoor" target="Haus">rum</gloss>
+<gloss xml:lang="Andai" target="Haus">raar</gloss>
+<term xml:id="Kano">Kano</term>
+<gloss xml:lang="Malaienländer" target="Kano">Praau</gloss>
+<gloss xml:lang="Singkel" target="Kano">Bungké</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Kano">Wongie</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Kano">abak</gloss>
+<gloss xml:lang="Engano" target="Kano">lohah</gloss>
+<gloss xml:lang="Gorontalo" target="Kano">blotto</gloss>
+<gloss xml:lang="Wammer" target="Kano">bokka</gloss>
+<gloss xml:lang="Wonumbai" target="Kano">lettej</gloss>
+<gloss xml:lang="Trangan" target="Kano">lettej</gloss>
+<gloss xml:lang="Koor" target="Kano">hohri</gloss>
+<gloss xml:lang="Watubella" target="Kano">soh</gloss>
+<gloss xml:lang="Goram" target="Kano">angmahrën</gloss>
+<gloss xml:lang="Karufa" target="Kano">dageh</gloss>
+<gloss xml:lang="Nufoor" target="Kano">panda-pubah</gloss>
+<gloss xml:lang="Andai" target="Kano">penda-pooi</gloss>
+<gloss xml:lang="Humboldtbai" target="Kano">moangga</gloss>
+<term xml:id="Himmel">Himmel</term>
+<gloss xml:lang="Malaienländer" target="Himmel">Langit</gloss>
+<gloss xml:lang="Singkel" target="Himmel">Langit</gloss>
+<gloss xml:lang="Banjak-Inseln" target="Himmel">Langkel</gloss>
+<gloss xml:lang="Nias" target="Himmel">benuha</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="Himmel">benua</gloss>
+<gloss xml:lang="Gorontalo" target="Himmel">hulungo</gloss>
+<gloss xml:lang="Togean-Inseln" target="Himmel">jángie</gloss>
+<gloss xml:lang="Nufoor" target="Himmel">nanggi</gloss>
+<gloss xml:lang="Andai" target="Himmel">wamum</gloss>
