@@ -108,7 +108,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=639
 <gloss xml:lang="Mentawej-Inseln" target="Bruder">kebu</gloss>
 <gloss xml:lang="Engano" target="Bruder">farah-manie</gloss>
 <gloss xml:lang="Gorontalo" target="Bruder">utato</gloss>
-<gloss xml:lang="Tongean-Inseln" target="Bruder">aingo-longgai</gloss>
+<gloss xml:lang="Togean-Inseln" target="Bruder">aingo-longgai</gloss>
 <gloss xml:lang="Wammer" target="Bruder">kakang-lessi</gloss>
 <gloss xml:lang="Wonumbai" target="Bruder">abula</gloss>
 <gloss xml:lang="Trangan" target="Bruder">karmari-lelefie</gloss>
@@ -131,14 +131,14 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=639
 <gloss xml:lang="Mentawej-Inseln" target="Schwester">bagie</gloss>
 <gloss xml:lang="Engano" target="Schwester">farah-howdah</gloss>
 <gloss xml:lang="Gorontalo" target="Schwester">utatabua</gloss>
-<gloss xml:lang="Tongean-Inseln" target="Schwester">aingo-wèǎ</gloss>
+<gloss xml:lang="Togean-Inseln" target="Schwester">aingo-wèǎ</gloss>
 <gloss xml:lang="Wammer" target="Schwester">kakang-kodar</gloss>
 <gloss xml:lang="Wonumbai" target="Schwester">karmari</gloss>
 <gloss xml:lang="Trangan" target="Schwester">karm: korkodor</gloss>
 <gloss xml:lang="Tijoor" target="Schwester">melak</gloss>
 <gloss xml:lang="Goram" target="Bruder">nogurogu-urana</gloss> <gloss xml:lang="Goram" target="Schwester">nogur. wawiena</gloss>
 <gloss xml:lang="Gorontalo" target="Kopf">lunggongo</gloss>
-<gloss xml:lang="Tongean-Inseln" target="Kopf">woö</gloss>
+<gloss xml:lang="Togean-Inseln" target="Kopf">woö</gloss>
 <gloss xml:lang="Nufoor" target="Schwester">sraar</gloss>
 <gloss xml:lang="Wammer" target="Kopf">gulditabarri</gloss>
 <gloss xml:lang="Wonumbai" target="Kopf">guling</gloss>
@@ -162,7 +162,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=639
 <gloss xml:lang="Mentawej-Inseln" target="Haar">alei</gloss>
 <gloss xml:lang="Engano" target="Haar">puru-ulu</gloss>
 <gloss xml:lang="Gorontalo" target="Haar">fuwoö</gloss>
-<gloss xml:lang="Tongean-Inseln" target="Haar">wuiua</gloss>
+<gloss xml:lang="Togean-Inseln" target="Haar">wuiua</gloss>
 <gloss xml:lang="Wammer" target="Haar">fuku</gloss>
 <gloss xml:lang="Wonumbai" target="Haar">fuku</gloss>
 <gloss xml:lang="Trangan" target="Haar">fuku</gloss>
