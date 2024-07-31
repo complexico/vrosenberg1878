@@ -101,7 +101,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=639
 <gloss xml:lang="Andai" target="Mutter">demiehm</gloss>
 <gloss xml:lang="Hattam" target="Mutter">narmemma</gloss>
 <term xml:id="Bruder">Bruder</term>
-<gloss xml:lang="Malaienländer" target="Bruder" change="Sudara-laki~laki">Sudara-lakilaki</gloss>
+<gloss xml:lang="Malaienländer" target="Bruder" change="Sudara-lakilaki">Sudara-laki~laki</gloss>
 <gloss xml:lang="Singkel" target="Bruder">Seninna-daholie</gloss>
 <gloss xml:lang="Banjak-Inseln" target="Bruder">Agie-silahé</gloss>
 <gloss xml:lang="Nias" target="Bruder">talifusso</gloss>
@@ -136,7 +136,7 @@ URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=639
 <gloss xml:lang="Wonumbai" target="Schwester">karmari</gloss>
 <gloss xml:lang="Trangan" target="Schwester">karm: korkodor</gloss>
 <gloss xml:lang="Tijoor" target="Schwester">melak</gloss>
-<gloss xml:lang="Goram" target="Bruder">nogurogu-urana</gloss> <gloss xml:lang="Goram" target="Schwester">nogur. wawiena</gloss>
+<gloss xml:lang="Goram" target="Bruder">nogurogu-urana</gloss> <gloss xml:lang="Goram" target="Schwester" change="nogur. wawiena">nogurogu wawiena</gloss>
 <gloss xml:lang="Gorontalo" target="Kopf">lunggongo</gloss>
 <gloss xml:lang="Togean-Inseln" target="Kopf">woö</gloss>
 <gloss xml:lang="Nufoor" target="Schwester">sraar</gloss>
