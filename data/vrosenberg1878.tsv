@@ -110,7 +110,7 @@ Pages	Language	LanguageGroup	German	Forms	OldFormOrig	OldFormChange
 598	Goram	Südofter-Inseln	Tochter	auak-wawiena	auak-wawiena	
 598	Nufoor	Neuguinea	Tochter	nai	nai	
 598	Hattam	Neuguinea	Tochter	sobaan	sobaan	
-599	Malaienländer	Sumātra	Bruder	Sudara-lakilaki	Sudara-laki~laki	Sudara-lakilaki
+599	Malaienländer	Sumātra	Bruder	Sudara-laki~laki	Sudara-lakilaki	Sudara-laki~laki
 599	Singkel	Sumātra	Bruder	Seninna-daholie	Seninna-daholie	
 599	Banjak-Inseln	Inselgruppen weftlich von Sumātra	Bruder	Agie-silahé	Agie-silahé	
 599	Mentawej-Inseln	Inselgruppen weftlich von Sumātra	Bruder	kebu	kebu	
@@ -198,7 +198,7 @@ Pages	Language	LanguageGroup	German	Forms	OldFormOrig	OldFormChange
 599	Wonumbai	Aru-Inseln	Schwester	karmari	karmari	
 599	Trangan	Aru-Inseln	Schwester	karm: korkodor	karm: korkodor	
 599	Tijoor	Südofter-Inseln	Schwester	melak	melak	
-599	Goram	Südofter-Inseln	Schwester	nogur. wawiena	nogur. wawiena	
+599	Goram	Südofter-Inseln	Schwester	nogurogu wawiena	nogur. wawiena	nogurogu wawiena
 599	Nufoor	Neuguinea	Schwester	sraar	sraar	
 599	Andai	Neuguinea	Schwester	dekangmamrmaan	dekangmamrmaan	
 599	Hattam	Neuguinea	Schwester	unkamaan	unkamaan	
@@ -522,3 +522,112 @@ Pages	Language	LanguageGroup	German	Forms	OldFormOrig	OldFormChange
 602	Karufa	Neuguinea	Wind	loh	loh	
 602	Nufoor	Neuguinea	Wind	waam	waam	
 602	Andai	Neuguinea	Wind	auw	auw	
+603	Malaienländer	Sumātra	Feuer	Agie	Agie	
+603	Singkel	Sumātra	Feuer	Agie	Agie	
+603	Banjak-Inseln	Inselgruppen weftlich von Sumātra	Feuer	Ahé	Ahé	
+603	Mentawej-Inseln	Inselgruppen weftlich von Sumātra	Feuer	aluitet	aluitet	
+603	Nias	Inselgruppen weftlich von Sumātra	Feuer	alīto	alīto	
+603	Engano	Inselgruppen weftlich von Sumātra	Feuer	obi	obi	
+603	Gorontalo	Selēbes	Feuer	tulu	tulu	
+603	Togean-Inseln	Selēbes	Feuer	api	api	
+603	Wammer	Aru-Inseln	Feuer	au	au	
+603	Wonumbai	Aru-Inseln	Feuer	au	au	
+603	Trangan	Aru-Inseln	Feuer	au	au	
+603	Koor	Südofter-Inseln	Feuer	iaap	iaap	
+603	Tijoor	Südofter-Inseln	Feuer	ahi	ahi	
+603	Kei-Inseln	Südofter-Inseln	Feuer	naf	naf	
+603	Watubella	Südofter-Inseln	Feuer	èfi	èfi	
+603	Goram	Südofter-Inseln	Feuer	ahi	ahi	
+603	Karufa	Neuguinea	Feuer	lawi	lawi	
+603	Nufoor	Neuguinea	Feuer	foor	foor	
+603	Humboldtbai	Neuguinea	Feuer	aïe	aïe	
+603	Malaienländer	Sumātra	Fisch	Ikan	Ikan	
+603	Mentawej-Inseln	Inselgruppen weftlich von Sumātra	Fisch	iwah	iwah	
+603	Nias	Inselgruppen weftlich von Sumātra	Fisch	iah	iah	
+603	Engano	Inselgruppen weftlich von Sumātra	Fisch	kaiwau	kaiwau	
+603	Gorontalo	Selēbes	Fisch	tolǎ	tolǎ	
+603	Togean-Inseln	Selēbes	Fisch	bau	bau	
+603	Wammer	Aru-Inseln	Fisch	sima	sima	
+603	Wonumbai	Aru-Inseln	Fisch	sima	sima	
+603	Trangan	Aru-Inseln	Fisch	djika	djika	
+603	Koor	Südofter-Inseln	Fisch	ikan	ikan	
+603	Kei-Inseln	Südofter-Inseln	Fisch	wuut	wuut	
+603	Watubella	Südofter-Inseln	Fisch	iën	iën	
+603	Goram	Südofter-Inseln	Fisch	iën	iën	
+603	Karufa	Neuguinea	Fisch	dohndi	dohndi	
+603	Nufoor	Neuguinea	Fisch	iën	iën	
+603	Andai	Neuguinea	Fisch	mowau	mowau	
+603	Hattam	Neuguinea	Fisch	mikwawa	mikwawa	
+603	Humboldtbai	Neuguinea	Fisch	iotja	iotja	
+603	Malaienländer	Sumātra	Regen	Hudjang	Hudjang	
+603	Singkel	Sumātra	Regen	Hudjan	Hudjan	
+603	Banjak-Inseln	Inselgruppen weftlich von Sumātra	Regen	Ohol	Ohol	
+603	Mentawej-Inseln	Inselgruppen weftlich von Sumātra	Regen	urat	urat	
+603	Nias	Inselgruppen weftlich von Sumātra	Regen	tehu	tehu	
+603	Engano	Inselgruppen weftlich von Sumātra	Regen	eiwo	eiwo	
+603	Gorontalo	Selēbes	Regen	dehdi	dehdi	
+603	Togean-Inseln	Selēbes	Regen	hudjan	hudjan	
+603	Wammer	Aru-Inseln	Regen	gieën	gieën	
+603	Wonumbai	Aru-Inseln	Regen	gieén	gieén	
+603	Trangan	Aru-Inseln	Regen	gieën	gieën	
+603	Koor	Südofter-Inseln	Regen	uran	uran	
+603	Tijoor	Südofter-Inseln	Regen	uran	uran	
+603	Kei-Inseln	Südofter-Inseln	Regen	deot	deot	
+603	Watubella	Südofter-Inseln	Regen	idamma	idamma	
+603	Goram	Südofter-Inseln	Regen	uran	uran	
+603	Karufa	Neuguinea	Regen	kama	kama	
+603	Nufoor	Neuguinea	Regen	mekkem	mekkem	
+603	Andai	Neuguinea	Regen	mbrieëm	mbrieëm	
+603	Malaienländer	Sumātra	Schlange	Ular	Ular	
+603	Singkel	Sumātra	Schlange	Nipé	Nipé	
+603	Banjak-Inseln	Inselgruppen weftlich von Sumātra	Schlange	Sawa	Sawa	
+603	Mentawej-Inseln	Inselgruppen weftlich von Sumātra	Schlange	sabah	sabah	
+603	Nias	Inselgruppen weftlich von Sumātra	Schlange	ulo	ulo	
+603	Engano	Inselgruppen weftlich von Sumātra	Schlange	sauda	sauda	
+603	Gorontalo	Selēbes	Schlange	tuliedu	tuliedu	
+603	Togean-Inseln	Selēbes	Schlange	ule	ule	
+603	Wammer	Aru-Inseln	Schlange	hugèa	hugèa	
+603	Wonumbai	Aru-Inseln	Schlange	hugèa	hugèa	
+603	Trangan	Aru-Inseln	Schlange	huwa	huwa	
+603	Kei-Inseln	Südofter-Inseln	Schlange	rubai	rubai	
+603	Goram	Südofter-Inseln	Schlange	uaai	uaai	
+603	Karufa	Neuguinea	Schlange	karoï	karoï	
+603	Nufoor	Neuguinea	Schlange	ikak	ikak	
+603	Andai	Neuguinea	Schlange	antau	antau	
+603	Hattam	Neuguinea	Schlange	mauwa	mauwa	
+603	Malaienländer	Sumātra	Stein	Batu	Batu	
+603	Singkel	Sumātra	Stein	Batu	Batu	
+603	Banjak-Inseln	Inselgruppen weftlich von Sumātra	Stein	Batu	Batu	
+603	Nias	Inselgruppen weftlich von Sumātra	Stein	batu	batu	
+603	Engano	Inselgruppen weftlich von Sumātra	Stein	paku	paku	
+603	Gorontalo	Selēbes	Stein	batu	batu	
+603	Wammer	Aru-Inseln	Stein	fatu	fatu	
+603	Wonumbai	Aru-Inseln	Stein	fatu	fatu	
+603	Trangan	Aru-Inseln	Stein	fat	fat	
+603	Koor	Südofter-Inseln	Stein	waat	waat	
+603	Kei-Inseln	Südofter-Inseln	Stein	wat	wat	
+603	Watubella	Südofter-Inseln	Stein	watu	watu	
+603	Goram	Südofter-Inseln	Stein	watu	watu	
+603	Karufa	Neuguinea	Stein	langérah	langérah	
+603	Nufoor	Neuguinea	Stein	kerru	kerru	
+603	Andai	Neuguinea	Stein	meduwang	meduwang	
+603	Hattam	Neuguinea	Stein	tija	tija	
+603	Malaienländer	Sumātra	Wasser	Ajer	Ajer	
+603	Singkel	Sumātra	Wasser	Leij	Leij	
+603	Banjak-Inseln	Inselgruppen weftlich von Sumātra	Wasser	Uë	Uë	
+603	Mentawej-Inseln	Inselgruppen weftlich von Sumātra	Wasser	oinan	oinan	
+603	Nias	Inselgruppen weftlich von Sumātra	Wasser	idāno	idāno	
+603	Engano	Inselgruppen weftlich von Sumātra	Wasser	lebo-lebo	lebo-lebo	
+603	Gorontalo	Selēbes	Wasser	taluhu	taluhu	
+603	Togean-Inseln	Selēbes	Wasser	uë	uë	
+603	Wammer	Aru-Inseln	Wasser	waiar	waiar	
+603	Wonumbai	Aru-Inseln	Wasser	gaiar	gaiar	
+603	Trangan	Aru-Inseln	Wasser	waiar	waiar	
+603	Koor	Südofter-Inseln	Wasser	wejer	wejer	
+603	Watubella	Südofter-Inseln	Wasser	aar	aar	
+603	Goram	Südofter-Inseln	Wasser	ahraar	ahraar	
+603	Karufa	Neuguinea	Wasser	ualar	ualar	
+603	Nufoor	Neuguinea	Wasser	waar	waar	
+603	Andai	Neuguinea	Wasser	wam	wam	
+603	Hattam	Neuguinea	Wasser	menaija	menaija	
+603	Humboldtbai	Neuguinea	Wasser	naan	naan	
