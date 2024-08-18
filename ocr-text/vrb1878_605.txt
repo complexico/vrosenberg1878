@@ -39,98 +39,100 @@ Generated on 2024-07-09 03:37 GMT
 
 ## p. 605 (#645) ############################################
 
+URL: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=645
+
 605
-Malaienländer
-Singkel
-Banjak-Inseln
-Nias
-Mentawej
-Engano
-Gorontalo
-Togeaninseln
-Wammer
-Wonumbai
-Trangan
-Koor
-Tijoor
-Keiinseln
-Watubella
-Goraminseln
-Karufa
-Nufoor
-Andai
-Hattam
-Humboldtbai
-pendek
-troh
-wida
-atogo-dohgo
-tete
-kurz
-limbu-limbu
-but
-tomba
-kwamba
-uwaaibaar
-djaibi
-lang
-pandjang
-pandjang
-atarre
-enau
-narda
-haja-haja
-bloat
-marawar
-kwaim
-uwaai
-djainjia
-gut
-baik
-sochi
-mopiohu
-buk
-biebe
-barbor
-bainja
-schlecht
-bussuk
-lo-sochi
-mohlehto
-babur
-speer
-speerbaar
-bailis
-hell
-trang
-tarong
-madem
-mochaga
-mopato
-mobawango
-rarie
-reirarei
-rarie
-waléan
-massir
-massir
-niriawa
-mambri
-kassingbaar
-ninggaadbir
-dunkel
-glap
-glap
-melawa
-agomigohmi
-mogebgeb
-modiolomo
-démur
-hadjemmir
-démur
-dodonggaran
-glap
-momat
-ifnŭrep
-moor
-ngemuna
+<lang xml:lang="Malaienländer">Malaienländer</lang>
+<lang xml:lang="Singkel">Singkel</lang>
+<lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang>
+<lang xml:lang="Nias">Nias</lang>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang>
+<lang xml:lang="Engano">Engano</lang>
+<lang xml:lang="Gorontalo">Gorontalo</lang>
+<lang xml:lang="Togean-Inseln">Togean-Inseln</lang>
+<lang xml:lang="Wammer">Wammer</lang>
+<lang xml:lang="Wonumbai">Wonumbai</lang>
+<lang xml:lang="Trangan">Trangan</lang>
+<lang xml:lang="Koor">Koor</lang>
+<lang xml:lang="Tijoor">Tijoor</lang>
+<lang xml:lang="Kei-Inseln">Kei-Inseln</lang>
+<lang xml:lang="Watubella">Watubella</lang>
+<lang xml:lang="Goram">Goram</lang>
+<lang xml:lang="Karufa">Karufa</lang>
+<lang xml:lang="Nufoor">Nufoor</lang>
+<lang xml:lang="Andai">Andai</lang>
+<lang xml:lang="Hattam">Hattam</lang>
+<lang xml:lang="Humboldtbai">Humboldtbai</lang>
+<gloss xml:lang="Malaienländer" target="kurz">pendèk</gloss>
+<gloss xml:lang="Singkel" target="kurz">troh</gloss>
+<gloss xml:lang="Banjak-Inseln" target="kurz">wida</gloss>
+<gloss xml:lang="Nias" target="kurz">atogo-dohgo</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="kurz">tete</gloss>
+<term xml:id="kurz">kurz</term>
+<gloss xml:lang="Gorontalo" target="kurz">limbu-limbu</gloss>
+<gloss xml:lang="Kei-Inseln" target="kurz">but</gloss>
+<gloss xml:lang="Karufa" target="kurz">tomba</gloss>
+<gloss xml:lang="Nufoor" target="kurz">kwamba</gloss>
+<gloss xml:lang="Andai" target="kurz">uwaaibaar</gloss>
+<gloss xml:lang="Hattam" target="kurz">djaibi</gloss>
+<term xml:id="lang">lang</term>
+<gloss xml:lang="Malaienländer" target="lang">pandjang</gloss>
+<gloss xml:lang="Singkel" target="lang">pandjang</gloss>
+<gloss xml:lang="Banjak-Inseln" target="lang">atarre</gloss>
+<gloss xml:lang="Nias" target="lang">enau</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="lang">narda</gloss>
+<gloss xml:lang="Gorontalo" target="lang">haja-haja</gloss>
+<gloss xml:lang="Kei-Inseln" target="lang">bloat</gloss>
+<gloss xml:lang="Karufa" target="lang">marawar</gloss>
+<gloss xml:lang="Nufoor" target="lang">kwaim</gloss>
+<gloss xml:lang="Andai" target="lang">uwaai</gloss>
+<gloss xml:lang="Hattam" target="lang">djainjia</gloss>
+<term xml:id="gut">gut</term>
+<gloss xml:lang="Malaienländer" target="gut">baik</gloss>
+<gloss xml:lang="Nias" target="gut">sochi</gloss>
+<gloss xml:lang="Gorontalo" target="gut">mopiohu</gloss>
+<gloss xml:lang="Kei-Inseln" target="gut">buk</gloss>
+<gloss xml:lang="Nufoor" target="gut">biebe</gloss>
+<gloss xml:lang="Andai" target="gut">barbor</gloss>
+<gloss xml:lang="Hattam" target="gut">bainja</gloss>
+<term xml:id="schlecht">schlecht</term>
+<gloss xml:lang="Malaienländer" target="schlecht">bussuk</gloss>
+<gloss xml:lang="Nias" target="schlecht">lo-sochi</gloss>
+<gloss xml:lang="Gorontalo" target="schlecht">mohlehto</gloss>
+<gloss xml:lang="Kei-Inseln" target="schlecht">babur</gloss>
+<gloss xml:lang="Nufoor" target="schlecht">speer</gloss>
+<gloss xml:lang="Andai" target="schlecht">speerbaar</gloss>
+<gloss xml:lang="Hattam" target="schlecht">bailis</gloss>
+<term xml:id="hell">hell</term>
+<gloss xml:lang="Malaienländer" target="hell">trang</gloss>
+<gloss xml:lang="Singkel" target="hell">tarong</gloss>
+<gloss xml:lang="Banjak-Inseln" target="hell">madem</gloss>
+<gloss xml:lang="Nias" target="hell">mochaga</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="hell">mopato</gloss>
+<gloss xml:lang="Gorontalo" target="hell">mobawango</gloss>
+<gloss xml:lang="Wammer" target="hell">rarie</gloss>
+<gloss xml:lang="Wonumbai" target="hell">reirarei</gloss>
+<gloss xml:lang="Trangan" target="hell">rarie</gloss>
+<gloss xml:lang="Kei-Inseln" target="hell">waléan</gloss>
+<gloss xml:lang="Watubella" target="hell">massir</gloss>
+<gloss xml:lang="Goram" target="hell">massir</gloss>
+<gloss xml:lang="Karufa" target="hell">niriawa</gloss>
+<gloss xml:lang="Nufoor" target="hell">mambri</gloss>
+<gloss xml:lang="Andai" target="hell">kassingbaar</gloss>
+<gloss xml:lang="Hattam" target="hell">ninggaadbir</gloss>
+<term xml:id="dunkel">dunkel</term>
+<gloss xml:lang="Malaienländer" target="dunkel">glap</gloss>
+<gloss xml:lang="Singkel" target="dunkel">glap</gloss>
+<gloss xml:lang="Banjak-Inseln" target="dunkel">melawa</gloss>
+<gloss xml:lang="Nias" target="dunkel">agòmigohmi</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="dunkel">mogebgeb</gloss>
+<gloss xml:lang="Gorontalo" target="dunkel">modiolomo</gloss>
+<gloss xml:lang="Wammer" target="dunkel">démur</gloss>
+<gloss xml:lang="Wonumbai" target="dunkel">hadjemmir</gloss>
+<gloss xml:lang="Trangan" target="dunkel">démur</gloss>
+<gloss xml:lang="Watubella" target="dunkel">dodonggaran</gloss>
+<gloss xml:lang="Goram" target="dunkel">glap</gloss>
+<gloss xml:lang="Karufa" target="dunkel">momat</gloss>
+<gloss xml:lang="Nufoor" target="dunkel">ifnŭrep</gloss>
+<gloss xml:lang="Andai" target="dunkel">moor</gloss>
+<gloss xml:lang="Hattam" target="dunkel">ngemuna</gloss>
