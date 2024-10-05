@@ -27,18 +27,18 @@ Steps :
 
 - use ~ to indicate repduplication in Malay source form
 
-- search for language
+1. search for language
 
     - S: \b(Malaienl.+?|Singkel|Banjak-Inseln|Nias|Mentawej-Inseln|Engano|Gorontalo|Togean-Inseln|Wammer|Wonumbai|Trangan|Koor|Tijoor|Kei-Inseln|Watubella|Goram|Karufa|Nufoor|Andai|Hattam|Humboldtbai)\b
     - R: <lang xml:lang="\1">\1</lang>
 
-- search for the term/German:
+2. search for the term/German:
 
     - S: page-dependent: \b(...)\b
 
     - R: <term xml:id="\1">\1</term>
 
-- (alternative 1) search for the form:
+3.1 (alternative 1) search for the form:
 
     - S: \b(...)\b
 
@@ -46,4 +46,4 @@ Steps :
 
     - R: <gloss xml:lang="" target="" change="">\1</gloss>
 
-- (alternative 2: better ?) search for the form WITH LANGUAGE CONSTANT
+3.2 (alternative 2: better ?) search for the form WITH LANGUAGE CONSTANT
