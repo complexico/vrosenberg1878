@@ -38,130 +38,131 @@ Generated on 2024-07-09 03:38 GMT
 
 
 ## p. 608 (#648) ############################################
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=648
 
 608
 I
-stehlen
-Malaienländer mentjurie
-menangko
-Singkel
-Banjak-Inseln
-Nias
-Mentawej
-Engano
-Gorontalo
-Togean
-Wammer
-Wonumbai
-Trangan
-Koor
-Tijoor
-Keiinseln
-Watubella
-Goraminseln
-Karufa
-Nufoor
-Andai
-Hattam
-Humboldtbai
-menāgo
-menango
-pabeha
-motao
-denangar
-djananga
-nanga
-bleus
-tahelèus
-krau
-kerri
-ujaja
-gehen
-berdjallan
-midallan
-lumalao
-fahnno
-bedutui
-edi-edi
-molalar
-tabanan
-kubana
-kubana
-tageb
-tagie
-atbah
-dafanna
-tatagi
-teitangki
-nebraan
-kaar
-naauwaan
-stehen
-bediri
-tgendag
-omiedu
-medijio
-suruke
-hehelu
-dimuhulo
-tartamère
-kordamerer
-kordamerer
-merierie
-tamaririe
-teimeriedi
-orès
-kaas
-njauweh
-schlafen
-tidohr
-niorla
-morro
-mereb
-panuko
-modoluhu
-porre
-dehnie
-konie
-monin
-toba
-gehit
-entub
-dunef
-teihi
-dedumdumba
-enèf
-komaboon
-njemana
-anu
-sehen
-lihat
-tengen
-feigi
-djo
-pipinai
-moohnto
-dasei
-deüssi
-dèssé
-takon
-enkiïd
-issinie
-tetoöl
-teiti
-mam
-kasiehm
-njingǎdei
-wendu
-sprechen
-bielang
-kata
-mohōdè
-tibboi
-pagunan
-moloïja
-mottatoi
-iwar
-bebisjara
-kaparaap.
-njebuahmbu
+<term xml:id="stehlen">stehlen</term>
+<lang xml:lang="Malaienländer">Malaienländer</lang> <gloss xml:lang="Malaienländer" target="stehlen">mentjurie</gloss>
+<gloss xml:lang="Singkel" target="stehlen">menangko</gloss>
+<lang xml:lang="Singkel">Singkel</lang>
+<lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang>
+<lang xml:lang="Nias">Nias</lang>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang>
+<lang xml:lang="Engano">Engano</lang>
+<lang xml:lang="Gorontalo">Gorontalo</lang>
+<lang xml:lang="Togean-Inseln">Togean-Inseln</lang>
+<lang xml:lang="Wammer">Wammer</lang>
+<lang xml:lang="Wonumbai">Wonumbai</lang>
+<lang xml:lang="Trangan">Trangan</lang>
+<lang xml:lang="Koor">Koor</lang>
+<lang xml:lang="Tijoor">Tijoor</lang>
+<lang xml:lang="Kei-Inseln">Kei-Inseln</lang>
+<lang xml:lang="Watubella">Watubella</lang>
+<lang xml:lang="Goram">Goram</lang>
+<lang xml:lang="Karufa">Karufa</lang>
+<lang xml:lang="Nufoor">Nufoor</lang>
+<lang xml:lang="Andai">Andai</lang>
+<lang xml:lang="Hattam">Hattam</lang>
+<lang xml:lang="Humboldtbai">Humboldtbai</lang>
+<gloss xml:lang="Nias" target="stehlen">menāgo</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="stehlen">menango</gloss>
+<gloss xml:lang="Engano" target="stehlen">pabeha</gloss>
+<gloss xml:lang="Gorontalo" target="stehlen">motao</gloss>
+<gloss xml:lang="Wammer" target="stehlen">denangar</gloss>
+<gloss xml:lang="Wonumbai" target="stehlen">djananga</gloss>
+<gloss xml:lang="Trangan" target="stehlen">nanga</gloss>
+<gloss xml:lang="Tijoor" target="stehlen">bleus</gloss>
+<gloss xml:lang="Goram" target="stehlen">tahelèus</gloss>
+<gloss xml:lang="Nufoor" target="stehlen">krau</gloss>
+<gloss xml:lang="Andai" target="stehlen">kerri</gloss>
+<gloss xml:lang="Hattam" target="stehlen">ujaja</gloss>
+<term xml:id="gehen">gehen</term>
+<gloss xml:lang="Malaienländer" target="gehen" change="berdjallan">berdjalan</gloss>
+<gloss xml:lang="Singkel" target="gehen" change="midallan">midalan</gloss>
+<gloss xml:lang="Banjak-Inseln" target="gehen">lumalao</gloss>
+<gloss xml:lang="Nias" target="gehen">fahnno</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="gehen">bedutui</gloss>
+<gloss xml:lang="Engano" target="gehen">edi-edi</gloss>
+<gloss xml:lang="Gorontalo" target="gehen">molalar</gloss>
+<gloss xml:lang="Wammer" target="gehen">tabanan</gloss>
+<gloss xml:lang="Wonumbai" target="gehen">kubana</gloss>
+<gloss xml:lang="Trangan" target="gehen">kubana</gloss>
+<gloss xml:lang="Koor" target="gehen">tageb</gloss>
+<gloss xml:lang="Tijoor" target="gehen">tagie</gloss>
+<gloss xml:lang="Kei-Inseln" target="gehen">atbah</gloss>
+<gloss xml:lang="Watubella" target="gehen">dafanna</gloss>
+<gloss xml:lang="Goram" target="gehen">tatagi</gloss>
+<gloss xml:lang="Karufa" target="gehen">teitangki</gloss>
+<gloss xml:lang="Nufoor" target="gehen">nebraan</gloss>
+<gloss xml:lang="Andai" target="gehen">kaar</gloss>
+<gloss xml:lang="Hattam" target="gehen">naauwaan</gloss>
+<term xml:id="stehen">stehen</term>
+<gloss xml:lang="Malaienländer" target="stehen" change="bediri">berdiri</gloss>
+<gloss xml:lang="Singkel" target="stehen">tgendag</gloss>
+<gloss xml:lang="Banjak-Inseln" target="stehen">omiedu</gloss>
+<gloss xml:lang="Nias" target="stehen">medijio</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="stehen">suruke</gloss>
+<gloss xml:lang="Engano" target="stehen">hehelu</gloss>
+<gloss xml:lang="Gorontalo" target="stehen">dimuhulo</gloss>
+<gloss xml:lang="Wammer" target="stehen">tartamère</gloss>
+<gloss xml:lang="Wonumbai" target="stehen">kordamerer</gloss>
+<gloss xml:lang="Trangan" target="stehen">kordamerer</gloss>
+<gloss xml:lang="Tijoor" target="stehen">merierie</gloss>
+<gloss xml:lang="Goram" target="stehen">tamaririe</gloss>
+<gloss xml:lang="Karufa" target="stehen">teimeriedi</gloss>
+<gloss xml:lang="Nufoor" target="stehen">orès</gloss>
+<gloss xml:lang="Andai" target="stehen">kaas</gloss>
+<gloss xml:lang="Hattam" target="stehen">njauweh</gloss>
+<term xml:id="schlafen">schlafen</term>
+<gloss xml:lang="Malaienländer" target="schlafen" change="tidohr">tidor</gloss>
+<gloss xml:lang="Banjak-Inseln" target="schlafen">niorla</gloss>
+<gloss xml:lang="Nias" target="schlafen">morro</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="schlafen">mereb</gloss>
+<gloss xml:lang="Engano" target="schlafen">panuko</gloss>
+<gloss xml:lang="Gorontalo" target="schlafen">modoluhu</gloss>
+<gloss xml:lang="Togean-Inseln" target="schlafen">porre</gloss>
+<gloss xml:lang="Wammer" target="schlafen">dehnie</gloss>
+<gloss xml:lang="Wonumbai" target="schlafen">konie</gloss>
+<gloss xml:lang="Trangan" target="schlafen">monin</gloss>
+<gloss xml:lang="Koor" target="schlafen">toba</gloss>
+<gloss xml:lang="Tijoor" target="schlafen">gehit</gloss>
+<gloss xml:lang="Kei-Inseln" target="schlafen">entub</gloss>
+<gloss xml:lang="Watubella" target="schlafen">dunēf</gloss>
+<gloss xml:lang="Goram" target="schlafen">teihi</gloss>
+<gloss xml:lang="Karufa" target="schlafen">dedumdumba</gloss>
+<gloss xml:lang="Nufoor" target="schlafen">enèf</gloss>
+<gloss xml:lang="Andai" target="schlafen">komaboon</gloss>
+<gloss xml:lang="Hattam" target="schlafen">njemana</gloss>
+<gloss xml:lang="Humboldtbai" target="schlafen">anu</gloss>
+<term xml:id="sehen">sehen</term>
+<gloss xml:lang="Malaienländer" target="sehen">lihat</gloss>
+<gloss xml:lang="Singkel" target="sehen">tengen</gloss>
+<gloss xml:lang="Nias" target="sehen">feigi</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="sehen">djo</gloss>
+<gloss xml:lang="Engano" target="sehen">pipinai</gloss>
+<gloss xml:lang="Gorontalo" target="sehen">moohnto</gloss>
+<gloss xml:lang="Wammer" target="sehen">dasei</gloss>
+<gloss xml:lang="Wonumbai" target="sehen">deüssi</gloss>
+<gloss xml:lang="Trangan" target="sehen">dèssé</gloss>
+<gloss xml:lang="Tijoor" target="sehen">takon</gloss>
+<gloss xml:lang="Kei-Inseln" target="sehen">enkiïd</gloss>
+<gloss xml:lang="Watubella" target="sehen">issinie</gloss>
+<gloss xml:lang="Goram" target="sehen">tetoöl</gloss>
+<gloss xml:lang="Karufa" target="sehen">teiti</gloss>
+<gloss xml:lang="Nufoor" target="sehen">mam</gloss>
+<gloss xml:lang="Andai" target="sehen">kasiehm</gloss>
+<gloss xml:lang="Hattam" target="sehen">njingǎdei</gloss>
+<gloss xml:lang="Humboldtbai" target="sehen">wendu</gloss>
+<term xml:id="sprechen">sprechen</term>
+<gloss xml:lang="Malaienländer" target="sprechen">bielang</gloss>
+<gloss xml:lang="Singkel" target="sprechen">kata</gloss>
+<gloss xml:lang="Nias" target="sprechen">mohōdè</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="sprechen">tibboi</gloss>
+<gloss xml:lang="Engano" target="sprechen">pagunan</gloss>
+<gloss xml:lang="Gorontalo" target="sprechen">moloïja</gloss>
+<gloss xml:lang="Togean-Inseln" target="sprechen">mottatoi</gloss>
+<gloss xml:lang="Karufa" target="sprechen">iwar</gloss>
+<gloss xml:lang="Nufoor" target="sprechen">bebisjara</gloss>
+<gloss xml:lang="Andai" target="sprechen">kaparaap</gloss>
+<gloss xml:lang="Hattam" target="sprechen">njebuahmbu</gloss>

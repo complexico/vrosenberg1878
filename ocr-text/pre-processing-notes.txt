@@ -46,4 +46,6 @@ Steps :
 
     - R: <gloss xml:lang="" target="" change="">\1</gloss>
 
-3.2 (alternative 2: better ?) search for the form WITH LANGUAGE CONSTANT
+    The `change=...` attribute is used to place the original form that is changed and taggedǃ (see e.g., the structure for anak laki-laki ini p. 598).
+
+3.2 (alternative 2: better ?) search for the form (and changing the term/German in the replace field according to the form) and WITH LANGUAGE CONSTANT
