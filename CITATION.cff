@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Digitised comparative word list derived from von
+  Rosenberg's “Der Malayische Archipel: Land und Leute in
+  Schilderungen, gesammelt während eines driessig-jährigen
+  Aufenhaltes in den Kolonien” from 1878.
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: University of Oxford & Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/YFEKV
+    description: Open Science Framework
+repository-code: 'https://github.com/complexico/vrosenberg1878'
+repository: 'https://doi.org/10.17605/OSF.IO/YFEKV'
+keywords:
+  - lexical database
+  - comparative wordlist
+  - old wordlist
+  - legacy materials
+  - Indonesian languages
+  - Carl Herman von Rosenberg
+  - CompLexico
+  - Enggano
+  - Enggano language
+  - Barrier island languages
+license: CC-BY-NC-4.0
+version: 0.0.1
+date-released: '2024-12-28'
