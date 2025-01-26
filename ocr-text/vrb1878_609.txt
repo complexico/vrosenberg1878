@@ -38,54 +38,55 @@ Generated on 2024-07-09 03:38 GMT
 
 
 ## p. 609 (#649) ############################################
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=649
 
 609
-Malaienländer
-Singkel
-Banjak-Inseln
-Nias
-Mentawej
-Engano
-Gorontalo
-Togean
-Wammer
-Wonumbai
-Trangan
-Koor
-Tijoor
-Keiinseln
-Watubella
-Goraminseln
-Karufa
-Nufoor
-Andai
-Hattam
-Humboldtbai
-lachen
-tatahwa
-tatawa
-amehgun
-maigi
-gahgah
-nchoha
-moiï
-moggeele
+<lang xml:lang="Malaienländer">Malaienländer</lang>
+<lang xml:lang="Singkel">Singkel</lang>
+<lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang>
+<lang xml:lang="Nias">Nias</lang>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang>
+<lang xml:lang="Engano">Engano</lang>
+<lang xml:lang="Gorontalo">Gorontalo</lang>
+<lang xml:lang="Togean-Inseln">Togean-Inseln</lang>
+<lang xml:lang="Wammer">Wammer</lang>
+<lang xml:lang="Wonumbai">Wonumbai</lang>
+<lang xml:lang="Trangan">Trangan</lang>
+<lang xml:lang="Koor">Koor</lang>
+<lang xml:lang="Tijoor">Tijoor</lang>
+<lang xml:lang="Kei-Inseln">Kei-Inseln</lang>
+<lang xml:lang="Watubella">Watubella</lang>
+<lang xml:lang="Goram">Goram</lang>
+<lang xml:lang="Karufa">Karufa</lang>
+<lang xml:lang="Nufoor">Nufoor</lang>
+<lang xml:lang="Andai">Andai</lang>
+<lang xml:lang="Hattam">Hattam</lang>
+<lang xml:lang="Humboldtbai">Humboldtbai</lang>
+<term xml:id="lachen">lachen</term>
+<gloss xml:lang="Malaienländer" target="lachen">tatahwa</gloss>
+<gloss xml:lang="Singkel" target="lachen">tatawa</gloss>
+<gloss xml:lang="Banjak-Inseln" target="lachen">amehgun</gloss>
+<gloss xml:lang="Nias" target="lachen">maigi</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="lachen">gahgah</gloss>
+<gloss xml:lang="Engano" target="lachen">nehoha</gloss>
+<gloss xml:lang="Gorontalo" target="lachen">moiï</gloss>
+<gloss xml:lang="Togean-Inseln" target="lachen">moggeele</gloss>
 malit
 triweriwi
 mbrief
 kapra
 njupa
-tödten
-bunu
-bunu
-bunu
-bunu
-melotje
-pedudiahn
-dofundie
-dofundie
-dirfun
-tarun
+<term xml:id="tödten">tödten</term>
+<gloss xml:lang="Malaienländer" target="tödten">bunu</gloss>
+<gloss xml:lang="Singkel" target="tödten">bunu</gloss>
+<gloss xml:lang="Banjak-Inseln" target="tödten">bunu</gloss>
+<gloss xml:lang="Nias" target="tödten">bunu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="tödten">melotje</gloss>
+<gloss xml:lang="Engano" target="tödten">pedudiahn</gloss>
+<gloss xml:lang="Wammer" target="tödten">dofundie</gloss>
+<gloss xml:lang="Wonumbai" target="tödten">dofundie</gloss>
+<gloss xml:lang="Trangan" target="tödten">dirfun</gloss>
+<gloss xml:lang="Koor" target="tödten">tarun</gloss>
 grimati
 bunie
 tataara
@@ -94,19 +95,19 @@ perum
 kapaan
 njetauda
 mabu
-essen
-makan
-mangan
-mangan
-många
-mokom
-fakinono
-monga
-mokoni
-dammenam
-komenam
-momenam
-segaan
+<term xml:id="essen">essen</term>
+<gloss xml:lang="Malaienländer" target="essen">makan</gloss>
+<gloss xml:lang="Singkel" target="essen">mangan</gloss>
+<gloss xml:lang="Banjak-Inseln" target="essen">mangan</gloss>
+<gloss xml:lang="Nias" target="essen">mǎnga</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="essen">mokom</gloss>
+<gloss xml:lang="Engano" target="essen">fakinono</gloss>
+<gloss xml:lang="Gorontalo" target="essen">monga</gloss>
+<gloss xml:lang="Togean-Inseln" target="essen">mokoni</gloss>
+<gloss xml:lang="Wammer" target="essen">dammenam</gloss>
+<gloss xml:lang="Wonumbai" target="essen">komenam</gloss>
+<gloss xml:lang="Trangan" target="essen">momenam</gloss>
+<gloss xml:lang="Koor" target="essen">segaan</gloss>
 gahanga
 maua
 taumenia
@@ -114,19 +115,19 @@ teika
 aan
 keëm
 nejemą
-trinken
-minum
-minum
-uh
-bahdu
-loh
-indjoh
-mongilu
-mangino
-dran
-kohn
-mon
-tiehn
+<term xml:id="trinken">trinken</term>
+<gloss xml:lang="Malaienländer" target="trinken">minum</gloss>
+<gloss xml:lang="Singkel" target="trinken">minum</gloss>
+<gloss xml:lang="Banjak-Inseln" target="trinken">uh</gloss>
+<gloss xml:lang="Nias" target="trinken">bahdu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="trinken">loh</gloss>
+<gloss xml:lang="Engano" target="trinken">indjoh</gloss>
+<gloss xml:lang="Gorontalo" target="trinken">mongilu</gloss>
+<gloss xml:lang="Togean-Inseln" target="trinken">mangino</gloss>
+<gloss xml:lang="Wammer" target="trinken">dran</gloss>
+<gloss xml:lang="Wonumbai" target="trinken">kohn</gloss>
+<gloss xml:lang="Trangan" target="trinken">mon</gloss>
+<gloss xml:lang="Koor" target="trinken">tiehn</gloss>
 mnimon
 tihnu
 deimu
@@ -135,33 +136,33 @@ teinum
 ienem
 koot
 indumiegjai
-schlagen
-pukul
-pulul
-hantam
-bidji
-bohbo
-mobombatie
-dagoh
-kogohlie
-kogohlie
+<term xml:id="schlagen">schlagen</term>
+<gloss xml:lang="Malaienländer" target="schlagen">pukul</gloss>
+<gloss xml:lang="Singkel" target="schlagen">pulul</gloss>
+<gloss xml:lang="Banjak-Inseln" target="schlagen">hantam</gloss>
+<gloss xml:lang="Nias" target="schlagen">bidji</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="schlagen">bohbo</gloss>
+<gloss xml:lang="Togean-Inseln" target="schlagen">mobombatie</gloss>
+<gloss xml:lang="Wammer" target="schlagen">dagoh</gloss>
+<gloss xml:lang="Wonumbai" target="schlagen">kogohlie</gloss>
+<gloss xml:lang="Trangan" target="schlagen">kogohlie</gloss>
 malsawu
 tehaas
 misingie
 breer
 batiëp
 nataima
-kaufen
-bǝlie
-tobor
-belie
-mobohli
-menginang
-pahgélie
-niotalie
-dagoh
-kogohlie
-kogohlie
+<term xml:id="kaufen">kaufen</term>
+<gloss xml:lang="Malaienländer" target="kaufen">bəlie</gloss>
+<gloss xml:lang="Singkel" target="kaufen">tobor</gloss>
+<gloss xml:lang="Banjak-Inseln" target="kaufen">belie</gloss>
+<gloss xml:lang="Nias" target="kaufen">mobohli</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="kaufen">menginang</gloss>
+<gloss xml:lang="Engano" target="kaufen">pahgélie</gloss>
+<gloss xml:lang="Gorontalo" target="kaufen">niotalie</gloss>
+<gloss xml:lang="Wammer" target="kaufen">dagoh</gloss>
+<gloss xml:lang="Wonumbai" target="kaufen">kogohlie</gloss>
+<gloss xml:lang="Trangan" target="kaufen">kogohlie</gloss>
 emfuhah
 malsawu
 tehaas
