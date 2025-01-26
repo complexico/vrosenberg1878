@@ -3,7 +3,7 @@ library(tidyverse)
 vrfiles <- dir("ocr-text", pattern = "^vrb", full.names = TRUE)
 
 # Remember to edit the pattern to grep based on the updated, tagged OCR file.
-inpfiles <- grep("(598|599|600|601|602|603|604|605|606|607|608)\\.txt", vrfiles, perl = TRUE, value = TRUE)
+inpfiles <- grep("(598|599|600|601|602|603|604|605|606|607|608|609|610)\\.txt", vrfiles, perl = TRUE, value = TRUE)
 inpfiles
 pages <- str_extract(inpfiles, "(?<=_)[0-9]{3}(?=\\.txt)")
 
