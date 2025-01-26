@@ -1126,6 +1126,13 @@ Pages	Language	LanguageGroup	German	Forms	OldFormOrig	OldFormChange
 610	Wammer	Aru-Inseln	gelb	erkunin	erkunin	
 610	Wonumbai	Aru-Inseln	gelb	erkunina	erkunina	
 610	Trangan	Aru-Inseln	gelb	kunkunir	kunkunir	
+610	Kei-Inseln	Südofter-Inseln	gelb	tohm	tohm	
+610	Watubella	Südofter-Inseln	gelb	uning	uning	
+610	Goram	Südofter-Inseln	gelb	uning	uning	
+610	Karufa	Neuguinea	gelb	unie	unie	
+610	Nufoor	Neuguinea	gelb	namiar	namiar	
+610	Andai	Neuguinea	gelb	sieën	sieën	
+610	Hattam	Neuguinea	gelb	nengoja	nengoja	
 610	Malaienländer	Sumātra	ja	ada	ada	
 610	Singkel	Sumātra	ja	neh	ueh	neh
 610	Banjak-Inseln	Inselgruppen weftlich von Sumātra	ja	enga	enga	
@@ -1133,6 +1140,10 @@ Pages	Language	LanguageGroup	German	Forms	OldFormOrig	OldFormChange
 610	Nias	Inselgruppen weftlich von Sumātra	ja	eh	eh	
 610	Engano	Inselgruppen weftlich von Sumātra	ja	oh	oh	
 610	Gorontalo	Selēbes	ja	oö	00	oö
+610	Karufa	Neuguinea	ja	oro	oro	
+610	Nufoor	Neuguinea	ja	ju	ju	
+610	Andai	Neuguinea	ja	karuwer	karuwer	
+610	Hattam	Neuguinea	ja	ju	ju	
 610	Malaienländer	Sumātra	nein	trahda	trahda	
 610	Singkel	Sumātra	nein	malle	malle	
 610	Banjak-Inseln	Inselgruppen weftlich von Sumātra	nein	baon	baon	
@@ -1140,6 +1151,10 @@ Pages	Language	LanguageGroup	German	Forms	OldFormOrig	OldFormChange
 610	Nias	Inselgruppen weftlich von Sumātra	nein	lō-ǒ	10-0	lō-ǒ
 610	Engano	Inselgruppen weftlich von Sumātra	nein	keba	keba	
 610	Gorontalo	Selēbes	nein	jahlo	jahlo	
+610	Karufa	Neuguinea	nein	maratei	maratei	
+610	Nufoor	Neuguinea	nein	roba	roba	
+610	Andai	Neuguinea	nein	eibaar	eibaar	
+610	Hattam	Neuguinea	nein	hibi	hibi	
 610	Malaienländer	Sumātra	roth	mejrab	mejrab	
 610	Singkel	Sumātra	roth	bara	bara	
 610	Banjak-Inseln	Inselgruppen weftlich von Sumātra	roth	awahla	awahla	
@@ -1152,6 +1167,14 @@ Pages	Language	LanguageGroup	German	Forms	OldFormOrig	OldFormChange
 610	Wonumbai	Aru-Inseln	roth	koikoi	koikoi	
 610	Trangan	Aru-Inseln	roth	koikoi	koikoi	
 610	Koor	Südofter-Inseln	roth	wulwuhl	wulwuhl	
+610	Tijoor	Südofter-Inseln	roth	merra	merra	
+610	Kei-Inseln	Südofter-Inseln	roth	wulwul	wulwul	
+610	Watubella	Südofter-Inseln	roth	tatai	tatai	
+610	Goram	Südofter-Inseln	roth	mehra	mehra	
+610	Karufa	Neuguinea	roth	oamba	oamba	
+610	Nufoor	Neuguinea	roth	piërper	piërper	
+610	Andai	Neuguinea	roth	retau	retau	
+610	Hattam	Neuguinea	roth	mengojaan	mengojaan	
 610	Malaienländer	Sumātra	schwarz	hitam	hitam	
 610	Singkel	Sumātra	schwarz	berang	berang	
 610	Banjak-Inseln	Inselgruppen weftlich von Sumātra	schwarz	medem	medem	
@@ -1164,6 +1187,14 @@ Pages	Language	LanguageGroup	German	Forms	OldFormOrig	OldFormChange
 610	Wonumbai	Aru-Inseln	schwarz	borie	borie	
 610	Trangan	Aru-Inseln	schwarz	burrie	burrie	
 610	Koor	Südofter-Inseln	schwarz	midan	midan	
+610	Tijoor	Südofter-Inseln	schwarz	medan	medan	
+610	Kei-Inseln	Südofter-Inseln	schwarz	métan	métan	
+610	Watubella	Südofter-Inseln	schwarz	meétten	meétten	
+610	Goram	Südofter-Inseln	schwarz	mèttan	mèttan	
+610	Karufa	Neuguinea	schwarz	meita	meita	
+610	Nufoor	Neuguinea	schwarz	paisim	paisim	
+610	Andai	Neuguinea	schwarz	geroom	geroom	
+610	Hattam	Neuguinea	schwarz	nemunaan	nemunaan	
 610	Malaienländer	Sumātra	weiss	puti	puti	
 610	Singkel	Sumātra	weiss	benda	benda	
 610	Banjak-Inseln	Inselgruppen weftlich von Sumātra	weiss	maodin	maodin	
@@ -1174,3 +1205,11 @@ Pages	Language	LanguageGroup	German	Forms	OldFormOrig	OldFormChange
 610	Wammer	Aru-Inseln	weiss	erren	erren	
 610	Wonumbai	Aru-Inseln	weiss	erren	erren	
 610	Trangan	Aru-Inseln	weiss	ereren	ereren	
+610	Tijoor	Südofter-Inseln	weiss	mahudi	mahudi	
+610	Kei-Inseln	Südofter-Inseln	weiss	ngingiar	ngingiar	
+610	Watubella	Südofter-Inseln	weiss	mafuti	mafuti	
+610	Goram	Südofter-Inseln	weiss	mahuti	mahuti	
+610	Karufa	Neuguinea	weiss	raha	raha	
+610	Nufoor	Neuguinea	weiss	piupper	piupper	
+610	Andai	Neuguinea	weiss	paau	paau	
+610	Hattam	Neuguinea	weiss	netniënja	netniënja	

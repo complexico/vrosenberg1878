@@ -75,14 +75,14 @@ https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=650
 <gloss xml:lang="Wonumbai" target="roth">koikoi</gloss>
 <gloss xml:lang="Trangan" target="roth">koikoi</gloss>
 <gloss xml:lang="Koor" target="roth">wulwuhl</gloss>
-merra
-wulwul
-tatai
-mehra
-oamba
-piërper
-retau
-mengojaan
+<gloss xml:lang="Tijoor" target="roth">merra</gloss>
+<gloss xml:lang="Kei-Inseln" target="roth">wulwul</gloss>
+<gloss xml:lang="Watubella" target="roth">tatai</gloss>
+<gloss xml:lang="Goram" target="roth">mehra</gloss>
+<gloss xml:lang="Karufa" target="roth">oamba</gloss>
+<gloss xml:lang="Nufoor" target="roth">piërper</gloss>
+<gloss xml:lang="Andai" target="roth">retau</gloss>
+<gloss xml:lang="Hattam" target="roth">mengojaan</gloss>
 <term xml:id="weiss">weiss</term>
 <gloss xml:lang="Malaienländer" target="weiss">puti</gloss>
 <gloss xml:lang="Singkel" target="weiss">benda</gloss>
@@ -94,14 +94,14 @@ mengojaan
 <gloss xml:lang="Wammer" target="weiss">erren</gloss>
 <gloss xml:lang="Wonumbai" target="weiss">erren</gloss>
 <gloss xml:lang="Trangan" target="weiss">ereren</gloss>
-mahudi
-ngingiar
-mafuti
-mahuti
-raha
-piupper
-paau
-netniënja
+<gloss xml:lang="Tijoor" target="weiss">mahudi</gloss>
+<gloss xml:lang="Kei-Inseln" target="weiss">ngingiar</gloss>
+<gloss xml:lang="Watubella" target="weiss">mafuti</gloss>
+<gloss xml:lang="Goram" target="weiss">mahuti</gloss>
+<gloss xml:lang="Karufa" target="weiss">raha</gloss>
+<gloss xml:lang="Nufoor" target="weiss">piupper</gloss>
+<gloss xml:lang="Andai" target="weiss">paau</gloss>
+<gloss xml:lang="Hattam" target="weiss">netniënja</gloss>
 <term xml:id="schwarz">schwarz</term>
 <gloss xml:lang="Malaienländer" target="schwarz">hitam</gloss>
 <gloss xml:lang="Singkel" target="schwarz">berang</gloss>
@@ -115,14 +115,14 @@ netniënja
 <gloss xml:lang="Wonumbai" target="schwarz">borie</gloss>
 <gloss xml:lang="Trangan" target="schwarz">burrie</gloss>
 <gloss xml:lang="Koor" target="schwarz">midan</gloss>
-medan
-métan
-meétten
-mèttan
-meita
-paisim
-geroom
-nemunaan
+<gloss xml:lang="Tijoor" target="schwarz">medan</gloss>
+<gloss xml:lang="Kei-Inseln" target="schwarz">métan</gloss>
+<gloss xml:lang="Watubella" target="schwarz">meétten</gloss>
+<gloss xml:lang="Goram" target="schwarz">mèttan</gloss>
+<gloss xml:lang="Karufa" target="schwarz">meita</gloss>
+<gloss xml:lang="Nufoor" target="schwarz">paisim</gloss>
+<gloss xml:lang="Andai" target="schwarz">geroom</gloss>
+<gloss xml:lang="Hattam" target="schwarz">nemunaan</gloss>
 <term xml:id="gelb">gelb</term>
 <gloss xml:lang="Malaienländer" target="gelb">kuning</gloss>
 <gloss xml:lang="Singkel" target="gelb">gressing</gloss>
@@ -135,13 +135,13 @@ nemunaan
 <gloss xml:lang="Wammer" target="gelb">erkunin</gloss>
 <gloss xml:lang="Wonumbai" target="gelb">erkunina</gloss>
 <gloss xml:lang="Trangan" target="gelb">kunkunir</gloss>
-tohm
-uning
-uning
-unie
-namiar
-sieën
-nengoja
+<gloss xml:lang="Kei-Inseln" target="gelb">tohm</gloss>
+<gloss xml:lang="Watubella" target="gelb">uning</gloss>
+<gloss xml:lang="Goram" target="gelb">uning</gloss>
+<gloss xml:lang="Karufa" target="gelb">unie</gloss>
+<gloss xml:lang="Nufoor" target="gelb">namiar</gloss>
+<gloss xml:lang="Andai" target="gelb">sieën</gloss>
+<gloss xml:lang="Hattam" target="gelb">nengoja</gloss>
 <term xml:id="nein">nein</term>
 <gloss xml:lang="Malaienländer" target="nein">trahda</gloss>
 <gloss xml:lang="Singkel" target="nein">malle</gloss>
@@ -150,10 +150,10 @@ nengoja
 <gloss xml:lang="Mentawej-Inseln" target="nein">tamei</gloss>
 <gloss xml:lang="Engano" target="nein">keba</gloss>
 <gloss xml:lang="Gorontalo" target="nein">jahlo</gloss>
-maratei
-roba
-eibaar
-hibi
+<gloss xml:lang="Karufa" target="nein">maratei</gloss>
+<gloss xml:lang="Nufoor" target="nein">roba</gloss>
+<gloss xml:lang="Andai" target="nein">eibaar</gloss>
+<gloss xml:lang="Hattam" target="nein">hibi</gloss>
 <term xml:id="ja">ja</term>
 <gloss xml:lang="Malaienländer" target="ja">ada</gloss>
 <gloss xml:lang="Singkel" target="ja" change="ueh">neh</gloss>
@@ -162,7 +162,7 @@ hibi
 <gloss xml:lang="Mentawej-Inseln" target="ja">onon</gloss>
 <gloss xml:lang="Engano" target="ja">oh</gloss>
 <gloss xml:lang="Gorontalo" target="ja" change="00">oö</gloss>
-oro
-ju
-karuwer
-ju
+<gloss xml:lang="Karufa" target="ja">oro</gloss>
+<gloss xml:lang="Nufoor" target="ja">ju</gloss>
+<gloss xml:lang="Andai" target="ja">karuwer</gloss>
+<gloss xml:lang="Hattam" target="ja">ju</gloss>
