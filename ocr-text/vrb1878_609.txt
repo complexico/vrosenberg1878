@@ -71,11 +71,11 @@ https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=649
 <gloss xml:lang="Engano" target="lachen">nehoha</gloss>
 <gloss xml:lang="Gorontalo" target="lachen">moiï</gloss>
 <gloss xml:lang="Togean-Inseln" target="lachen">moggeele</gloss>
-malit
-triweriwi
-mbrief
-kapra
-njupa
+<gloss xml:lang="Kei-Inseln" target="lachen">malit</gloss>
+<gloss xml:lang="Karufa" target="lachen">triweriwi</gloss>
+<gloss xml:lang="Nufoor" target="lachen">mbrief</gloss>
+<gloss xml:lang="Andai" target="lachen">kapra</gloss>
+<gloss xml:lang="Hattam" target="lachen">njupa</gloss>
 <term xml:id="tödten">tödten</term>
 <gloss xml:lang="Malaienländer" target="tödten">bunu</gloss>
 <gloss xml:lang="Singkel" target="tödten">bunu</gloss>
@@ -87,14 +87,14 @@ njupa
 <gloss xml:lang="Wonumbai" target="tödten">dofundie</gloss>
 <gloss xml:lang="Trangan" target="tödten">dirfun</gloss>
 <gloss xml:lang="Koor" target="tödten">tarun</gloss>
-grimati
-bunie
-tataara
-tanamata
-perum
-kapaan
-njetauda
-mabu
+<gloss xml:lang="Kei-Inseln" target="tödten">grimati</gloss>
+<gloss xml:lang="Watubella" target="tödten">bunie</gloss>
+<gloss xml:lang="Goram" target="tödten">tataara</gloss>
+<gloss xml:lang="Karufa" target="tödten">tanamata</gloss>
+<gloss xml:lang="Nufoor" target="tödten">perum</gloss>
+<gloss xml:lang="Andai" target="tödten">kapaan</gloss>
+<gloss xml:lang="Hattam" target="tödten">njetauda</gloss>
+<gloss xml:lang="Humboldtbai" target="tödten">mabu</gloss>
 <term xml:id="essen">essen</term>
 <gloss xml:lang="Malaienländer" target="essen">makan</gloss>
 <gloss xml:lang="Singkel" target="essen">mangan</gloss>
@@ -108,13 +108,13 @@ mabu
 <gloss xml:lang="Wonumbai" target="essen">komenam</gloss>
 <gloss xml:lang="Trangan" target="essen">momenam</gloss>
 <gloss xml:lang="Koor" target="essen">segaan</gloss>
-gahanga
-maua
-taumenia
-teika
-aan
-keëm
-nejemą
+<gloss xml:lang="Tijoor" target="essen">gahanga</gloss>
+<gloss xml:lang="Watubella" target="essen">maua</gloss>
+<gloss xml:lang="Goram" target="essen">taumenia</gloss>
+<gloss xml:lang="Karufa" target="essen">teika</gloss>
+<gloss xml:lang="Nufoor" target="essen">aan</gloss>
+<gloss xml:lang="Andai" target="essen">keëm</gloss>
+<gloss xml:lang="Hattam" target="essen">nejemᶏ</gloss>
 <term xml:id="trinken">trinken</term>
 <gloss xml:lang="Malaienländer" target="trinken">minum</gloss>
 <gloss xml:lang="Singkel" target="trinken">minum</gloss>
@@ -128,14 +128,14 @@ nejemą
 <gloss xml:lang="Wonumbai" target="trinken">kohn</gloss>
 <gloss xml:lang="Trangan" target="trinken">mon</gloss>
 <gloss xml:lang="Koor" target="trinken">tiehn</gloss>
-mnimon
-tihnu
-deimu
-tinu
-teinum
-ienem
-koot
-indumiegjai
+<gloss xml:lang="Tijoor" target="trinken">mnimon</gloss>
+<gloss xml:lang="Kei-Inseln" target="trinken">tihnu</gloss>
+<gloss xml:lang="Watubella" target="trinken">deimu</gloss>
+<gloss xml:lang="Goram" target="trinken">tinu</gloss>
+<gloss xml:lang="Karufa" target="trinken">teinum</gloss>
+<gloss xml:lang="Nufoor" target="trinken">ienem</gloss>
+<gloss xml:lang="Andai" target="trinken">koot</gloss>
+<gloss xml:lang="Hattam" target="trinken">indumiegjai</gloss>
 <term xml:id="schlagen">schlagen</term>
 <gloss xml:lang="Malaienländer" target="schlagen">pukul</gloss>
 <gloss xml:lang="Singkel" target="schlagen">pulul</gloss>
@@ -146,12 +146,12 @@ indumiegjai
 <gloss xml:lang="Wammer" target="schlagen">dagoh</gloss>
 <gloss xml:lang="Wonumbai" target="schlagen">kogohlie</gloss>
 <gloss xml:lang="Trangan" target="schlagen">kogohlie</gloss>
-malsawu
-tehaas
-misingie
-breer
-batiëp
-nataima
+<gloss xml:lang="Watubella" target="schlagen">malsawu</gloss>
+<gloss xml:lang="Goram" target="schlagen">tehaas</gloss>
+<gloss xml:lang="Karufa" target="schlagen">misingie</gloss>
+<gloss xml:lang="Nufoor" target="schlagen">breer</gloss>
+<gloss xml:lang="Andai" target="schlagen">batiëp</gloss>
+<gloss xml:lang="Hattam" target="schlagen">nataima</gloss>
 <term xml:id="kaufen">kaufen</term>
 <gloss xml:lang="Malaienländer" target="kaufen">bəlie</gloss>
 <gloss xml:lang="Singkel" target="kaufen">tobor</gloss>
@@ -163,10 +163,10 @@ nataima
 <gloss xml:lang="Wammer" target="kaufen">dagoh</gloss>
 <gloss xml:lang="Wonumbai" target="kaufen">kogohlie</gloss>
 <gloss xml:lang="Trangan" target="kaufen">kogohlie</gloss>
-emfuhah
-malsawu
-tehaas
-tamangurie
-kobis
-kasup
-napaika
+<gloss xml:lang="Kei-Inseln" target="kaufen">emfuhah</gloss>
+<gloss xml:lang="Watubella" target="kaufen">malsawu</gloss>
+<gloss xml:lang="Goram" target="kaufen">tehaas</gloss>
+<gloss xml:lang="Karufa" target="kaufen">tamangurie</gloss>
+<gloss xml:lang="Nufoor" target="kaufen">kobis</gloss>
+<gloss xml:lang="Andai" target="kaufen">kasup</gloss>
+<gloss xml:lang="Hattam" target="kaufen">napaika</gloss>
