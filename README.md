@@ -38,9 +38,10 @@ public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostat
 
 ## Overview
 
-The current work in this repository is XML-tagging the relevant words
-(with their respective languages and German gloss) in the unstructured
-OCR output. The tagging is used to processed the OCR into a
+The current work in this repository ([Rajeg
+2024](#ref-Rajeg_Digitised_comparative_word_2024)) is XML-tagging the
+relevant words (with their respective languages and German gloss) in the
+unstructured OCR output. The tagging is used to processed the OCR into a
 [tibble/table](https://github.com/complexico/vrosenberg1878/blob/main/data/vrosenberg1878.tsv)
 (also work-in-progress). The comparative word list in von Rosenberg
 ([1878](#ref-vonrosenberg1878)) includes words from the Enggano language
@@ -60,6 +61,16 @@ Zobel, Charlotte Hemmings, I Wayan Arka & Mary Dalrymple. 2024. EnoLEX:
 A diachronic lexical database of the Enggano language. Online database.
 GitHub & Shiny web application: https://github.com/engganolang/enolex.
 <https://enggano.shinyapps.io/enolex/>.
+
+</div>
+
+<div id="ref-Rajeg_Digitised_comparative_word_2024" class="csl-entry">
+
+Rajeg, Gede Primahadi Wijaya. 2024. <span class="nocase">Digitised
+comparative word list derived from von Rosenberg’s “Der Malayische
+Archipel: Land und Leute in Schilderungen, gesammelt während eines
+driessig-jährigen Aufenhaltes in den Kolonien” from 1878.</span>
+<https://github.com/complexico/vrosenberg1878>.
 
 </div>
 

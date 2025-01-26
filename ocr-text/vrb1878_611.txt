@@ -38,130 +38,131 @@ Generated on 2024-07-09 03:39 GMT
 
 
 ## p. 611 (#651) ############################################
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=651
 
 1
 611
-Malaienländer
-Singkel
-Banjak-Inseln
-Nias
-Mentawej
-Engano
-Gorontalo
-Togean
-Wammer
-Wonumbai
-Trangan
-Koor
-Tijoor
-Keiinseln
+<lang xml:lang="Malaienländer">Malaienländer</lang>
+<lang xml:lang="Singkel">Singkel</lang>
+<lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang>
+<lang xml:lang="Nias">Nias</lang>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang>
+<lang xml:lang="Engano">Engano</lang>
+<lang xml:lang="Gorontalo">Gorontalo</lang>
+<lang xml:lang="Togean-Inseln">Togean-Inseln</lang>
+<lang xml:lang="Wammer">Wammer</lang>
+<lang xml:lang="Wonumbai">Wonumbai</lang>
+<lang xml:lang="Trangan">Trangan</lang>
+<lang xml:lang="Koor">Koor</lang>
+<lang xml:lang="Tijoor">Tijoor</lang>
+<lang xml:lang="Kei-Inseln">Kei-Inseln</lang>
 39*
-Watubella
-Goraminseln
-Karufa
-Nufoor
-Andai
-Hattam
-Humboldtbai
-ich
-gua
-aku
-rehu
-jaohto
-kai
-ua
-waü
-aku
-aku
-aku
-as
-la
-aja
-nanun
-noria
-du
-kweh
-rona
-riu
-jaohgo
-kam
-baräe
-ieo
-kani
-owèla
-kau
-au
-wei
-au
-uwaar
-biëh
-er
-dieja
-ieja
-dio
-jaïja
-kasia
-dé
-kotieje
-nai
-nai
-jai
-i
-lako
-i
-riën
-riena
-mein
-guapunja
-akudassa
-högu
-akusebakatnia
-ualaü
-kanan
-kanang
-kinang
-aümigu
-jed
-buni
-dedai
-1
-satu
-sada
-assa
-sara
-sara
-bahai
-oïnta
-issa
-ètu
-ètu
-ètu
-kélé
-sa
-famahej
-iha
-sa
-simoksi
-sai
-uëm
-ngoom
-.2
-dua
-dua
-dua
-dua
-donga.
-adua
-oluo
-dua
-rua
-ruep
-rua
-rua
-roti
-rua
-roti
-rueiti
-suru
-jaar
-njana
+<lang xml:lang="Watubella">Watubella</lang>
+<lang xml:lang="Goram">Goram</lang>
+<lang xml:lang="Karufa">Karufa</lang>
+<lang xml:lang="Nufoor">Nufoor</lang>
+<lang xml:lang="Andai">Andai</lang>
+<lang xml:lang="Hattam">Hattam</lang>
+<lang xml:lang="Humboldtbai">Humboldtbai</lang>
+<term xml:id="ich">ich</term>
+<gloss xml:lang="Malaienländer" target="ich">gua</gloss>
+<gloss xml:lang="Singkel" target="ich">aku</gloss>
+<gloss xml:lang="Banjak-Inseln" target="ich">rehu</gloss>
+<gloss xml:lang="Nias" target="ich">jaohto</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="ich">kai</gloss>
+<gloss xml:lang="Engano" target="ich">ua</gloss>
+<gloss xml:lang="Gorontalo" target="ich">waü</gloss>
+<gloss xml:lang="Wammer" target="ich">aku</gloss>
+<gloss xml:lang="Wonumbai" target="ich">aku</gloss>
+<gloss xml:lang="Trangan" target="ich">aku</gloss>
+<gloss xml:lang="Goram" target="ich">as</gloss>
+<gloss xml:lang="Karufa" target="ich">la</gloss>
+<gloss xml:lang="Nufoor" target="ich">aja</gloss>
+<gloss xml:lang="Andai" target="ich">nanun</gloss>
+<gloss xml:lang="Hattam" target="ich">noria</gloss>
+<term xml:id="du">du</term>
+<gloss xml:lang="Malaienländer" target="du">kweh</gloss>
+<gloss xml:lang="Singkel" target="du">rona</gloss>
+<gloss xml:lang="Banjak-Inseln" target="du">riu</gloss>
+<gloss xml:lang="Nias" target="du">jaohgo</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="du">kam</gloss>
+<gloss xml:lang="Engano" target="du">baräe</gloss>
+<gloss xml:lang="Gorontalo" target="du">ieo</gloss>
+<gloss xml:lang="Wammer" target="du">kani</gloss>
+<gloss xml:lang="Wonumbai" target="du">owèla</gloss>
+<gloss xml:lang="Trangan" target="du">kau</gloss>
+<gloss xml:lang="Goram" target="du">au</gloss>
+<gloss xml:lang="Karufa" target="du">wei</gloss>
+<gloss xml:lang="Nufoor" target="du">au</gloss>
+<gloss xml:lang="Andai" target="du">uwaar</gloss>
+<gloss xml:lang="Hattam" target="du">biëh</gloss>
+<term xml:id="er">er</term>
+<gloss xml:lang="Malaienländer" target="er">dieja</gloss>
+<gloss xml:lang="Singkel" target="er">ieja</gloss>
+<gloss xml:lang="Banjak-Inseln" target="er">dio</gloss>
+<gloss xml:lang="Nias" target="er">jaïja</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="er">kasia</gloss>
+<gloss xml:lang="Engano" target="er">dé</gloss>
+<gloss xml:lang="Gorontalo" target="er">kotieje</gloss>
+<gloss xml:lang="Wammer" target="er">nai</gloss>
+<gloss xml:lang="Wonumbai" target="er">nai</gloss>
+<gloss xml:lang="Trangan" target="er">jai</gloss>
+<gloss xml:lang="Goram" target="er">i</gloss>
+<gloss xml:lang="Karufa" target="er">lako</gloss>
+<gloss xml:lang="Nufoor" target="er">i</gloss>
+<gloss xml:lang="Andai" target="er">riën</gloss>
+<gloss xml:lang="Hattam" target="er">riena</gloss>
+<term xml:id="mein">mein</term>
+<gloss xml:lang="Malaienländer" target="mein" change="guapunja">gua punja</gloss>
+<gloss xml:lang="Singkel" target="mein">akudassa</gloss>
+<gloss xml:lang="Nias" target="mein">hōgu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="mein">akusebakatnia</gloss>
+<gloss xml:lang="Gorontalo" target="mein">ualaü</gloss>
+<gloss xml:lang="Wammer" target="mein">kanan</gloss>
+<gloss xml:lang="Wonumbai" target="mein">kanang</gloss>
+<gloss xml:lang="Trangan" target="mein">kinang</gloss>
+<gloss xml:lang="Goram" target="mein">aümigu</gloss>
+<gloss xml:lang="Nufoor" target="mein">jed</gloss>
+<gloss xml:lang="Andai" target="mein">buni</gloss>
+<gloss xml:lang="Hattam" target="mein">dedai</gloss>
+<term xml:id="1">1</term>
+<gloss xml:lang="Malaienländer" target="1">satu</gloss>
+<gloss xml:lang="Singkel" target="1">sada</gloss>
+<gloss xml:lang="Banjak-Inseln" target="1">assa</gloss>
+<gloss xml:lang="Nias" target="1">sara</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="1">sara</gloss>
+<gloss xml:lang="Engano" target="1">bahai</gloss>
+<gloss xml:lang="Gorontalo" target="1">oïnta</gloss>
+<gloss xml:lang="Togean-Inseln" target="1">issa</gloss>
+<gloss xml:lang="Wammer" target="1">ètu</gloss>
+<gloss xml:lang="Wonumbai" target="1">ètu</gloss>
+<gloss xml:lang="Trangan" target="1">ètu</gloss>
+<gloss xml:lang="Koor" target="1">kélé</gloss>
+<gloss xml:lang="Tijoor" target="1">sa</gloss>
+<gloss xml:lang="Kei-Inseln" target="1">famahej</gloss>
+<gloss xml:lang="Watubella" target="1">iha</gloss>
+<gloss xml:lang="Goram" target="1">sa</gloss>
+<gloss xml:lang="Karufa" target="1">simoksi</gloss>
+<gloss xml:lang="Nufoor" target="1">sai</gloss>
+<gloss xml:lang="Andai" target="1">uëm</gloss>
+<gloss xml:lang="Hattam" target="1">ngoom</gloss>
+<term xml:id="2">2</term>
+<gloss xml:lang="Malaienländer" target="2">dua</gloss>
+<gloss xml:lang="Singkel" target="2">dua</gloss>
+<gloss xml:lang="Banjak-Inseln" target="2">dua</gloss>
+<gloss xml:lang="Nias" target="2">dua</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="2" change="donga.">donga</gloss>
+<gloss xml:lang="Engano" target="2">adua</gloss>
+<gloss xml:lang="Gorontalo" target="2">oluo</gloss>
+<gloss xml:lang="Togean-Inseln" target="2">dua</gloss>
+<gloss xml:lang="Wammer" target="2">rua</gloss>
+<gloss xml:lang="Wonumbai" target="2">ruep</gloss>
+<gloss xml:lang="Trangan" target="2">rua</gloss>
+<gloss xml:lang="Koor" target="2">rua</gloss>
+<gloss xml:lang="Tijoor" target="2">roti</gloss>
+<gloss xml:lang="Watubella" target="2">rua</gloss>
+<gloss xml:lang="Goram" target="2">roti</gloss>
+<gloss xml:lang="Karufa" target="2">rueiti</gloss>
+<gloss xml:lang="Nufoor" target="2">suru</gloss>
+<gloss xml:lang="Andai" target="2">jaar</gloss>
+<gloss xml:lang="Hattam" target="2">njana</gloss>

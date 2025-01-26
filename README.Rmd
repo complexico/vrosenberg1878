@@ -32,6 +32,6 @@ This work is licensed under <a href="https://creativecommons.org/licenses/by-nc/
 
 ## Overview
 
-The current work in this repository is XML-tagging the relevant words (with their respective languages and German gloss) in the unstructured OCR output. The tagging is used to processed the OCR into a [tibble/table](https://github.com/complexico/vrosenberg1878/blob/main/data/vrosenberg1878.tsv) (also work-in-progress). The comparative word list in von Rosenberg [-@vonrosenberg1878] includes words from the Enggano language and they are included in the Shiny app of the [*EnoLEX*](https://enggano.shinyapps.io/enolex/) database [@krausse_enolex_2024; @rajeg_enolex_2024].
+The current work in this repository [@Rajeg_Digitised_comparative_word_2024] is XML-tagging the relevant words (with their respective languages and German gloss) in the unstructured OCR output. The tagging is used to processed the OCR into a [tibble/table](https://github.com/complexico/vrosenberg1878/blob/main/data/vrosenberg1878.tsv) (also work-in-progress). The comparative word list in von Rosenberg [-@vonrosenberg1878] includes words from the Enggano language and they are included in the Shiny app of the [*EnoLEX*](https://enggano.shinyapps.io/enolex/) database [@krausse_enolex_2024; @rajeg_enolex_2024].
 
 ## References
