@@ -72,9 +72,9 @@ https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=652
 <gloss xml:lang="Gorontalo" target="3">otohlu</gloss>
 <gloss xml:lang="Togean-Inseln" target="3">toga</gloss>
 <gloss xml:lang="Wammer" target="3">lasie</gloss>
-lasi
-lasie
-täl
+<gloss xml:lang="Wonumbai" target="3">lasi</gloss>
+<gloss xml:lang="Trangan" target="3">lasie</gloss>
+<gloss xml:lang="Koor" target="3">täl</gloss>
 tohlu
 tihlu
 tohlu
@@ -92,10 +92,10 @@ ningaai
 <gloss xml:lang="Engano" target="4">aopa</gloss>
 <gloss xml:lang="Gorontalo" target="4">opatto</gloss>
 <gloss xml:lang="Togean-Inseln" target="4">opo</gloss>
-ka
-kai
-kaua
-paät
+<gloss xml:lang="Wammer" target="4">ka</gloss>
+<gloss xml:lang="Wonumbai" target="4">kai</gloss>
+<gloss xml:lang="Trangan" target="4">kaua</gloss>
+<gloss xml:lang="Koor" target="4">paät</gloss>
 hat
 fatta
 haat
@@ -112,10 +112,10 @@ betai
 <gloss xml:lang="Engano" target="5">alieba</gloss>
 <gloss xml:lang="Gorontalo" target="5">olimo</gloss>
 <gloss xml:lang="Togean-Inseln" target="5">limo</gloss>
-lima
-lima
-lima
-lima
+<gloss xml:lang="Wammer" target="5">lima</gloss>
+<gloss xml:lang="Wonumbai" target="5">lima</gloss>
+<gloss xml:lang="Trangan" target="5">lima</gloss>
+<gloss xml:lang="Koor" target="5">lima</gloss>
 lim
 lima
 liem
@@ -132,10 +132,10 @@ muhing
 <gloss xml:lang="Engano" target="6">akiena</gloss>
 <gloss xml:lang="Gorontalo" target="6">olomo</gloss>
 <gloss xml:lang="Togean-Inseln" target="6">ono</gloss>
-dobu
-dubie
-dubie
-nähn
+<gloss xml:lang="Wammer" target="6">dobu</gloss>
+<gloss xml:lang="Wonumbai" target="6">dubie</gloss>
+<gloss xml:lang="Trangan" target="6">dubie</gloss>
+<gloss xml:lang="Koor" target="6">nähn</gloss>
 onon
 onon
 onon
@@ -152,10 +152,10 @@ bridagoom
 <gloss xml:lang="Engano" target="7">alieba-adua</gloss>
 <gloss xml:lang="Gorontalo" target="7">opitu</gloss>
 <gloss xml:lang="Togean-Inseln" target="7">pitu</gloss>
-doabem
-dubemie
-clubèm
-piet
+<gloss xml:lang="Wammer" target="7">doābem</gloss>
+<gloss xml:lang="Wonumbai" target="7">dubemie</gloss>
+<gloss xml:lang="Trangan" target="7" change="clubèm">dubèm</gloss>
+<gloss xml:lang="Koor" target="7">piet</gloss>
 fitu
 fitu
 fitu
@@ -172,10 +172,10 @@ briwébetaai
 <gloss xml:lang="Engano" target="8">alieba-akelu</gloss>
 <gloss xml:lang="Gorontalo" target="8">oalu</gloss>
 <gloss xml:lang="Togean-Inseln" target="8">wapu</gloss>
-karua
-karuë
-karua
-wah
+<gloss xml:lang="Wammer" target="8">karua</gloss>
+<gloss xml:lang="Wonumbai" target="8">karuë</gloss>
+<gloss xml:lang="Trangan" target="8">karua</gloss>
+<gloss xml:lang="Koor" target="8">wah</gloss>
 alu
 alu
 alu
