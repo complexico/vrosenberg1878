@@ -12,6 +12,16 @@ the_German_df <- the_German_df |>
                                       auth_key = deeplAPIkey,
                                       preserve_formatting = TRUE))
 
+# Error in `mutate()`:
+#   ℹ In argument: `English = deeplr::translate2(...)`.
+# Caused by error in `purrr::pmap_chr()`:
+#   ℹ In index: 31.
+# Caused by error in `response_check()`:
+#   ! Too many requests. Please wait and resend your request.
+# Run `rlang::last_trace()` to see where the error occurred.
+
+# There is the above error, hence decided to do it manually on DeepL page
+
 the_English <- vector(mode = "character", length = length(the_German))
 
 for (i in seq_along(the_German)) {

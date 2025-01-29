@@ -91,6 +91,17 @@ lang_term_gloss <- txt |>
   mutate(forms = if_else(form_change == "", form_orig, form_change)) |> 
   select(Pages = pp, Language = lang, LanguageGroup = Group, German = german, Forms = forms, OldFormOrig = form_orig, OldFormChange = form_change)
 
+# handling the English translation of the German gloss
+the_German <- read_lines("data/German_Gloss.txt")
+the_English <- read_lines("data/English_Translation") # From DeepL translator
+the_Indonesian <- read_lines("data/Indonesian_Translation") # From DeepL translator (German to Indonesian)
+the_Gloss <- tibble(German = the_German, English = the_English, Indonesian = the_Indonesian)
+
 # re-run this everytime a new page gets updated with tagging.
 lang_term_gloss |> 
+  # join the Gloss
+  left_join(the_Gloss) |> 
+  relocate(English, .after = German) |> 
+  relocate(Indonesian, .after = English) |> 
+  # relocate(Forms, .before = German) |> 
   write_tsv("data/vrosenberg1878.tsv")
