@@ -1,4 +1,6 @@
-Digitised comparative word list in von Rosenberg 1878
+Digitised comparative word list derived from von Rosenberg’s “Der
+Malayische Archipel: Land und Leute in Schilderungen, gesammelt während
+eines driessig-jährigen Aufenhaltes in den Kolonien” from 1878.
 ================
 [Gede Primahadi Wijaya
 Rajeg](https://www.ling-phil.ox.ac.uk/people/gede-rajeg)
@@ -29,11 +31,6 @@ Commons Attribution-NonCommercial 4.0 International
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/></a>
 
 </p>
-
-[![Project Status: WIP – Initial development is in progress, but there
-has not yet been a stable, usable release suitable for the
-public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-
 <!-- badges: end -->
 
 ## Overview
@@ -42,17 +39,35 @@ The current work in this repository ([Rajeg
 2024](#ref-Rajeg_Digitised_comparative_word_2024)) is XML-tagging the
 relevant words (with their respective languages and German gloss) in the
 unstructured OCR output. The tagging is used to processed the OCR into a
-[tibble/table](https://github.com/complexico/vrosenberg1878/blob/main/data/vrosenberg1878.tsv)
-(also work-in-progress). The comparative word list in von Rosenberg
+[tibble/table](https://github.com/complexico/vrosenberg1878/blob/main/data/vrosenberg1878.tsv).
+The comparative word list in von Rosenberg
 ([1878](#ref-vonrosenberg1878)) includes words from the Enggano language
 and they are included in the Shiny app of the
 [*EnoLEX*](https://enggano.shinyapps.io/enolex/) database ([Krauße et
 al. 2024](#ref-krausse_enolex_2024); [Rajeg, Krauße & Pramartha
 2024](#ref-rajeg_enolex_2024)).
 
+The column `OldFormOrig` in the
+[table](https://github.com/complexico/vrosenberg1878/blob/main/data/vrosenberg1878.tsv)
+contains the original form/spelling in the source text while the
+`OldFormChange` contains the changes made (e.g., typo correction,
+adjustment, OCR error fixing) on the original form/spelling.
+
+The `English` and `Indonesian` columns are translations in the two
+languages of the original German glosses of the forms. The translation
+was performed using the DeepL web translator.
+
+## Contributors
+
+| Name | GitHub user | Description | Role |
+|----|----|----|----|
+| Rajeg, Gede Primahadi Wijaya | gederajeg | Data Curator, Digitisation, Software, Archiving | Author |
+| Krauße, Daniel |  | Data source gathering | other |
+
 ## References
 
-<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="refs" class="references csl-bib-body hanging-indent"
+entry-spacing="0">
 
 <div id="ref-krausse_enolex_2024" class="csl-entry">
 
