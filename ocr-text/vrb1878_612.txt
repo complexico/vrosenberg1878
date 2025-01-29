@@ -38,39 +38,40 @@ Generated on 2024-07-09 03:40 GMT
 
 
 ## p. 612 (#652) ############################################
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=652
 
 612
-Malaienländer
-Singkel
-Banjak-Inseln
-Nias
-Mentawej
-Engano
-Gorontalo
-Togean
-Wammer
-Wonumbai
-Trangan
-Koor
-Tijoor
-Keiinseln
-Watubella
-Goraminseln
-Karufa
-Nufoor
-Andai
-Hattam
-Humboldtbai
-3
-tiga
-telu
-telu
-tehlu
-telo
-akalu
-otohlu
-toga
-lasie
+<lang xml:lang="Malaienländer">Malaienländer</lang>
+<lang xml:lang="Singkel">Singkel</lang>
+<lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang>
+<lang xml:lang="Nias">Nias</lang>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang>
+<lang xml:lang="Engano">Engano</lang>
+<lang xml:lang="Gorontalo">Gorontalo</lang>
+<lang xml:lang="Togean-Inseln">Togean-Inseln</lang>
+<lang xml:lang="Wammer">Wammer</lang>
+<lang xml:lang="Wonumbai">Wonumbai</lang>
+<lang xml:lang="Trangan">Trangan</lang>
+<lang xml:lang="Koor">Koor</lang>
+<lang xml:lang="Tijoor">Tijoor</lang>
+<lang xml:lang="Kei-Inseln">Kei-Inseln</lang>
+<lang xml:lang="Watubella">Watubella</lang>
+<lang xml:lang="Goram">Goram</lang>
+<lang xml:lang="Karufa">Karufa</lang>
+<lang xml:lang="Nufoor">Nufoor</lang>
+<lang xml:lang="Andai">Andai</lang>
+<lang xml:lang="Hattam">Hattam</lang>
+<lang xml:lang="Humboldtbai">Humboldtbai</lang>
+<term xml:id="3">3</term>
+<gloss xml:lang="Malaienländer" target="3">tiga</gloss>
+<gloss xml:lang="Singkel" target="3">telu</gloss>
+<gloss xml:lang="Banjak-Inseln" target="3">telu</gloss>
+<gloss xml:lang="Nias" target="3">tehlu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="3">telo</gloss>
+<gloss xml:lang="Engano" target="3">akalu</gloss>
+<gloss xml:lang="Gorontalo" target="3">otohlu</gloss>
+<gloss xml:lang="Togean-Inseln" target="3">toga</gloss>
+<gloss xml:lang="Wammer" target="3">lasie</gloss>
 lasi
 lasie
 täl
@@ -82,15 +83,15 @@ tohru
 kior
 kaar
 ningaai
-4
-ampat
-ampet
-ampe
-ofa
-epat
-aopa
-opatto
-оро
+<term xml:id="4">4</term>
+<gloss xml:lang="Malaienländer" target="4">ampat</gloss>
+<gloss xml:lang="Singkel" target="4">ampet</gloss>
+<gloss xml:lang="Banjak-Inseln" target="4">ampe</gloss>
+<gloss xml:lang="Nias" target="4">ofa</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="4">epat</gloss>
+<gloss xml:lang="Engano" target="4">aopa</gloss>
+<gloss xml:lang="Gorontalo" target="4">opatto</gloss>
+<gloss xml:lang="Togean-Inseln" target="4">opo</gloss>
 ka
 kai
 kaua
@@ -102,15 +103,15 @@ bahdi
 fiak
 taar
 betai
-5
-lima
-limau
-lima
-lima
-lima
-alieba
-olimo
-limo
+<term xml:id="5">5</term>
+<gloss xml:lang="Malaienländer" target="5">lima</gloss>
+<gloss xml:lang="Singkel" target="5">limau</gloss>
+<gloss xml:lang="Banjak-Inseln" target="5">lima</gloss>
+<gloss xml:lang="Nias" target="5">lima</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="5">lima</gloss>
+<gloss xml:lang="Engano" target="5">alieba</gloss>
+<gloss xml:lang="Gorontalo" target="5">olimo</gloss>
+<gloss xml:lang="Togean-Inseln" target="5">limo</gloss>
 lima
 lima
 lima
@@ -122,15 +123,15 @@ rimi
 rim
 meswai
 muhing
-6
-anam
-anam
-anam
-ono
-enen
-akiena
-olomo
-ono
+<term xml:id="6">6</term>
+<gloss xml:lang="Malaienländer" target="6">anam</gloss>
+<gloss xml:lang="Singkel" target="6">anam</gloss>
+<gloss xml:lang="Banjak-Inseln" target="6">anam</gloss>
+<gloss xml:lang="Nias" target="6">ono</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="6">enen</gloss>
+<gloss xml:lang="Engano" target="6">akiena</gloss>
+<gloss xml:lang="Gorontalo" target="6">olomo</gloss>
+<gloss xml:lang="Togean-Inseln" target="6">ono</gloss>
 dobu
 dubie
 dubie
@@ -142,15 +143,15 @@ rom-simoksi
 onem
 kassuēm
 bridagoom
-7
-tudju
-pitu
-fitu
-fitu
-pito
-alieba-adua
-opitu
-pitu
+<term xml:id="7">7</term>
+<gloss xml:lang="Malaienländer" target="7">tudju</gloss>
+<gloss xml:lang="Singkel" target="7">pitu</gloss>
+<gloss xml:lang="Banjak-Inseln" target="7">fitu</gloss>
+<gloss xml:lang="Nias" target="7">fitu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="7">pito</gloss>
+<gloss xml:lang="Engano" target="7">alieba-adua</gloss>
+<gloss xml:lang="Gorontalo" target="7">opitu</gloss>
+<gloss xml:lang="Togean-Inseln" target="7">pitu</gloss>
 doabem
 dubemie
 clubèm
@@ -162,15 +163,15 @@ rim-rueiti
 fik
 kassiaan
 briwébetaai
-$
-delapan
-walu
-walu
-walu
-walo
-alieba-akelu
-oalu
-wapu
+<term xml:id="8">8</term>
+<gloss xml:lang="Malaienländer" target="8">delapan</gloss>
+<gloss xml:lang="Singkel" target="8">walu</gloss>
+<gloss xml:lang="Banjak-Inseln" target="8">walu</gloss>
+<gloss xml:lang="Nias" target="8">walu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="8">walo</gloss>
+<gloss xml:lang="Engano" target="8">alieba-akelu</gloss>
+<gloss xml:lang="Gorontalo" target="8">oalu</gloss>
+<gloss xml:lang="Togean-Inseln" target="8">wapu</gloss>
 karua
 karuë
 karua
