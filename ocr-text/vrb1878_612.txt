@@ -75,14 +75,14 @@ https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=652
 <gloss xml:lang="Wonumbai" target="3">lasi</gloss>
 <gloss xml:lang="Trangan" target="3">lasie</gloss>
 <gloss xml:lang="Koor" target="3">täl</gloss>
-tohlu
-tihlu
-tohlu
-tohlu
-tohru
-kior
-kaar
-ningaai
+<gloss xml:lang="Tijoor" target="3">tohlu</gloss>
+<gloss xml:lang="Kei-Inseln" target="3">tihlu</gloss>
+<gloss xml:lang="Watubella" target="3">tohlu</gloss>
+<gloss xml:lang="Goram" target="3">tohlu</gloss>
+<gloss xml:lang="Karufa" target="3">tohru</gloss>
+<gloss xml:lang="Nufoor" target="3">kior</gloss>
+<gloss xml:lang="Andai" target="3">kaar</gloss>
+<gloss xml:lang="Hattam" target="3">ningaai</gloss>
 <term xml:id="4">4</term>
 <gloss xml:lang="Malaienländer" target="4">ampat</gloss>
 <gloss xml:lang="Singkel" target="4">ampet</gloss>
@@ -96,13 +96,13 @@ ningaai
 <gloss xml:lang="Wonumbai" target="4">kai</gloss>
 <gloss xml:lang="Trangan" target="4">kaua</gloss>
 <gloss xml:lang="Koor" target="4">paät</gloss>
-hat
-fatta
-haat
-bahdi
-fiak
-taar
-betai
+<gloss xml:lang="Tijoor" target="4">hat</gloss>
+<gloss xml:lang="Watubella" target="4">fatta</gloss>
+<gloss xml:lang="Goram" target="4">haat</gloss>
+<gloss xml:lang="Karufa" target="4">bahdi</gloss>
+<gloss xml:lang="Nufoor" target="4">fiak</gloss>
+<gloss xml:lang="Andai" target="4">taar</gloss>
+<gloss xml:lang="Hattam" target="4">betai</gloss>
 <term xml:id="5">5</term>
 <gloss xml:lang="Malaienländer" target="5">lima</gloss>
 <gloss xml:lang="Singkel" target="5">limau</gloss>
@@ -116,13 +116,13 @@ betai
 <gloss xml:lang="Wonumbai" target="5">lima</gloss>
 <gloss xml:lang="Trangan" target="5">lima</gloss>
 <gloss xml:lang="Koor" target="5">lima</gloss>
-lim
-lima
-liem
-rimi
-rim
-meswai
-muhing
+<gloss xml:lang="Tijoor" target="5">lim</gloss>
+<gloss xml:lang="Watubella" target="5">lima</gloss>
+<gloss xml:lang="Goram" target="5">liem</gloss>
+<gloss xml:lang="Karufa" target="5">rimi</gloss>
+<gloss xml:lang="Nufoor" target="5">rim</gloss>
+<gloss xml:lang="Andai" target="5">meswai</gloss>
+<gloss xml:lang="Hattam" target="5">muhing</gloss>
 <term xml:id="6">6</term>
 <gloss xml:lang="Malaienländer" target="6">anam</gloss>
 <gloss xml:lang="Singkel" target="6">anam</gloss>
@@ -136,13 +136,13 @@ muhing
 <gloss xml:lang="Wonumbai" target="6">dubie</gloss>
 <gloss xml:lang="Trangan" target="6">dubie</gloss>
 <gloss xml:lang="Koor" target="6">nähn</gloss>
-onon
-onon
-onon
-rom-simoksi
-onem
-kassuēm
-bridagoom
+<gloss xml:lang="Tijoor" target="6">onon</gloss>
+<gloss xml:lang="Watubella" target="6">onon</gloss>
+<gloss xml:lang="Goram" target="6">onon</gloss>
+<gloss xml:lang="Karufa" target="6">rom-simoksi</gloss>
+<gloss xml:lang="Nufoor" target="6">onem</gloss>
+<gloss xml:lang="Andai" target="6">kassuēm</gloss>
+<gloss xml:lang="Hattam" target="6">bridagoom</gloss>
 <term xml:id="7">7</term>
 <gloss xml:lang="Malaienländer" target="7">tudju</gloss>
 <gloss xml:lang="Singkel" target="7">pitu</gloss>
@@ -156,13 +156,13 @@ bridagoom
 <gloss xml:lang="Wonumbai" target="7">dubemie</gloss>
 <gloss xml:lang="Trangan" target="7" change="clubèm">dubèm</gloss>
 <gloss xml:lang="Koor" target="7">piet</gloss>
-fitu
-fitu
-fitu
-rim-rueiti
-fik
-kassiaan
-briwébetaai
+<gloss xml:lang="Tijoor" target="7">fitu</gloss>
+<gloss xml:lang="Watubella" target="7">fitu</gloss>
+<gloss xml:lang="Goram" target="7">fitu</gloss>
+<gloss xml:lang="Karufa" target="7">rim-rueiti</gloss>
+<gloss xml:lang="Nufoor" target="7">fik</gloss>
+<gloss xml:lang="Andai" target="7">kassiaan</gloss>
+<gloss xml:lang="Hattam" target="7">briwébetaai</gloss>
 <term xml:id="8">8</term>
 <gloss xml:lang="Malaienländer" target="8">delapan</gloss>
 <gloss xml:lang="Singkel" target="8">walu</gloss>
@@ -176,10 +176,10 @@ briwébetaai
 <gloss xml:lang="Wonumbai" target="8">karuë</gloss>
 <gloss xml:lang="Trangan" target="8">karua</gloss>
 <gloss xml:lang="Koor" target="8">wah</gloss>
-alu
-alu
-alu
-rim-tahru
-waar
-kaskaar
-briwéningaai
+<gloss xml:lang="Tijoor" target="8">alu</gloss>
+<gloss xml:lang="Watubella" target="8">alu</gloss>
+<gloss xml:lang="Goram" target="8">alu</gloss>
+<gloss xml:lang="Karufa" target="8">rim-tahru</gloss>
+<gloss xml:lang="Nufoor" target="8">waar</gloss>
+<gloss xml:lang="Andai" target="8">kaskaar</gloss>
+<gloss xml:lang="Hattam" target="8">briwéningaai</gloss>
