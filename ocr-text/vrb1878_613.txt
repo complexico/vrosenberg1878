@@ -38,140 +38,144 @@ Generated on 2024-07-09 03:40 GMT
 
 
 ## p. 613 (#653) ############################################
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=653
 
 613
-Malaienländer
-Singkel
-Banjak-Inseln
-Nias
-Mentawej
-Engano
-Gorontalo
-Togean
-Wammer
-Wonumbai
-Trangan
-Koor
-Tijoor
-Keiinseln
-Watubella
-Goraminseln
-Karufa
-Nufoor
-Andai
-Hattam
-Humboldtbai
-9
-sembielan
-siwah
-siwah
-siwa
-siwa
-alieba-aoza
-otiejo
-tjieo
-téra
-térei
-sehra
-siwah
-sla
-sia
-sla
-rim-bahdi
-siuh
-kastaar
-briwémenui
-10
-sapuhlu
-sapuhlu
-fuhlu
-fuhlu
-pulu
-tahapulu
-mopulu
-sampuiju
-ur
-uwafa
-urfafei
-sapul
-utjä
-utuha
-wutga
-putja
-samfur
-kameswai
-simnaai
-15
-lienablad
-sapuhlu-lima
-fuhlu-lima
-félé-lima
-pulu-limo
-tahapulu-alieba
-mopulu-wauwoli- dulapulu
-sampuiju-limo [modijompuiju
-urfafeige-melima ufaferua
-urfaferuë
-urfafeirua
-uwafa-melima
-urfafei-melima
-sapu-mělím
-utja-melim
-utua-melima
-wutja-silim
-putja-rimi
-20
-duapuhlu
-duapuhlu
-duafuhlu
-dua-fuhlu
-dongapulu
-kahai-takka
-samfur-sisserim
-meswai-paap
-simmuhing
-utrua
-uturua
-utrua
-wuturu
-siumput-rueiti
-samfur-di-suru
-remetaunjaan
-semenatjaan
-50
-limapuhlu
-limapuhlu
-limafuhlu
-limafuhlu
-limongapulu
-Aduai-takka-ka-
-hei-pulu
-limolopulu
-limopuiju
-·limaferua
-limaferua
-limafafeirua
-limapul
-limutja
-100
-saratus
-taratus
-saratus
-otu
-siegatu
-aliemai-takka
-mahètutto
-sadu
-ratieja
-ratieja
-ratieja
-raas
-rǎtja
-lima utuha
-liemwutja
-siumput-rimi
-samfur-di-rim utin
-remetau-meswai
-ratua
-råtga
-raht
+<lang xml:lang="Malaienländer">Malaienländer</lang>
+<lang xml:lang="Singkel">Singkel</lang>
+<lang xml:lang="Banjak-Inseln">Banjak-Inseln</lang>
+<lang xml:lang="Nias">Nias</lang>
+<lang xml:lang="Mentawej-Inseln">Mentawej-Inseln</lang>
+<lang xml:lang="Engano">Engano</lang>
+<lang xml:lang="Gorontalo">Gorontalo</lang>
+<lang xml:lang="Togean-Inseln">Togean-Inseln</lang>
+<lang xml:lang="Wammer">Wammer</lang>
+<lang xml:lang="Wonumbai">Wonumbai</lang>
+<lang xml:lang="Trangan">Trangan</lang>
+<lang xml:lang="Koor">Koor</lang>
+<lang xml:lang="Tijoor">Tijoor</lang>
+<lang xml:lang="Kei-Inseln">Kei-Inseln</lang>
+<lang xml:lang="Watubella">Watubella</lang>
+<lang xml:lang="Goram">Goram</lang>
+<lang xml:lang="Karufa">Karufa</lang>
+<lang xml:lang="Nufoor">Nufoor</lang>
+<lang xml:lang="Andai">Andai</lang>
+<lang xml:lang="Hattam">Hattam</lang>
+<lang xml:lang="Humboldtbai">Humboldtbai</lang>
+<term xml:id="9">9</term>
+<gloss xml:lang="Malaienländer" target="9">sembielan</gloss>
+<gloss xml:lang="Singkel" target="9">siwah</gloss>
+<gloss xml:lang="Banjak-Inseln" target="9">siwah</gloss>
+<gloss xml:lang="Nias" target="9">siwa</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="9">siwa</gloss>
+<gloss xml:lang="Engano" target="9">alieba-aoza</gloss>
+<gloss xml:lang="Gorontalo" target="9">otiejo</gloss>
+<gloss xml:lang="Togean-Inseln" target="9">tjieo</gloss>
+<gloss xml:lang="Wammer" target="9">téra</gloss>
+<gloss xml:lang="Wonumbai" target="9">térei</gloss>
+<gloss xml:lang="Trangan" target="9">sehra</gloss>
+<gloss xml:lang="Koor" target="9">siwah</gloss>
+<gloss xml:lang="Tijoor" target="9" change="sla">sia</gloss>
+<gloss xml:lang="Watubella" target="9">sia</gloss>
+<gloss xml:lang="Goram" target="9" change="sla">sia</gloss>
+<gloss xml:lang="Karufa" target="9">rim-bahdi</gloss>
+<gloss xml:lang="Nufoor" target="9">siuh</gloss>
+<gloss xml:lang="Andai" target="9">kastaar</gloss>
+<gloss xml:lang="Hattam" target="9">briwémenui</gloss>
+<term xml:id="10">10</term>
+<gloss xml:lang="Malaienländer" target="10">sapuhlu</gloss>
+<gloss xml:lang="Singkel" target="10">sapuhlu</gloss>
+<gloss xml:lang="Banjak-Inseln" target="10">fuhlu</gloss>
+<gloss xml:lang="Nias" target="10">fuhlu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="10">pulu</gloss>
+<gloss xml:lang="Engano" target="10">tahapulu</gloss>
+<gloss xml:lang="Gorontalo" target="10">mopulu</gloss>
+<gloss xml:lang="Togean-Inseln" target="10">sampuiju</gloss>
+<gloss xml:lang="Wammer" target="10">ur</gloss>
+<gloss xml:lang="Wonumbai" target="10">uwafa</gloss>
+<gloss xml:lang="Trangan" target="10">urfafei</gloss>
+<gloss xml:lang="Koor" target="10">sapul</gloss>
+<gloss xml:lang="Tijoor" target="10">utja</gloss>
+<gloss xml:lang="Watubella" target="10">utuha</gloss>
+<gloss xml:lang="Goram" target="10">wutga</gloss>
+<gloss xml:lang="Karufa" target="10">putja</gloss>
+<gloss xml:lang="Nufoor" target="10">samfur</gloss>
+<gloss xml:lang="Andai" target="10">kameswai</gloss>
+<gloss xml:lang="Hattam" target="10">simnaai</gloss>
+<term xml:id="15">15</term>
+<gloss xml:lang="Malaienländer" target="15">lienablad</gloss>
+<gloss xml:lang="Singkel" target="15">sapuhlu-lima</gloss>
+<gloss xml:lang="Banjak-Inseln" target="15">fuhlu-lima</gloss>
+<gloss xml:lang="Nias" target="15">félé-lima</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="15">pulu-limo</gloss>
+<gloss xml:lang="Engano" target="15">tahapulu-alieba</gloss>
+<gloss xml:lang="Gorontalo" target="15">mopulu-wauwolimo</gloss>- 
+<gloss xml:lang="Gorontalo" target="20">dulapulu</gloss>
+<gloss xml:lang="Togean-Inseln" target="15">sampuiju-limo</gloss> 
+<gloss xml:lang="Togean-Inseln" target="20" change="[modijompuiju">dijompuiju</gloss>
+<gloss xml:lang="Wammer" target="15">urfafeige-melima</gloss> 
+<gloss xml:lang="Wammer" target="20">ufaferua</gloss>
+<gloss xml:lang="Wonumbai" target="20">urfaferuë</gloss>
+<gloss xml:lang="Trangan" target="20">urfafeirua</gloss>
+<gloss xml:lang="Wonumbai" target="15">uwafa-melima</gloss>
+<gloss xml:lang="Trangan" target="15">urfafei-melima</gloss>
+<gloss xml:lang="Koor" target="15" change="sapu-mĕlím">sapu-melim</gloss>
+<gloss xml:lang="Tijoor" target="15">utja-melim</gloss>
+<gloss xml:lang="Watubella" target="15">utua-melima</gloss>
+<gloss xml:lang="Goram" target="15">wutja-silim</gloss>
+<gloss xml:lang="Karufa" target="15">putja-rimi</gloss>
+<term xml:id="20">20</term>
+<gloss xml:lang="Malaienländer" target="20">duapuhlu</gloss>
+<gloss xml:lang="Singkel" target="20">duapuhlu</gloss>
+<gloss xml:lang="Banjak-Inseln" target="20">duafuhlu</gloss>
+<gloss xml:lang="Nias" target="20">dua-fuhlu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="20">dongapulu</gloss>
+<gloss xml:lang="Engano" target="20">kahai-takka</gloss>
+<gloss xml:lang="Nufoor" target="15">samfur-sisserim</gloss>
+<gloss xml:lang="Andai" target="15">meswai-paap</gloss>
+<gloss xml:lang="Hattam" target="15">simmuhing</gloss>
+<gloss xml:lang="Koor" target="20">utrua</gloss>
+<gloss xml:lang="Tijoor" target="20">uturua</gloss>
+<gloss xml:lang="Watubella" target="20">utrua</gloss>
+<gloss xml:lang="Goram" target="20">wuturu</gloss>
+<gloss xml:lang="Karufa" target="20">siumput-rueiti</gloss>
+<gloss xml:lang="Nufoor" target="20">samfur-di-suru</gloss>
+<gloss xml:lang="Andai" target="20">remetaunjaan</gloss>
+<gloss xml:lang="Hattam" target="20">semenatjaan</gloss>
+<term xml:id="50">50</term>
+<gloss xml:lang="Malaienländer" target="50">limapuhlu</gloss>
+<gloss xml:lang="Singkel" target="50">limapuhlu</gloss>
+<gloss xml:lang="Banjak-Inseln" target="50">limafuhlu</gloss>
+<gloss xml:lang="Nias" target="50">limafuhlu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="50">limongapulu</gloss>
+<gloss xml:lang="Engano" target="50">Aduai-takka-kahei-pulu</gloss>
+<gloss xml:lang="Gorontalo" target="50">limolopulu</gloss>
+<gloss xml:lang="Togean-Inseln" target="50">limopuiju</gloss>
+<gloss xml:lang="Wammer" target="50">limaferua</gloss>
+<gloss xml:lang="Wonumbai" target="50">limaferua</gloss>
+<gloss xml:lang="Trangan" target="50">limafafeirua</gloss>
+<gloss xml:lang="Koor" target="50">limapul</gloss>
+<gloss xml:lang="Tijoor" target="50">limutja</gloss>
+<term xml:id="100">100</term>
+<gloss xml:lang="Malaienländer" target="100">saratus</gloss>
+<gloss xml:lang="Singkel" target="100">taratus</gloss>
+<gloss xml:lang="Banjak-Inseln" target="100">saratus</gloss>
+<gloss xml:lang="Nias" target="100">otu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="100">siegatu</gloss>
+<gloss xml:lang="Engano" target="100">aliemai-takka</gloss>
+<gloss xml:lang="Gorontalo" target="100">mahètutto</gloss>
+<gloss xml:lang="Togean-Inseln" target="100">sadu</gloss>
+<gloss xml:lang="Wammer" target="100">ratieja</gloss>
+<gloss xml:lang="Wonumbai" target="100">ratieja</gloss>
+<gloss xml:lang="Trangan" target="100">ratieja</gloss>
+<gloss xml:lang="Koor" target="100">raas</gloss>
+<gloss xml:lang="Tijoor" target="100">rătja</gloss>
+<gloss xml:lang="Watubella" target="50">lima utuha</gloss>
+<gloss xml:lang="Goram" target="50">liemwutja</gloss>
+<gloss xml:lang="Karufa" target="50">siumput-rimi</gloss>
+<gloss xml:lang="Nufoor" target="50">samfur-di-rim</gloss> 
+<gloss xml:lang="Nufoor" target="100">utin</gloss>
+<gloss xml:lang="Andai" target="50">remetau-meswai</gloss>
+<gloss xml:lang="Watubella" target="100">ratua</gloss>
+<gloss xml:lang="Goram" target="100">rătga</gloss>
+<gloss xml:lang="Karufa" target="100">raht</gloss>
