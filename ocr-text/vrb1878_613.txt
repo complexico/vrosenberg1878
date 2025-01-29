@@ -67,7 +67,7 @@ https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=653
 <gloss xml:lang="Singkel" target="9">siwah</gloss>
 <gloss xml:lang="Banjak-Inseln" target="9">siwah</gloss>
 <gloss xml:lang="Nias" target="9">siwa</gloss>
-<gloss xml:lang="Mentawej-Inslen" target="9">siwa</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="9">siwa</gloss>
 <gloss xml:lang="Engano" target="9">alieba-aoza</gloss>
 <gloss xml:lang="Gorontalo" target="9">otiejo</gloss>
 <gloss xml:lang="Togean-Inseln" target="9">tjieo</gloss>
@@ -87,7 +87,7 @@ https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=653
 <gloss xml:lang="Singkel" target="10">sapuhlu</gloss>
 <gloss xml:lang="Banjak-Inseln" target="10">fuhlu</gloss>
 <gloss xml:lang="Nias" target="10">fuhlu</gloss>
-<gloss xml:lang="Mentawej-Inslen" target="10">pulu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="10">pulu</gloss>
 <gloss xml:lang="Engano" target="10">tahapulu</gloss>
 <gloss xml:lang="Gorontalo" target="10">mopulu</gloss>
 <gloss xml:lang="Togean-Inseln" target="10">sampuiju</gloss>
@@ -107,7 +107,7 @@ https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=653
 <gloss xml:lang="Singkel" target="15">sapuhlu-lima</gloss>
 <gloss xml:lang="Banjak-Inseln" target="15">fuhlu-lima</gloss>
 <gloss xml:lang="Nias" target="15">félé-lima</gloss>
-<gloss xml:lang="Mentawej-Inslen" target="15">pulu-limo</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="15">pulu-limo</gloss>
 <gloss xml:lang="Engano" target="15">tahapulu-alieba</gloss>
 <gloss xml:lang="Gorontalo" target="15">mopulu-wauwolimo</gloss>- 
 <gloss xml:lang="Gorontalo" target="20">dulapulu</gloss>
@@ -129,7 +129,7 @@ https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=653
 <gloss xml:lang="Singkel" target="20">duapuhlu</gloss>
 <gloss xml:lang="Banjak-Inseln" target="20">duafuhlu</gloss>
 <gloss xml:lang="Nias" target="20">dua-fuhlu</gloss>
-<gloss xml:lang="Mentawej-Inslen" target="20">dongapulu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="20">dongapulu</gloss>
 <gloss xml:lang="Engano" target="20">kahai-takka</gloss>
 <gloss xml:lang="Nufoor" target="15">samfur-sisserim</gloss>
 <gloss xml:lang="Andai" target="15">meswai-paap</gloss>
@@ -147,7 +147,7 @@ https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=653
 <gloss xml:lang="Singkel" target="50">limapuhlu</gloss>
 <gloss xml:lang="Banjak-Inseln" target="50">limafuhlu</gloss>
 <gloss xml:lang="Nias" target="50">limafuhlu</gloss>
-<gloss xml:lang="Mentawej-Inslen" target="50">limongapulu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="50">limongapulu</gloss>
 <gloss xml:lang="Engano" target="50">Aduai-takka-kahei-pulu</gloss>
 <gloss xml:lang="Gorontalo" target="50">limolopulu</gloss>
 <gloss xml:lang="Togean-Inseln" target="50">limopuiju</gloss>
@@ -161,7 +161,7 @@ https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=653
 <gloss xml:lang="Singkel" target="100">taratus</gloss>
 <gloss xml:lang="Banjak-Inseln" target="100">saratus</gloss>
 <gloss xml:lang="Nias" target="100">otu</gloss>
-<gloss xml:lang="Mentawej-Inslen" target="100">siegatu</gloss>
+<gloss xml:lang="Mentawej-Inseln" target="100">siegatu</gloss>
 <gloss xml:lang="Engano" target="100">aliemai-takka</gloss>
 <gloss xml:lang="Gorontalo" target="100">mahètutto</gloss>
 <gloss xml:lang="Togean-Inseln" target="100">sadu</gloss>
