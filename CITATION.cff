@@ -15,8 +15,13 @@ authors:
   - given-names: Gede Primahadi Wijaya
     family-names: Rajeg
     email: primahadi_wijaya@unud.ac.id
-    affiliation: University of Oxford & Udayana University
+    affiliation: University of Oxford
     orcid: 'https://orcid.org/0000-0002-2047-8621'
+  - given-names: Daniel
+    family-names: Krauße
+    email: krausse.daniel@gmail.com
+    orcid: 'https://orcid.org/0000-0002-9340-6960'
+    affiliation: Centre National de la Recherche Scientifique
 identifiers:
   - type: doi
     value: 10.17605/OSF.IO/YFEKV
@@ -34,6 +39,10 @@ keywords:
   - Enggano
   - Enggano language
   - Barrier island languages
+  - Bahasa Enggano
+  - lexicology
+  - lexicography
+  - digital humanities
 license: CC-BY-NC-4.0
 version: 0.0.1
 date-released: '2024-12-28'
