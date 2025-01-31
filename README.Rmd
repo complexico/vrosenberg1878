@@ -26,6 +26,8 @@ This work is licensed under <a href="https://creativecommons.org/licenses/by-nc/
 
 </p>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14780144.svg)](https://doi.org/10.5281/zenodo.14780144)
+
 <!-- badges: end -->
 
 ## Overview

@@ -31,6 +31,9 @@ Commons Attribution-NonCommercial 4.0 International
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/></a>
 
 </p>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14780144.svg)](https://doi.org/10.5281/zenodo.14780144)
+
 <!-- badges: end -->
 
 ## Overview

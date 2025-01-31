@@ -8,7 +8,7 @@ title: >-
   Schilderungen, gesammelt während eines driessig-jährigen
   Aufenhaltes in den Kolonien” from 1878.
 message: >-
-  If you use this software, please cite it using the
+  If you use this dataset, please cite it using the
   metadata from this file.
 type: software
 authors:
@@ -24,10 +24,10 @@ authors:
     affiliation: Centre National de la Recherche Scientifique
 identifiers:
   - type: doi
-    value: 10.17605/OSF.IO/YFEKV
-    description: Open Science Framework
+    value: 10.5281/zenodo.14780144
+    description: Zenodo
 repository-code: 'https://github.com/complexico/vrosenberg1878'
-repository: 'https://doi.org/10.17605/OSF.IO/YFEKV'
+repository: 'https://doi.org/10.5281/zenodo.14780144'
 keywords:
   - lexical database
   - comparative wordlist
@@ -44,5 +44,5 @@ keywords:
   - lexicography
   - digital humanities
 license: CC-BY-NC-4.0
-version: 0.0.1
+version: 1.0.0
 date-released: '2024-12-28'
