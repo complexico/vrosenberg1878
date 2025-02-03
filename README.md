@@ -40,7 +40,7 @@ Commons Attribution-NonCommercial 4.0 International
 ## How to cite
 
 Please cite the source of the data set ([Rosenberg
-1878](#ref-vonrosenberg1878)) (if in in APA7<sup>th</sup>) and the
+1878](#ref-vonrosenberg1878)) (if in APA7<sup>th</sup>) and the
 particular version of this repository ([Rajeg & Krauße
 2024](#ref-rajeg_digitised_2024)) (in
 [DataCite](https://support.datacite.org/docs/data-citation)) as follows:
@@ -88,11 +88,14 @@ was performed using the DeepL web translator.
 
 The grouping of the individual language (captured in [this code
 line](https://github.com/complexico/vrosenberg1878/blob/main/pre-processing.R#L42))
-into its larger group is based on (i) the description
+into its larger group is based on the mapping
+[here](https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=637);
+in that mapping page, the *Kei-Inslen* appears not to be linked to a
+group but, based on the description
 [here](https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=355&q1=Kei-Inseln)
 (cf. from the third sentence of the first paragraph, of the sub-section
-titled *Geographische Uebersicht*) and (ii) the mapping
-[here](https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=637&q1=Kei-Inseln).
+titled *Geographische Uebersicht*), it is closer to the
+*Südoster-Inseln*.
 
 ## Contributors
 
