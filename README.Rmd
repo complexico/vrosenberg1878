@@ -42,13 +42,22 @@ For future updates and version of records, please check the [Releases](https://g
 
 ## Overview
 
-The work in this repository involves XML-tagging the relevant words (with their respective languages and German gloss) in the unstructured OCR output. The tagging is used to processed the OCR into a [tibble/table](https://github.com/complexico/vrosenberg1878/blob/main/data/vrosenberg1878.tsv) with an [R scripts](https://github.com/complexico/vrosenberg1878/blob/main/pre-processing.R). The comparative word list in von Rosenberg [-@vonrosenberg1878] includes words from the Enggano language and they are included in the Shiny app of the [*EnoLEX*](https://enggano.shinyapps.io/enolex/) online database [@krause_enolex_2024; @rajeg_enolex_2024].
+The work in this repository involves XML-tagging the relevant words (with their respective languages and German gloss) in the unstructured OCR output. The tagging is used to processed the OCR into a [tibble/table](https://github.com/complexico/vrosenberg1878/blob/main/data/vrosenberg1878.tsv) with an [R scripts](https://github.com/complexico/vrosenberg1878/blob/main/pre-processing.R). The comparative word list in von Rosenberg [-@vonrosenberg1878] includes words from the Enggano language and they are included in the Shiny app of the [*EnoLEX*](https://enggano.shinyapps.io/enolex/) online database [@krause_enolex_2024; @rajeg_enolex_2024]. The list of other languages (and their corresponding Glottocodes as laid out [here](https://glottolog.org/resource/reference/id/112913)) can be seen in the map below.
 
 The column `OldFormOrig` in the [table](https://github.com/complexico/vrosenberg1878/blob/main/data/vrosenberg1878.tsv) contains the original form/spelling in the source text while the `OldFormChange` contains the changes made (e.g., typo correction, adjustment, OCR error fixing) on the original form/spelling.
 
 The `English` and `Indonesian` columns are translations in the two languages of the original German glosses of the forms. The translation was performed using the DeepL web translator.
 
 The grouping of the individual language (captured in [this code line](https://github.com/complexico/vrosenberg1878/blob/main/pre-processing.R#L42)) into its larger group is based on the mapping [here](https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=637); in that mapping page, the _Kei-Inslen_ appears not to be linked to a group but, based on the description [here](https://babel.hathitrust.org/cgi/pt?id=mdp.39015065356076&seq=355&q1=Kei-Inseln) (cf. from the third sentence of the first paragraph, of the sub-section titled _Geographische Uebersicht_), it is closer to the _Südoster-Inseln_.
+
+```{r, echo=FALSE}
+#| label: fig-map
+
+knitr::include_graphics("img/language-map.png")
+```
+
+
+
 
 ## Contributors
 

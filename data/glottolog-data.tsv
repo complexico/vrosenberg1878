@@ -1,0 +1,16 @@
+ID	Name	Macroarea	Latitude	Longitude	Glottocode	ISO639P3code	LL_Code	Classification	Family_Glottocode	Family_Name	Language_Glottocode	Language_Name	Level	Status
+hata1243	Hatam	Papunesia	-1.13531	134.037	hata1243	had	had	hata1242	hata1242	Hatam-Mansim	hata1243	Hatam	language	threatened
+mans1260	Mansim	Papunesia	-0.915054	134.011116	mans1260	NA	NA	hata1242	hata1242	Hatam-Mansim	mans1260	Mansim	language	moribund
+engg1245	Enggano	Papunesia	-5.38846	102.245	engg1245	eno	eno;engg	aust1307/mala1545	aust1307	Austronesian	engg1245	Enggano	language	shifting
+ment1249	Mentawai	Papunesia	-1.41092	98.9401	ment1249	mwv	ment;mwv	aust1307/mala1545/nort2829/nucl1463/ment1248	aust1307	Austronesian	ment1249	Mentawai	language	not endangered
+nias1242	Nias	Papunesia	0.90691	97.4961	nias1242	nia	nia	aust1307/mala1545/nort2829/nucl1463/ment1248/nias1241	aust1307	Austronesian	nias1242	Nias	language	not endangered
+toba1266	Tobati	Papunesia	-2.56434	140.71	toba1266	tti	tti	aust1307/mala1545/cent2237/east2712/ocea1241/west2818/nort3206/sarm1241/jaya1243	aust1307	Austronesian	toba1266	Tobati	language	moribund
+biak1248	Biak	Papunesia	-0.9523	135.879	biak1248	bhw	bhw	aust1307/mala1545/cent2237/east2712/sout2850/sout3229/cend1238/biak1249/biak1250	aust1307	Austronesian	biak1248	Biak	language	moribund
+teor1240	Teor	Papunesia	-4.74159	131.737	teor1240	tev	tev	aust1307/mala1545/cent2237/cent2245/cent2254/teor1239	aust1307	Austronesian	teor1240	Teor	language	threatened
+kurr1245	Kur	Papunesia	-5.34077	131.986	kurr1245	kuv	kuv	aust1307/mala1545/cent2237/cent2245/cent2254/teor1239	aust1307	Austronesian	kurr1245	Kur	language	threatened
+watu1247	Watubela	Papunesia	-4.47294	131.641	watu1247	wah	wah	aust1307/mala1545/cent2237/cent2245/cent2254/east2466/band1354/gese1239	aust1307	Austronesian	watu1247	Watubela	language	not endangered
+gese1240	Geser-Gorom	Papunesia	-3.8016	130.701	gese1240	ges	ges;gego	aust1307/mala1545/cent2237/cent2245/cent2254/east2466/band1354/gese1239/gese1241	aust1307	Austronesian	gese1240	Geser-Gorom	language	not endangered
+west2538	West Tarangan	Papunesia	-6.62046	134.168	west2538	txn	txn	aust1307/mala1545/cent2237/cent2245/aruu1241	aust1307	Austronesian	west2538	West Tarangan	language	threatened
+mano1275	Manombai	Papunesia	-5.94468	134.329	mano1275	woo	woo	aust1307/mala1545/cent2237/cent2245/aruu1241/cent2309	aust1307	Austronesian	mano1275	Manombai	language	not endangered
+urua1244	Uruangnirin	Papunesia	-3.45498	132.745	urua1244	urn	urn	aust1307/mala1545/cent2237/cent2245/keit1238/yamd1241/onin1244	aust1307	Austronesian	urua1244	Uruangnirin	language	shifting
+goro1259	Gorontalo	Papunesia	0.62689	122.288	goro1259	gor	gor	aust1307/mala1545/grea1284/goro1257/goro1273	aust1307	Austronesian	goro1259	Gorontalo	language	threatened
