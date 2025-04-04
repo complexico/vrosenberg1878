@@ -1,5 +1,4 @@
 library(tidyverse)
-library(maps)
 library(ggrepel)
 
 vrfiles <- dir("ocr-text", pattern = "^vrb", full.names = TRUE)
@@ -52,9 +51,9 @@ glottocode <- data.frame(Glottocode = c("._.", "._.", "._.", "Mentawai_ment1249"
 
 
 # get the relevant Glottocodes
-read_csv("data/glottolog-languoids-glottolog-glottolog-d9da5e2.csv") |> 
-  filter(Glottocode %in% glottocode$Glottocode) |> 
-  write_tsv("data/glottolog-data.tsv")
+# read_csv("data/glottolog-languoids-glottolog-glottolog-d9da5e2.csv") |> 
+#   filter(Glottocode %in% glottocode$Glottocode) |> 
+#   write_tsv("data/glottolog-data.tsv")
 glottoloc <- read_tsv("data/glottolog-data.tsv") |> 
   select(-ID)
 
