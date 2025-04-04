@@ -74,7 +74,10 @@ The comparative word list in von Rosenberg
 and they are included in the Shiny app of the
 [*EnoLEX*](https://enggano.shinyapps.io/enolex/) online database
 ([Krauße et al. 2024](#ref-krause_enolex_2024); [Rajeg, Krauße &
-Pramartha 2024](#ref-rajeg_enolex_2024)).
+Pramartha 2024](#ref-rajeg_enolex_2024)). The list of other languages
+(and their corresponding Glottocodes as laid out
+[here](https://glottolog.org/resource/reference/id/112913)) can be seen
+in the map below.
 
 The column `OldFormOrig` in the
 [table](https://github.com/complexico/vrosenberg1878/blob/main/data/vrosenberg1878.tsv)
@@ -97,16 +100,19 @@ group but, based on the description
 titled *Geographische Uebersicht*), it is closer to the
 *Südoster-Inseln*.
 
+<img src="img/language-map.png" width="7200" />
+
 ## Contributors
 
-| Name                         | GitHub user | Description                                    | Role   |
-|------------------------------|-------------|------------------------------------------------|--------|
-| Rajeg, Gede Primahadi Wijaya | gederajeg   | Data Curator, XML-tagging, Software, Archiving | Author |
-| Krauße, Daniel               |             | Data Curator                                   | Author |
+| Name | GitHub user | Description | Role |
+|----|----|----|----|
+| Rajeg, Gede Primahadi Wijaya | gederajeg | Data Curator, XML-tagging, Software, Archiving | Author |
+| Krauße, Daniel |  | Data Curator | Author |
 
 ## References
 
-<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="refs" class="references csl-bib-body hanging-indent"
+entry-spacing="0">
 
 <div id="ref-krause_enolex_2024" class="csl-entry">
 
